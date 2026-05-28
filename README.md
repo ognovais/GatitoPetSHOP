@@ -46,12 +46,6 @@ Desenvolver habilidades em:
 
 ---
 
-## 🔗 Acesso ao dashboard
-
-👉 [Visualizar Dashboard](Gatito Petshop.pbix)
-
----
-
 ## 📌 Observações
 
 Este projeto possui finalidade educacional e foi desenvolvido para composição de portfólio.
