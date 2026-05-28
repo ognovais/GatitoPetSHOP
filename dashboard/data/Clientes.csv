@@ -1,0 +1,5405 @@
+ID Consumidor,Gênero,Estado civil,Pets,Bairro
+3,F,Casado(a),1,Itaquera
+62,F,Casado(a),1,Itaquera
+91,F,Casado(a),1,Itaquera
+160,F,Casado(a),1,Itaquera
+169,F,Casado(a),1,Itaquera
+177,F,Casado(a),1,Itaquera
+182,F,Casado(a),1,Itaquera
+190,F,Casado(a),1,Itaquera
+229,F,Casado(a),1,Itaquera
+304,F,Casado(a),1,Itaquera
+317,F,Casado(a),1,Itaquera
+319,F,Casado(a),1,Itaquera
+341,F,Casado(a),1,Itaquera
+346,F,Casado(a),1,Itaquera
+369,F,Casado(a),1,Itaquera
+392,F,Casado(a),1,Itaquera
+411,F,Casado(a),1,Itaquera
+448,F,Casado(a),1,Itaquera
+472,F,Casado(a),1,Itaquera
+533,F,Casado(a),1,Itaquera
+698,F,Casado(a),1,Itaquera
+719,F,Casado(a),1,Itaquera
+774,F,Casado(a),1,Itaquera
+828,F,Casado(a),1,Itaquera
+968,F,Casado(a),1,Itaquera
+1024,F,Casado(a),1,Itaquera
+1052,F,Casado(a),1,Itaquera
+1168,F,Casado(a),1,Itaquera
+1205,F,Casado(a),1,Itaquera
+1221,F,Casado(a),1,Itaquera
+1254,F,Casado(a),1,Itaquera
+1313,F,Casado(a),1,Itaquera
+1485,F,Casado(a),1,Itaquera
+1531,F,Casado(a),1,Itaquera
+1583,F,Casado(a),1,Itaquera
+1607,F,Casado(a),1,Itaquera
+1647,F,Casado(a),1,Itaquera
+1659,F,Casado(a),1,Itaquera
+1807,F,Casado(a),1,Itaquera
+1940,F,Casado(a),1,Itaquera
+1987,F,Casado(a),1,Itaquera
+1996,F,Casado(a),1,Itaquera
+2059,F,Casado(a),1,Itaquera
+2084,F,Casado(a),1,Itaquera
+2248,F,Casado(a),1,Itaquera
+2420,F,Casado(a),1,Itaquera
+2438,F,Casado(a),1,Itaquera
+2667,F,Casado(a),1,Itaquera
+2750,F,Casado(a),1,Itaquera
+2821,F,Casado(a),1,Itaquera
+2897,F,Casado(a),1,Itaquera
+2947,F,Casado(a),1,Itaquera
+3001,F,Casado(a),1,Itaquera
+3020,F,Casado(a),1,Itaquera
+3153,F,Casado(a),1,Itaquera
+3160,F,Casado(a),1,Itaquera
+3164,F,Casado(a),1,Itaquera
+3172,F,Casado(a),1,Itaquera
+3490,F,Casado(a),1,Itaquera
+3499,F,Casado(a),1,Itaquera
+3513,F,Casado(a),1,Itaquera
+3548,F,Casado(a),1,Itaquera
+3749,F,Casado(a),1,Itaquera
+3751,F,Casado(a),1,Itaquera
+3840,F,Casado(a),1,Itaquera
+3917,F,Casado(a),1,Itaquera
+3994,F,Casado(a),1,Itaquera
+4030,F,Casado(a),1,Itaquera
+4114,F,Casado(a),1,Itaquera
+4191,F,Casado(a),1,Itaquera
+4352,F,Casado(a),1,Itaquera
+4367,F,Casado(a),1,Itaquera
+4434,F,Casado(a),1,Itaquera
+4459,F,Casado(a),1,Itaquera
+4813,F,Casado(a),1,Itaquera
+4815,F,Casado(a),1,Itaquera
+4855,F,Casado(a),1,Itaquera
+5133,F,Casado(a),1,Itaquera
+5342,F,Casado(a),1,Itaquera
+5345,F,Casado(a),1,Itaquera
+5349,F,Casado(a),1,Itaquera
+5541,F,Casado(a),1,Itaquera
+5636,F,Casado(a),1,Itaquera
+5663,F,Casado(a),1,Itaquera
+5905,F,Casado(a),1,Itaquera
+5942,F,Casado(a),1,Itaquera
+6014,F,Casado(a),1,Itaquera
+6065,F,Casado(a),1,Itaquera
+6123,F,Casado(a),1,Itaquera
+6129,F,Casado(a),1,Itaquera
+6208,F,Casado(a),1,Itaquera
+6232,F,Casado(a),1,Itaquera
+6301,F,Casado(a),1,Itaquera
+6313,F,Casado(a),1,Itaquera
+6471,F,Casado(a),1,Itaquera
+6510,F,Casado(a),1,Itaquera
+6554,F,Casado(a),1,Itaquera
+6574,F,Casado(a),1,Itaquera
+6590,F,Casado(a),1,Itaquera
+6710,F,Casado(a),1,Itaquera
+6864,F,Casado(a),1,Itaquera
+6902,F,Casado(a),1,Itaquera
+7033,F,Casado(a),1,Itaquera
+7101,F,Casado(a),1,Itaquera
+7132,F,Casado(a),1,Itaquera
+7181,F,Casado(a),1,Itaquera
+7252,F,Casado(a),1,Itaquera
+7275,F,Casado(a),1,Itaquera
+7479,F,Casado(a),1,Itaquera
+7565,F,Casado(a),1,Itaquera
+7569,F,Casado(a),1,Itaquera
+7571,F,Casado(a),1,Itaquera
+7576,F,Casado(a),1,Itaquera
+7636,F,Casado(a),1,Itaquera
+7806,F,Casado(a),1,Itaquera
+7915,F,Casado(a),1,Itaquera
+7940,F,Casado(a),1,Itaquera
+8054,F,Casado(a),1,Itaquera
+8140,F,Casado(a),1,Itaquera
+8165,F,Casado(a),1,Itaquera
+8207,F,Casado(a),1,Itaquera
+8259,F,Casado(a),1,Itaquera
+8310,F,Casado(a),1,Itaquera
+8340,F,Casado(a),1,Itaquera
+8394,F,Casado(a),1,Itaquera
+8541,F,Casado(a),1,Itaquera
+8574,F,Casado(a),1,Itaquera
+8617,F,Casado(a),1,Itaquera
+8645,F,Casado(a),1,Itaquera
+8717,F,Casado(a),1,Itaquera
+8730,F,Casado(a),1,Itaquera
+8914,F,Casado(a),1,Itaquera
+8976,F,Casado(a),1,Itaquera
+8998,F,Casado(a),1,Itaquera
+9006,F,Casado(a),1,Itaquera
+9145,F,Casado(a),1,Itaquera
+9159,F,Casado(a),1,Itaquera
+9171,F,Casado(a),1,Itaquera
+9297,F,Casado(a),1,Itaquera
+9323,F,Casado(a),1,Itaquera
+9364,F,Casado(a),1,Itaquera
+9415,F,Casado(a),1,Itaquera
+9420,F,Casado(a),1,Itaquera
+9437,F,Casado(a),1,Itaquera
+9451,F,Casado(a),1,Itaquera
+9555,F,Casado(a),1,Itaquera
+9612,F,Casado(a),1,Itaquera
+9633,F,Casado(a),1,Itaquera
+9668,F,Casado(a),1,Itaquera
+9752,F,Casado(a),1,Itaquera
+9788,F,Casado(a),1,Itaquera
+9823,F,Casado(a),1,Itaquera
+9924,F,Casado(a),1,Itaquera
+10015,F,Casado(a),1,Itaquera
+10101,F,Casado(a),1,Itaquera
+10145,F,Casado(a),1,Itaquera
+10257,F,Casado(a),1,Itaquera
+28,F,Solteiro(a),1,Itaquera
+127,F,Solteiro(a),1,Itaquera
+128,F,Solteiro(a),1,Itaquera
+154,F,Solteiro(a),1,Itaquera
+178,F,Solteiro(a),1,Itaquera
+187,F,Solteiro(a),1,Itaquera
+280,F,Solteiro(a),1,Itaquera
+398,F,Solteiro(a),1,Itaquera
+406,F,Solteiro(a),1,Itaquera
+417,F,Solteiro(a),1,Itaquera
+467,F,Solteiro(a),1,Itaquera
+476,F,Solteiro(a),1,Itaquera
+570,F,Solteiro(a),1,Itaquera
+594,F,Solteiro(a),1,Itaquera
+625,F,Solteiro(a),1,Itaquera
+636,F,Solteiro(a),1,Itaquera
+746,F,Solteiro(a),1,Itaquera
+786,F,Solteiro(a),1,Itaquera
+808,F,Solteiro(a),1,Itaquera
+909,F,Solteiro(a),1,Itaquera
+934,F,Solteiro(a),1,Itaquera
+967,F,Solteiro(a),1,Itaquera
+979,F,Solteiro(a),1,Itaquera
+1053,F,Solteiro(a),1,Itaquera
+1091,F,Solteiro(a),1,Itaquera
+1128,F,Solteiro(a),1,Itaquera
+1145,F,Solteiro(a),1,Itaquera
+1193,F,Solteiro(a),1,Itaquera
+1414,F,Solteiro(a),1,Itaquera
+1423,F,Solteiro(a),1,Itaquera
+1499,F,Solteiro(a),1,Itaquera
+1682,F,Solteiro(a),1,Itaquera
+1701,F,Solteiro(a),1,Itaquera
+1736,F,Solteiro(a),1,Itaquera
+1748,F,Solteiro(a),1,Itaquera
+1793,F,Solteiro(a),1,Itaquera
+1849,F,Solteiro(a),1,Itaquera
+1991,F,Solteiro(a),1,Itaquera
+2041,F,Solteiro(a),1,Itaquera
+2052,F,Solteiro(a),1,Itaquera
+2075,F,Solteiro(a),1,Itaquera
+2252,F,Solteiro(a),1,Itaquera
+2279,F,Solteiro(a),1,Itaquera
+2314,F,Solteiro(a),1,Itaquera
+2422,F,Solteiro(a),1,Itaquera
+2444,F,Solteiro(a),1,Itaquera
+2493,F,Solteiro(a),1,Itaquera
+2554,F,Solteiro(a),1,Itaquera
+2586,F,Solteiro(a),1,Itaquera
+2677,F,Solteiro(a),1,Itaquera
+3015,F,Solteiro(a),1,Itaquera
+3045,F,Solteiro(a),1,Itaquera
+3067,F,Solteiro(a),1,Itaquera
+3163,F,Solteiro(a),1,Itaquera
+3191,F,Solteiro(a),1,Itaquera
+3216,F,Solteiro(a),1,Itaquera
+3310,F,Solteiro(a),1,Itaquera
+3615,F,Solteiro(a),1,Itaquera
+3630,F,Solteiro(a),1,Itaquera
+3773,F,Solteiro(a),1,Itaquera
+4005,F,Solteiro(a),1,Itaquera
+4069,F,Solteiro(a),1,Itaquera
+4100,F,Solteiro(a),1,Itaquera
+4186,F,Solteiro(a),1,Itaquera
+4327,F,Solteiro(a),1,Itaquera
+4372,F,Solteiro(a),1,Itaquera
+4405,F,Solteiro(a),1,Itaquera
+4440,F,Solteiro(a),1,Itaquera
+4553,F,Solteiro(a),1,Itaquera
+4616,F,Solteiro(a),1,Itaquera
+4891,F,Solteiro(a),1,Itaquera
+5147,F,Solteiro(a),1,Itaquera
+5210,F,Solteiro(a),1,Itaquera
+5240,F,Solteiro(a),1,Itaquera
+5264,F,Solteiro(a),1,Itaquera
+5379,F,Solteiro(a),1,Itaquera
+5387,F,Solteiro(a),1,Itaquera
+5389,F,Solteiro(a),1,Itaquera
+5400,F,Solteiro(a),1,Itaquera
+5419,F,Solteiro(a),1,Itaquera
+5533,F,Solteiro(a),1,Itaquera
+5584,F,Solteiro(a),1,Itaquera
+5585,F,Solteiro(a),1,Itaquera
+5587,F,Solteiro(a),1,Itaquera
+5696,F,Solteiro(a),1,Itaquera
+5717,F,Solteiro(a),1,Itaquera
+6003,F,Solteiro(a),1,Itaquera
+6161,F,Solteiro(a),1,Itaquera
+6174,F,Solteiro(a),1,Itaquera
+6288,F,Solteiro(a),1,Itaquera
+6318,F,Solteiro(a),1,Itaquera
+6433,F,Solteiro(a),1,Itaquera
+6454,F,Solteiro(a),1,Itaquera
+6472,F,Solteiro(a),1,Itaquera
+6488,F,Solteiro(a),1,Itaquera
+6531,F,Solteiro(a),1,Itaquera
+6537,F,Solteiro(a),1,Itaquera
+6544,F,Solteiro(a),1,Itaquera
+6565,F,Solteiro(a),1,Itaquera
+6589,F,Solteiro(a),1,Itaquera
+6733,F,Solteiro(a),1,Itaquera
+6736,F,Solteiro(a),1,Itaquera
+6936,F,Solteiro(a),1,Itaquera
+7124,F,Solteiro(a),1,Itaquera
+7182,F,Solteiro(a),1,Itaquera
+7201,F,Solteiro(a),1,Itaquera
+7206,F,Solteiro(a),1,Itaquera
+7713,F,Solteiro(a),1,Itaquera
+7789,F,Solteiro(a),1,Itaquera
+7870,F,Solteiro(a),1,Itaquera
+7910,F,Solteiro(a),1,Itaquera
+7951,F,Solteiro(a),1,Itaquera
+7996,F,Solteiro(a),1,Itaquera
+8009,F,Solteiro(a),1,Itaquera
+8195,F,Solteiro(a),1,Itaquera
+8270,F,Solteiro(a),1,Itaquera
+8308,F,Solteiro(a),1,Itaquera
+8472,F,Solteiro(a),1,Itaquera
+8747,F,Solteiro(a),1,Itaquera
+8840,F,Solteiro(a),1,Itaquera
+8844,F,Solteiro(a),1,Itaquera
+9014,F,Solteiro(a),1,Itaquera
+9032,F,Solteiro(a),1,Itaquera
+9129,F,Solteiro(a),1,Itaquera
+9469,F,Solteiro(a),1,Itaquera
+9527,F,Solteiro(a),1,Itaquera
+9543,F,Solteiro(a),1,Itaquera
+9648,F,Solteiro(a),1,Itaquera
+9674,F,Solteiro(a),1,Itaquera
+9791,F,Solteiro(a),1,Itaquera
+10118,F,Solteiro(a),1,Itaquera
+995,M,Casado(a),1,Itaquera
+1023,M,Casado(a),1,Itaquera
+1035,M,Casado(a),1,Itaquera
+1055,M,Casado(a),1,Itaquera
+1388,M,Casado(a),1,Itaquera
+1389,M,Casado(a),1,Itaquera
+1507,M,Casado(a),1,Itaquera
+1545,M,Casado(a),1,Itaquera
+1589,M,Casado(a),1,Itaquera
+1626,M,Casado(a),1,Itaquera
+1686,M,Casado(a),1,Itaquera
+1841,M,Casado(a),1,Itaquera
+1883,M,Casado(a),1,Itaquera
+1931,M,Casado(a),1,Itaquera
+2086,M,Casado(a),1,Itaquera
+2088,M,Casado(a),1,Itaquera
+2177,M,Casado(a),1,Itaquera
+2178,M,Casado(a),1,Itaquera
+2187,M,Casado(a),1,Itaquera
+2251,M,Casado(a),1,Itaquera
+2377,M,Casado(a),1,Itaquera
+2581,M,Casado(a),1,Itaquera
+2668,M,Casado(a),1,Itaquera
+2711,M,Casado(a),1,Itaquera
+2808,M,Casado(a),1,Itaquera
+2857,M,Casado(a),1,Itaquera
+2863,M,Casado(a),1,Itaquera
+2915,M,Casado(a),1,Itaquera
+2988,M,Casado(a),1,Itaquera
+3152,M,Casado(a),1,Itaquera
+3194,M,Casado(a),1,Itaquera
+3205,M,Casado(a),1,Itaquera
+3222,M,Casado(a),1,Itaquera
+3223,M,Casado(a),1,Itaquera
+3308,M,Casado(a),1,Itaquera
+3313,M,Casado(a),1,Itaquera
+3316,M,Casado(a),1,Itaquera
+3360,M,Casado(a),1,Itaquera
+3466,M,Casado(a),1,Itaquera
+3620,M,Casado(a),1,Itaquera
+3683,M,Casado(a),1,Itaquera
+3888,M,Casado(a),1,Itaquera
+3930,M,Casado(a),1,Itaquera
+4205,M,Casado(a),1,Itaquera
+4292,M,Casado(a),1,Itaquera
+4392,M,Casado(a),1,Itaquera
+4425,M,Casado(a),1,Itaquera
+4466,M,Casado(a),1,Itaquera
+4479,M,Casado(a),1,Itaquera
+4508,M,Casado(a),1,Itaquera
+4545,M,Casado(a),1,Itaquera
+4633,M,Casado(a),1,Itaquera
+4856,M,Casado(a),1,Itaquera
+5119,M,Casado(a),1,Itaquera
+5195,M,Casado(a),1,Itaquera
+5226,M,Casado(a),1,Itaquera
+5297,M,Casado(a),1,Itaquera
+5560,M,Casado(a),1,Itaquera
+5777,M,Casado(a),1,Itaquera
+5809,M,Casado(a),1,Itaquera
+5859,M,Casado(a),1,Itaquera
+6061,M,Casado(a),1,Itaquera
+6207,M,Casado(a),1,Itaquera
+6372,M,Casado(a),1,Itaquera
+6395,M,Casado(a),1,Itaquera
+6529,M,Casado(a),1,Itaquera
+6698,M,Casado(a),1,Itaquera
+6729,M,Casado(a),1,Itaquera
+6982,M,Casado(a),1,Itaquera
+7006,M,Casado(a),1,Itaquera
+7246,M,Casado(a),1,Itaquera
+7410,M,Casado(a),1,Itaquera
+7446,M,Casado(a),1,Itaquera
+7546,M,Casado(a),1,Itaquera
+7724,M,Casado(a),1,Itaquera
+7906,M,Casado(a),1,Itaquera
+7924,M,Casado(a),1,Itaquera
+7983,M,Casado(a),1,Itaquera
+8172,M,Casado(a),1,Itaquera
+8254,M,Casado(a),1,Itaquera
+8283,M,Casado(a),1,Itaquera
+8414,M,Casado(a),1,Itaquera
+8709,M,Casado(a),1,Itaquera
+8739,M,Casado(a),1,Itaquera
+8745,M,Casado(a),1,Itaquera
+8777,M,Casado(a),1,Itaquera
+8810,M,Casado(a),1,Itaquera
+8841,M,Casado(a),1,Itaquera
+8901,M,Casado(a),1,Itaquera
+8930,M,Casado(a),1,Itaquera
+8937,M,Casado(a),1,Itaquera
+9039,M,Casado(a),1,Itaquera
+9092,M,Casado(a),1,Itaquera
+9112,M,Casado(a),1,Itaquera
+9239,M,Casado(a),1,Itaquera
+9285,M,Casado(a),1,Itaquera
+9310,M,Casado(a),1,Itaquera
+9366,M,Casado(a),1,Itaquera
+9390,M,Casado(a),1,Itaquera
+9403,M,Casado(a),1,Itaquera
+9528,M,Casado(a),1,Itaquera
+9607,M,Casado(a),1,Itaquera
+9639,M,Casado(a),1,Itaquera
+9773,M,Casado(a),1,Itaquera
+9787,M,Casado(a),1,Itaquera
+9972,M,Casado(a),1,Itaquera
+10059,M,Casado(a),1,Itaquera
+10098,M,Casado(a),1,Itaquera
+10102,M,Casado(a),1,Itaquera
+910,M,Solteiro(a),1,Itaquera
+941,M,Solteiro(a),1,Itaquera
+1071,M,Solteiro(a),1,Itaquera
+1074,M,Solteiro(a),1,Itaquera
+1090,M,Solteiro(a),1,Itaquera
+1131,M,Solteiro(a),1,Itaquera
+1153,M,Solteiro(a),1,Itaquera
+1166,M,Solteiro(a),1,Itaquera
+1196,M,Solteiro(a),1,Itaquera
+1215,M,Solteiro(a),1,Itaquera
+1216,M,Solteiro(a),1,Itaquera
+1466,M,Solteiro(a),1,Itaquera
+1473,M,Solteiro(a),1,Itaquera
+1601,M,Solteiro(a),1,Itaquera
+1605,M,Solteiro(a),1,Itaquera
+1611,M,Solteiro(a),1,Itaquera
+1654,M,Solteiro(a),1,Itaquera
+1791,M,Solteiro(a),1,Itaquera
+1898,M,Solteiro(a),1,Itaquera
+1956,M,Solteiro(a),1,Itaquera
+1959,M,Solteiro(a),1,Itaquera
+2044,M,Solteiro(a),1,Itaquera
+2054,M,Solteiro(a),1,Itaquera
+2147,M,Solteiro(a),1,Itaquera
+2234,M,Solteiro(a),1,Itaquera
+2254,M,Solteiro(a),1,Itaquera
+2272,M,Solteiro(a),1,Itaquera
+2304,M,Solteiro(a),1,Itaquera
+2338,M,Solteiro(a),1,Itaquera
+2344,M,Solteiro(a),1,Itaquera
+2429,M,Solteiro(a),1,Itaquera
+2525,M,Solteiro(a),1,Itaquera
+2548,M,Solteiro(a),1,Itaquera
+2592,M,Solteiro(a),1,Itaquera
+2627,M,Solteiro(a),1,Itaquera
+2879,M,Solteiro(a),1,Itaquera
+3000,M,Solteiro(a),1,Itaquera
+3048,M,Solteiro(a),1,Itaquera
+3086,M,Solteiro(a),1,Itaquera
+3092,M,Solteiro(a),1,Itaquera
+3463,M,Solteiro(a),1,Itaquera
+3500,M,Solteiro(a),1,Itaquera
+3524,M,Solteiro(a),1,Itaquera
+3709,M,Solteiro(a),1,Itaquera
+3821,M,Solteiro(a),1,Itaquera
+3854,M,Solteiro(a),1,Itaquera
+3945,M,Solteiro(a),1,Itaquera
+3979,M,Solteiro(a),1,Itaquera
+4079,M,Solteiro(a),1,Itaquera
+4118,M,Solteiro(a),1,Itaquera
+4121,M,Solteiro(a),1,Itaquera
+4221,M,Solteiro(a),1,Itaquera
+4252,M,Solteiro(a),1,Itaquera
+4259,M,Solteiro(a),1,Itaquera
+4344,M,Solteiro(a),1,Itaquera
+4375,M,Solteiro(a),1,Itaquera
+4503,M,Solteiro(a),1,Itaquera
+4515,M,Solteiro(a),1,Itaquera
+4522,M,Solteiro(a),1,Itaquera
+4670,M,Solteiro(a),1,Itaquera
+4678,M,Solteiro(a),1,Itaquera
+4722,M,Solteiro(a),1,Itaquera
+4858,M,Solteiro(a),1,Itaquera
+4873,M,Solteiro(a),1,Itaquera
+4890,M,Solteiro(a),1,Itaquera
+4916,M,Solteiro(a),1,Itaquera
+4973,M,Solteiro(a),1,Itaquera
+5009,M,Solteiro(a),1,Itaquera
+5096,M,Solteiro(a),1,Itaquera
+5109,M,Solteiro(a),1,Itaquera
+5143,M,Solteiro(a),1,Itaquera
+5206,M,Solteiro(a),1,Itaquera
+5271,M,Solteiro(a),1,Itaquera
+5329,M,Solteiro(a),1,Itaquera
+5556,M,Solteiro(a),1,Itaquera
+5615,M,Solteiro(a),1,Itaquera
+5726,M,Solteiro(a),1,Itaquera
+5820,M,Solteiro(a),1,Itaquera
+5865,M,Solteiro(a),1,Itaquera
+5869,M,Solteiro(a),1,Itaquera
+5895,M,Solteiro(a),1,Itaquera
+5903,M,Solteiro(a),1,Itaquera
+5909,M,Solteiro(a),1,Itaquera
+5977,M,Solteiro(a),1,Itaquera
+5984,M,Solteiro(a),1,Itaquera
+6266,M,Solteiro(a),1,Itaquera
+6462,M,Solteiro(a),1,Itaquera
+6478,M,Solteiro(a),1,Itaquera
+6530,M,Solteiro(a),1,Itaquera
+6836,M,Solteiro(a),1,Itaquera
+6933,M,Solteiro(a),1,Itaquera
+7193,M,Solteiro(a),1,Itaquera
+7257,M,Solteiro(a),1,Itaquera
+7355,M,Solteiro(a),1,Itaquera
+7457,M,Solteiro(a),1,Itaquera
+7562,M,Solteiro(a),1,Itaquera
+7705,M,Solteiro(a),1,Itaquera
+7792,M,Solteiro(a),1,Itaquera
+7913,M,Solteiro(a),1,Itaquera
+8059,M,Solteiro(a),1,Itaquera
+8151,M,Solteiro(a),1,Itaquera
+8217,M,Solteiro(a),1,Itaquera
+8229,M,Solteiro(a),1,Itaquera
+8240,M,Solteiro(a),1,Itaquera
+8290,M,Solteiro(a),1,Itaquera
+8406,M,Solteiro(a),1,Itaquera
+8407,M,Solteiro(a),1,Itaquera
+8500,M,Solteiro(a),1,Itaquera
+8557,M,Solteiro(a),1,Itaquera
+8561,M,Solteiro(a),1,Itaquera
+8562,M,Solteiro(a),1,Itaquera
+8665,M,Solteiro(a),1,Itaquera
+8787,M,Solteiro(a),1,Itaquera
+8793,M,Solteiro(a),1,Itaquera
+8843,M,Solteiro(a),1,Itaquera
+8884,M,Solteiro(a),1,Itaquera
+8892,M,Solteiro(a),1,Itaquera
+9027,M,Solteiro(a),1,Itaquera
+9030,M,Solteiro(a),1,Itaquera
+9068,M,Solteiro(a),1,Itaquera
+9075,M,Solteiro(a),1,Itaquera
+9085,M,Solteiro(a),1,Itaquera
+9144,M,Solteiro(a),1,Itaquera
+9236,M,Solteiro(a),1,Itaquera
+9355,M,Solteiro(a),1,Itaquera
+9379,M,Solteiro(a),1,Itaquera
+9447,M,Solteiro(a),1,Itaquera
+9495,M,Solteiro(a),1,Itaquera
+9507,M,Solteiro(a),1,Itaquera
+9687,M,Solteiro(a),1,Itaquera
+9694,M,Solteiro(a),1,Itaquera
+9814,M,Solteiro(a),1,Itaquera
+9863,M,Solteiro(a),1,Itaquera
+9943,M,Solteiro(a),1,Itaquera
+9999,M,Solteiro(a),1,Itaquera
+10153,M,Solteiro(a),1,Itaquera
+886,M,Casado(a),4,Itaquera
+1015,M,Casado(a),4,Itaquera
+1152,M,Casado(a),4,Itaquera
+1185,M,Casado(a),4,Itaquera
+1192,M,Casado(a),4,Itaquera
+1306,M,Casado(a),4,Itaquera
+1360,M,Casado(a),4,Itaquera
+1470,M,Casado(a),4,Itaquera
+1490,M,Casado(a),4,Itaquera
+1541,M,Casado(a),4,Itaquera
+1721,M,Casado(a),4,Itaquera
+2295,M,Casado(a),4,Itaquera
+2542,M,Casado(a),4,Itaquera
+2555,M,Casado(a),4,Itaquera
+2596,M,Casado(a),4,Itaquera
+2658,M,Casado(a),4,Itaquera
+2927,M,Casado(a),4,Itaquera
+2976,M,Casado(a),4,Itaquera
+2997,M,Casado(a),4,Itaquera
+3099,M,Casado(a),4,Itaquera
+3146,M,Casado(a),4,Itaquera
+3198,M,Casado(a),4,Itaquera
+3682,M,Casado(a),4,Itaquera
+3728,M,Casado(a),4,Itaquera
+3849,M,Casado(a),4,Itaquera
+3897,M,Casado(a),4,Itaquera
+4063,M,Casado(a),4,Itaquera
+4138,M,Casado(a),4,Itaquera
+4153,M,Casado(a),4,Itaquera
+4228,M,Casado(a),4,Itaquera
+4258,M,Casado(a),4,Itaquera
+4291,M,Casado(a),4,Itaquera
+4330,M,Casado(a),4,Itaquera
+4342,M,Casado(a),4,Itaquera
+4451,M,Casado(a),4,Itaquera
+4499,M,Casado(a),4,Itaquera
+4537,M,Casado(a),4,Itaquera
+4682,M,Casado(a),4,Itaquera
+4690,M,Casado(a),4,Itaquera
+4828,M,Casado(a),4,Itaquera
+4875,M,Casado(a),4,Itaquera
+4877,M,Casado(a),4,Itaquera
+4900,M,Casado(a),4,Itaquera
+5062,M,Casado(a),4,Itaquera
+5166,M,Casado(a),4,Itaquera
+5476,M,Casado(a),4,Itaquera
+5526,M,Casado(a),4,Itaquera
+5645,M,Casado(a),4,Itaquera
+5786,M,Casado(a),4,Itaquera
+5970,M,Casado(a),4,Itaquera
+6087,M,Casado(a),4,Itaquera
+6106,M,Casado(a),4,Itaquera
+6162,M,Casado(a),4,Itaquera
+6168,M,Casado(a),4,Itaquera
+6186,M,Casado(a),4,Itaquera
+6355,M,Casado(a),4,Itaquera
+6542,M,Casado(a),4,Itaquera
+6744,M,Casado(a),4,Itaquera
+6792,M,Casado(a),4,Itaquera
+6846,M,Casado(a),4,Itaquera
+6850,M,Casado(a),4,Itaquera
+6940,M,Casado(a),4,Itaquera
+7117,M,Casado(a),4,Itaquera
+7241,M,Casado(a),4,Itaquera
+7250,M,Casado(a),4,Itaquera
+7319,M,Casado(a),4,Itaquera
+7391,M,Casado(a),4,Itaquera
+7477,M,Casado(a),4,Itaquera
+7514,M,Casado(a),4,Itaquera
+7570,M,Casado(a),4,Itaquera
+7632,M,Casado(a),4,Itaquera
+7642,M,Casado(a),4,Itaquera
+7715,M,Casado(a),4,Itaquera
+7821,M,Casado(a),4,Itaquera
+7861,M,Casado(a),4,Itaquera
+7905,M,Casado(a),4,Itaquera
+7952,M,Casado(a),4,Itaquera
+8242,M,Casado(a),4,Itaquera
+8336,M,Casado(a),4,Itaquera
+8367,M,Casado(a),4,Itaquera
+8503,M,Casado(a),4,Itaquera
+8546,M,Casado(a),4,Itaquera
+8619,M,Casado(a),4,Itaquera
+8860,M,Casado(a),4,Itaquera
+8864,M,Casado(a),4,Itaquera
+9020,M,Casado(a),4,Itaquera
+9187,M,Casado(a),4,Itaquera
+9242,M,Casado(a),4,Itaquera
+9309,M,Casado(a),4,Itaquera
+9491,M,Casado(a),4,Itaquera
+9509,M,Casado(a),4,Itaquera
+9671,M,Casado(a),4,Itaquera
+9682,M,Casado(a),4,Itaquera
+9885,M,Casado(a),4,Itaquera
+10243,M,Casado(a),4,Itaquera
+10258,M,Casado(a),4,Itaquera
+950,M,Solteiro(a),4,Itaquera
+1048,M,Solteiro(a),4,Itaquera
+1253,M,Solteiro(a),4,Itaquera
+1330,M,Solteiro(a),4,Itaquera
+1352,M,Solteiro(a),4,Itaquera
+1549,M,Solteiro(a),4,Itaquera
+1718,M,Solteiro(a),4,Itaquera
+1820,M,Solteiro(a),4,Itaquera
+1821,M,Solteiro(a),4,Itaquera
+1864,M,Solteiro(a),4,Itaquera
+1872,M,Solteiro(a),4,Itaquera
+2218,M,Solteiro(a),4,Itaquera
+2242,M,Solteiro(a),4,Itaquera
+2271,M,Solteiro(a),4,Itaquera
+2458,M,Solteiro(a),4,Itaquera
+2479,M,Solteiro(a),4,Itaquera
+2760,M,Solteiro(a),4,Itaquera
+2832,M,Solteiro(a),4,Itaquera
+2963,M,Solteiro(a),4,Itaquera
+2977,M,Solteiro(a),4,Itaquera
+3478,M,Solteiro(a),4,Itaquera
+3604,M,Solteiro(a),4,Itaquera
+3936,M,Solteiro(a),4,Itaquera
+3938,M,Solteiro(a),4,Itaquera
+4115,M,Solteiro(a),4,Itaquera
+4364,M,Solteiro(a),4,Itaquera
+4547,M,Solteiro(a),4,Itaquera
+4564,M,Solteiro(a),4,Itaquera
+4627,M,Solteiro(a),4,Itaquera
+4700,M,Solteiro(a),4,Itaquera
+4779,M,Solteiro(a),4,Itaquera
+4884,M,Solteiro(a),4,Itaquera
+4928,M,Solteiro(a),4,Itaquera
+4961,M,Solteiro(a),4,Itaquera
+5032,M,Solteiro(a),4,Itaquera
+5219,M,Solteiro(a),4,Itaquera
+5593,M,Solteiro(a),4,Itaquera
+5610,M,Solteiro(a),4,Itaquera
+5643,M,Solteiro(a),4,Itaquera
+5814,M,Solteiro(a),4,Itaquera
+5844,M,Solteiro(a),4,Itaquera
+6171,M,Solteiro(a),4,Itaquera
+6490,M,Solteiro(a),4,Itaquera
+6941,M,Solteiro(a),4,Itaquera
+7120,M,Solteiro(a),4,Itaquera
+7203,M,Solteiro(a),4,Itaquera
+7470,M,Solteiro(a),4,Itaquera
+7505,M,Solteiro(a),4,Itaquera
+7558,M,Solteiro(a),4,Itaquera
+7560,M,Solteiro(a),4,Itaquera
+7689,M,Solteiro(a),4,Itaquera
+7775,M,Solteiro(a),4,Itaquera
+7904,M,Solteiro(a),4,Itaquera
+8159,M,Solteiro(a),4,Itaquera
+8226,M,Solteiro(a),4,Itaquera
+8289,M,Solteiro(a),4,Itaquera
+8718,M,Solteiro(a),4,Itaquera
+8724,M,Solteiro(a),4,Itaquera
+8794,M,Solteiro(a),4,Itaquera
+8893,M,Solteiro(a),4,Itaquera
+8919,M,Solteiro(a),4,Itaquera
+8921,M,Solteiro(a),4,Itaquera
+9101,M,Solteiro(a),4,Itaquera
+9224,M,Solteiro(a),4,Itaquera
+9247,M,Solteiro(a),4,Itaquera
+9337,M,Solteiro(a),4,Itaquera
+9401,M,Solteiro(a),4,Itaquera
+9461,M,Solteiro(a),4,Itaquera
+9501,M,Solteiro(a),4,Itaquera
+9552,M,Solteiro(a),4,Itaquera
+9745,M,Solteiro(a),4,Itaquera
+9770,M,Solteiro(a),4,Itaquera
+9826,M,Solteiro(a),4,Itaquera
+10128,M,Solteiro(a),4,Itaquera
+39,F,Casado(a),4,Itaquera
+188,F,Casado(a),4,Itaquera
+363,F,Casado(a),4,Itaquera
+364,F,Casado(a),4,Itaquera
+381,F,Casado(a),4,Itaquera
+426,F,Casado(a),4,Itaquera
+432,F,Casado(a),4,Itaquera
+644,F,Casado(a),4,Itaquera
+742,F,Casado(a),4,Itaquera
+766,F,Casado(a),4,Itaquera
+847,F,Casado(a),4,Itaquera
+1175,F,Casado(a),4,Itaquera
+1524,F,Casado(a),4,Itaquera
+1529,F,Casado(a),4,Itaquera
+1532,F,Casado(a),4,Itaquera
+1576,F,Casado(a),4,Itaquera
+1642,F,Casado(a),4,Itaquera
+1861,F,Casado(a),4,Itaquera
+1921,F,Casado(a),4,Itaquera
+2001,F,Casado(a),4,Itaquera
+2127,F,Casado(a),4,Itaquera
+2183,F,Casado(a),4,Itaquera
+2327,F,Casado(a),4,Itaquera
+2373,F,Casado(a),4,Itaquera
+2482,F,Casado(a),4,Itaquera
+2600,F,Casado(a),4,Itaquera
+2601,F,Casado(a),4,Itaquera
+2629,F,Casado(a),4,Itaquera
+2693,F,Casado(a),4,Itaquera
+2716,F,Casado(a),4,Itaquera
+2890,F,Casado(a),4,Itaquera
+2996,F,Casado(a),4,Itaquera
+3328,F,Casado(a),4,Itaquera
+3388,F,Casado(a),4,Itaquera
+3413,F,Casado(a),4,Itaquera
+3528,F,Casado(a),4,Itaquera
+3700,F,Casado(a),4,Itaquera
+3716,F,Casado(a),4,Itaquera
+3748,F,Casado(a),4,Itaquera
+3817,F,Casado(a),4,Itaquera
+3989,F,Casado(a),4,Itaquera
+4007,F,Casado(a),4,Itaquera
+4410,F,Casado(a),4,Itaquera
+4507,F,Casado(a),4,Itaquera
+4543,F,Casado(a),4,Itaquera
+4544,F,Casado(a),4,Itaquera
+4743,F,Casado(a),4,Itaquera
+4804,F,Casado(a),4,Itaquera
+4848,F,Casado(a),4,Itaquera
+4850,F,Casado(a),4,Itaquera
+5530,F,Casado(a),4,Itaquera
+5531,F,Casado(a),4,Itaquera
+5539,F,Casado(a),4,Itaquera
+5623,F,Casado(a),4,Itaquera
+5690,F,Casado(a),4,Itaquera
+5821,F,Casado(a),4,Itaquera
+5826,F,Casado(a),4,Itaquera
+5910,F,Casado(a),4,Itaquera
+5929,F,Casado(a),4,Itaquera
+5990,F,Casado(a),4,Itaquera
+6082,F,Casado(a),4,Itaquera
+6253,F,Casado(a),4,Itaquera
+6328,F,Casado(a),4,Itaquera
+6584,F,Casado(a),4,Itaquera
+6807,F,Casado(a),4,Itaquera
+6845,F,Casado(a),4,Itaquera
+6956,F,Casado(a),4,Itaquera
+6997,F,Casado(a),4,Itaquera
+7065,F,Casado(a),4,Itaquera
+7300,F,Casado(a),4,Itaquera
+7359,F,Casado(a),4,Itaquera
+7529,F,Casado(a),4,Itaquera
+7591,F,Casado(a),4,Itaquera
+7701,F,Casado(a),4,Itaquera
+7807,F,Casado(a),4,Itaquera
+7808,F,Casado(a),4,Itaquera
+7831,F,Casado(a),4,Itaquera
+7835,F,Casado(a),4,Itaquera
+8022,F,Casado(a),4,Itaquera
+8048,F,Casado(a),4,Itaquera
+8074,F,Casado(a),4,Itaquera
+8241,F,Casado(a),4,Itaquera
+8439,F,Casado(a),4,Itaquera
+8551,F,Casado(a),4,Itaquera
+8640,F,Casado(a),4,Itaquera
+8809,F,Casado(a),4,Itaquera
+8816,F,Casado(a),4,Itaquera
+8853,F,Casado(a),4,Itaquera
+9065,F,Casado(a),4,Itaquera
+9209,F,Casado(a),4,Itaquera
+9254,F,Casado(a),4,Itaquera
+9513,F,Casado(a),4,Itaquera
+9658,F,Casado(a),4,Itaquera
+9734,F,Casado(a),4,Itaquera
+9759,F,Casado(a),4,Itaquera
+9793,F,Casado(a),4,Itaquera
+9813,F,Casado(a),4,Itaquera
+9871,F,Casado(a),4,Itaquera
+9976,F,Casado(a),4,Itaquera
+10104,F,Casado(a),4,Itaquera
+49,F,Solteiro(a),4,Itaquera
+180,F,Solteiro(a),4,Itaquera
+191,F,Solteiro(a),4,Itaquera
+274,F,Solteiro(a),4,Itaquera
+504,F,Solteiro(a),4,Itaquera
+563,F,Solteiro(a),4,Itaquera
+565,F,Solteiro(a),4,Itaquera
+726,F,Solteiro(a),4,Itaquera
+757,F,Solteiro(a),4,Itaquera
+857,F,Solteiro(a),4,Itaquera
+1266,F,Solteiro(a),4,Itaquera
+1331,F,Solteiro(a),4,Itaquera
+1346,F,Solteiro(a),4,Itaquera
+1366,F,Solteiro(a),4,Itaquera
+1429,F,Solteiro(a),4,Itaquera
+1580,F,Solteiro(a),4,Itaquera
+1599,F,Solteiro(a),4,Itaquera
+1615,F,Solteiro(a),4,Itaquera
+1656,F,Solteiro(a),4,Itaquera
+1660,F,Solteiro(a),4,Itaquera
+1665,F,Solteiro(a),4,Itaquera
+1794,F,Solteiro(a),4,Itaquera
+1813,F,Solteiro(a),4,Itaquera
+1897,F,Solteiro(a),4,Itaquera
+2150,F,Solteiro(a),4,Itaquera
+2217,F,Solteiro(a),4,Itaquera
+2343,F,Solteiro(a),4,Itaquera
+2398,F,Solteiro(a),4,Itaquera
+2443,F,Solteiro(a),4,Itaquera
+2459,F,Solteiro(a),4,Itaquera
+2468,F,Solteiro(a),4,Itaquera
+2684,F,Solteiro(a),4,Itaquera
+2709,F,Solteiro(a),4,Itaquera
+2777,F,Solteiro(a),4,Itaquera
+2817,F,Solteiro(a),4,Itaquera
+2848,F,Solteiro(a),4,Itaquera
+2961,F,Solteiro(a),4,Itaquera
+3132,F,Solteiro(a),4,Itaquera
+3239,F,Solteiro(a),4,Itaquera
+3327,F,Solteiro(a),4,Itaquera
+3455,F,Solteiro(a),4,Itaquera
+3552,F,Solteiro(a),4,Itaquera
+3776,F,Solteiro(a),4,Itaquera
+3802,F,Solteiro(a),4,Itaquera
+4239,F,Solteiro(a),4,Itaquera
+4246,F,Solteiro(a),4,Itaquera
+4287,F,Solteiro(a),4,Itaquera
+4431,F,Solteiro(a),4,Itaquera
+4490,F,Solteiro(a),4,Itaquera
+4518,F,Solteiro(a),4,Itaquera
+4619,F,Solteiro(a),4,Itaquera
+4838,F,Solteiro(a),4,Itaquera
+4938,F,Solteiro(a),4,Itaquera
+5101,F,Solteiro(a),4,Itaquera
+5276,F,Solteiro(a),4,Itaquera
+5501,F,Solteiro(a),4,Itaquera
+5633,F,Solteiro(a),4,Itaquera
+5746,F,Solteiro(a),4,Itaquera
+5799,F,Solteiro(a),4,Itaquera
+6021,F,Solteiro(a),4,Itaquera
+6069,F,Solteiro(a),4,Itaquera
+6283,F,Solteiro(a),4,Itaquera
+6423,F,Solteiro(a),4,Itaquera
+6567,F,Solteiro(a),4,Itaquera
+6592,F,Solteiro(a),4,Itaquera
+6775,F,Solteiro(a),4,Itaquera
+6922,F,Solteiro(a),4,Itaquera
+7003,F,Solteiro(a),4,Itaquera
+7149,F,Solteiro(a),4,Itaquera
+7189,F,Solteiro(a),4,Itaquera
+7274,F,Solteiro(a),4,Itaquera
+7292,F,Solteiro(a),4,Itaquera
+7306,F,Solteiro(a),4,Itaquera
+7352,F,Solteiro(a),4,Itaquera
+7416,F,Solteiro(a),4,Itaquera
+7445,F,Solteiro(a),4,Itaquera
+7465,F,Solteiro(a),4,Itaquera
+7536,F,Solteiro(a),4,Itaquera
+7654,F,Solteiro(a),4,Itaquera
+7859,F,Solteiro(a),4,Itaquera
+7967,F,Solteiro(a),4,Itaquera
+8091,F,Solteiro(a),4,Itaquera
+8125,F,Solteiro(a),4,Itaquera
+8164,F,Solteiro(a),4,Itaquera
+8173,F,Solteiro(a),4,Itaquera
+8269,F,Solteiro(a),4,Itaquera
+8274,F,Solteiro(a),4,Itaquera
+8302,F,Solteiro(a),4,Itaquera
+8442,F,Solteiro(a),4,Itaquera
+8473,F,Solteiro(a),4,Itaquera
+8734,F,Solteiro(a),4,Itaquera
+8778,F,Solteiro(a),4,Itaquera
+8859,F,Solteiro(a),4,Itaquera
+9276,F,Solteiro(a),4,Itaquera
+9404,F,Solteiro(a),4,Itaquera
+9516,F,Solteiro(a),4,Itaquera
+9584,F,Solteiro(a),4,Itaquera
+9715,F,Solteiro(a),4,Itaquera
+9956,F,Solteiro(a),4,Itaquera
+10054,F,Solteiro(a),4,Itaquera
+10075,F,Solteiro(a),4,Itaquera
+10249,F,Solteiro(a),4,Itaquera
+75,F,Solteiro(a),3,Itaquera
+115,F,Solteiro(a),3,Itaquera
+213,F,Solteiro(a),3,Itaquera
+227,F,Solteiro(a),3,Itaquera
+405,F,Solteiro(a),3,Itaquera
+454,F,Solteiro(a),3,Itaquera
+464,F,Solteiro(a),3,Itaquera
+465,F,Solteiro(a),3,Itaquera
+502,F,Solteiro(a),3,Itaquera
+545,F,Solteiro(a),3,Itaquera
+602,F,Solteiro(a),3,Itaquera
+617,F,Solteiro(a),3,Itaquera
+624,F,Solteiro(a),3,Itaquera
+658,F,Solteiro(a),3,Itaquera
+750,F,Solteiro(a),3,Itaquera
+751,F,Solteiro(a),3,Itaquera
+755,F,Solteiro(a),3,Itaquera
+770,F,Solteiro(a),3,Itaquera
+771,F,Solteiro(a),3,Itaquera
+792,F,Solteiro(a),3,Itaquera
+839,F,Solteiro(a),3,Itaquera
+992,F,Solteiro(a),3,Itaquera
+1036,F,Solteiro(a),3,Itaquera
+1093,F,Solteiro(a),3,Itaquera
+1133,F,Solteiro(a),3,Itaquera
+1147,F,Solteiro(a),3,Itaquera
+1329,F,Solteiro(a),3,Itaquera
+1467,F,Solteiro(a),3,Itaquera
+1537,F,Solteiro(a),3,Itaquera
+1658,F,Solteiro(a),3,Itaquera
+1706,F,Solteiro(a),3,Itaquera
+1750,F,Solteiro(a),3,Itaquera
+1862,F,Solteiro(a),3,Itaquera
+1978,F,Solteiro(a),3,Itaquera
+2067,F,Solteiro(a),3,Itaquera
+2076,F,Solteiro(a),3,Itaquera
+2198,F,Solteiro(a),3,Itaquera
+2293,F,Solteiro(a),3,Itaquera
+2374,F,Solteiro(a),3,Itaquera
+2524,F,Solteiro(a),3,Itaquera
+2625,F,Solteiro(a),3,Itaquera
+2664,F,Solteiro(a),3,Itaquera
+2715,F,Solteiro(a),3,Itaquera
+2788,F,Solteiro(a),3,Itaquera
+2907,F,Solteiro(a),3,Itaquera
+2918,F,Solteiro(a),3,Itaquera
+2942,F,Solteiro(a),3,Itaquera
+3158,F,Solteiro(a),3,Itaquera
+3161,F,Solteiro(a),3,Itaquera
+3236,F,Solteiro(a),3,Itaquera
+3485,F,Solteiro(a),3,Itaquera
+3633,F,Solteiro(a),3,Itaquera
+3680,F,Solteiro(a),3,Itaquera
+3902,F,Solteiro(a),3,Itaquera
+4122,F,Solteiro(a),3,Itaquera
+4166,F,Solteiro(a),3,Itaquera
+4180,F,Solteiro(a),3,Itaquera
+4231,F,Solteiro(a),3,Itaquera
+4589,F,Solteiro(a),3,Itaquera
+4695,F,Solteiro(a),3,Itaquera
+4697,F,Solteiro(a),3,Itaquera
+4901,F,Solteiro(a),3,Itaquera
+4987,F,Solteiro(a),3,Itaquera
+5023,F,Solteiro(a),3,Itaquera
+5050,F,Solteiro(a),3,Itaquera
+5070,F,Solteiro(a),3,Itaquera
+5086,F,Solteiro(a),3,Itaquera
+5092,F,Solteiro(a),3,Itaquera
+5182,F,Solteiro(a),3,Itaquera
+5214,F,Solteiro(a),3,Itaquera
+5449,F,Solteiro(a),3,Itaquera
+5616,F,Solteiro(a),3,Itaquera
+5802,F,Solteiro(a),3,Itaquera
+5887,F,Solteiro(a),3,Itaquera
+5920,F,Solteiro(a),3,Itaquera
+5958,F,Solteiro(a),3,Itaquera
+5992,F,Solteiro(a),3,Itaquera
+6038,F,Solteiro(a),3,Itaquera
+6101,F,Solteiro(a),3,Itaquera
+6136,F,Solteiro(a),3,Itaquera
+6155,F,Solteiro(a),3,Itaquera
+6237,F,Solteiro(a),3,Itaquera
+6254,F,Solteiro(a),3,Itaquera
+6399,F,Solteiro(a),3,Itaquera
+6439,F,Solteiro(a),3,Itaquera
+6849,F,Solteiro(a),3,Itaquera
+6880,F,Solteiro(a),3,Itaquera
+7076,F,Solteiro(a),3,Itaquera
+7103,F,Solteiro(a),3,Itaquera
+7243,F,Solteiro(a),3,Itaquera
+7268,F,Solteiro(a),3,Itaquera
+7282,F,Solteiro(a),3,Itaquera
+7832,F,Solteiro(a),3,Itaquera
+7857,F,Solteiro(a),3,Itaquera
+8098,F,Solteiro(a),3,Itaquera
+8288,F,Solteiro(a),3,Itaquera
+8356,F,Solteiro(a),3,Itaquera
+8373,F,Solteiro(a),3,Itaquera
+8454,F,Solteiro(a),3,Itaquera
+8824,F,Solteiro(a),3,Itaquera
+8954,F,Solteiro(a),3,Itaquera
+8992,F,Solteiro(a),3,Itaquera
+9047,F,Solteiro(a),3,Itaquera
+9230,F,Solteiro(a),3,Itaquera
+9505,F,Solteiro(a),3,Itaquera
+9583,F,Solteiro(a),3,Itaquera
+9816,F,Solteiro(a),3,Itaquera
+10026,F,Solteiro(a),3,Itaquera
+10126,F,Solteiro(a),3,Itaquera
+10168,F,Solteiro(a),3,Itaquera
+10266,F,Solteiro(a),3,Itaquera
+10273,F,Solteiro(a),3,Itaquera
+117,F,Casado(a),3,Itaquera
+136,F,Casado(a),3,Itaquera
+158,F,Casado(a),3,Itaquera
+312,F,Casado(a),3,Itaquera
+439,F,Casado(a),3,Itaquera
+484,F,Casado(a),3,Itaquera
+543,F,Casado(a),3,Itaquera
+593,F,Casado(a),3,Itaquera
+893,F,Casado(a),3,Itaquera
+944,F,Casado(a),3,Itaquera
+955,F,Casado(a),3,Itaquera
+1004,F,Casado(a),3,Itaquera
+1082,F,Casado(a),3,Itaquera
+1094,F,Casado(a),3,Itaquera
+1497,F,Casado(a),3,Itaquera
+1556,F,Casado(a),3,Itaquera
+1584,F,Casado(a),3,Itaquera
+1954,F,Casado(a),3,Itaquera
+1965,F,Casado(a),3,Itaquera
+2068,F,Casado(a),3,Itaquera
+2362,F,Casado(a),3,Itaquera
+2390,F,Casado(a),3,Itaquera
+2530,F,Casado(a),3,Itaquera
+2559,F,Casado(a),3,Itaquera
+2566,F,Casado(a),3,Itaquera
+2638,F,Casado(a),3,Itaquera
+2654,F,Casado(a),3,Itaquera
+2695,F,Casado(a),3,Itaquera
+2787,F,Casado(a),3,Itaquera
+3250,F,Casado(a),3,Itaquera
+3306,F,Casado(a),3,Itaquera
+3322,F,Casado(a),3,Itaquera
+3655,F,Casado(a),3,Itaquera
+3946,F,Casado(a),3,Itaquera
+4004,F,Casado(a),3,Itaquera
+4131,F,Casado(a),3,Itaquera
+4282,F,Casado(a),3,Itaquera
+4324,F,Casado(a),3,Itaquera
+4385,F,Casado(a),3,Itaquera
+4396,F,Casado(a),3,Itaquera
+4422,F,Casado(a),3,Itaquera
+4558,F,Casado(a),3,Itaquera
+4659,F,Casado(a),3,Itaquera
+4666,F,Casado(a),3,Itaquera
+5116,F,Casado(a),3,Itaquera
+5196,F,Casado(a),3,Itaquera
+5723,F,Casado(a),3,Itaquera
+5731,F,Casado(a),3,Itaquera
+5745,F,Casado(a),3,Itaquera
+5823,F,Casado(a),3,Itaquera
+5953,F,Casado(a),3,Itaquera
+6002,F,Casado(a),3,Itaquera
+6079,F,Casado(a),3,Itaquera
+6421,F,Casado(a),3,Itaquera
+6466,F,Casado(a),3,Itaquera
+6499,F,Casado(a),3,Itaquera
+6564,F,Casado(a),3,Itaquera
+6771,F,Casado(a),3,Itaquera
+6793,F,Casado(a),3,Itaquera
+6808,F,Casado(a),3,Itaquera
+6893,F,Casado(a),3,Itaquera
+6960,F,Casado(a),3,Itaquera
+7035,F,Casado(a),3,Itaquera
+7075,F,Casado(a),3,Itaquera
+7283,F,Casado(a),3,Itaquera
+7494,F,Casado(a),3,Itaquera
+7672,F,Casado(a),3,Itaquera
+7720,F,Casado(a),3,Itaquera
+7768,F,Casado(a),3,Itaquera
+7965,F,Casado(a),3,Itaquera
+8181,F,Casado(a),3,Itaquera
+8281,F,Casado(a),3,Itaquera
+8312,F,Casado(a),3,Itaquera
+8435,F,Casado(a),3,Itaquera
+8483,F,Casado(a),3,Itaquera
+8524,F,Casado(a),3,Itaquera
+8634,F,Casado(a),3,Itaquera
+8668,F,Casado(a),3,Itaquera
+9025,F,Casado(a),3,Itaquera
+9064,F,Casado(a),3,Itaquera
+9110,F,Casado(a),3,Itaquera
+9256,F,Casado(a),3,Itaquera
+9315,F,Casado(a),3,Itaquera
+9368,F,Casado(a),3,Itaquera
+9386,F,Casado(a),3,Itaquera
+9448,F,Casado(a),3,Itaquera
+9831,F,Casado(a),3,Itaquera
+10049,F,Casado(a),3,Itaquera
+916,M,Solteiro(a),3,Itaquera
+1089,M,Solteiro(a),3,Itaquera
+1189,M,Solteiro(a),3,Itaquera
+1304,M,Solteiro(a),3,Itaquera
+1916,M,Solteiro(a),3,Itaquera
+2002,M,Solteiro(a),3,Itaquera
+2143,M,Solteiro(a),3,Itaquera
+2182,M,Solteiro(a),3,Itaquera
+2246,M,Solteiro(a),3,Itaquera
+2302,M,Solteiro(a),3,Itaquera
+2447,M,Solteiro(a),3,Itaquera
+2632,M,Solteiro(a),3,Itaquera
+2957,M,Solteiro(a),3,Itaquera
+3039,M,Solteiro(a),3,Itaquera
+3098,M,Solteiro(a),3,Itaquera
+3169,M,Solteiro(a),3,Itaquera
+3231,M,Solteiro(a),3,Itaquera
+3253,M,Solteiro(a),3,Itaquera
+3305,M,Solteiro(a),3,Itaquera
+3473,M,Solteiro(a),3,Itaquera
+3652,M,Solteiro(a),3,Itaquera
+3882,M,Solteiro(a),3,Itaquera
+3911,M,Solteiro(a),3,Itaquera
+3912,M,Solteiro(a),3,Itaquera
+3942,M,Solteiro(a),3,Itaquera
+3969,M,Solteiro(a),3,Itaquera
+4015,M,Solteiro(a),3,Itaquera
+4120,M,Solteiro(a),3,Itaquera
+4157,M,Solteiro(a),3,Itaquera
+4349,M,Solteiro(a),3,Itaquera
+4368,M,Solteiro(a),3,Itaquera
+4423,M,Solteiro(a),3,Itaquera
+4497,M,Solteiro(a),3,Itaquera
+4649,M,Solteiro(a),3,Itaquera
+4692,M,Solteiro(a),3,Itaquera
+4846,M,Solteiro(a),3,Itaquera
+5183,M,Solteiro(a),3,Itaquera
+5238,M,Solteiro(a),3,Itaquera
+5317,M,Solteiro(a),3,Itaquera
+5545,M,Solteiro(a),3,Itaquera
+5647,M,Solteiro(a),3,Itaquera
+5877,M,Solteiro(a),3,Itaquera
+6008,M,Solteiro(a),3,Itaquera
+6047,M,Solteiro(a),3,Itaquera
+6352,M,Solteiro(a),3,Itaquera
+6524,M,Solteiro(a),3,Itaquera
+6647,M,Solteiro(a),3,Itaquera
+6666,M,Solteiro(a),3,Itaquera
+6687,M,Solteiro(a),3,Itaquera
+6854,M,Solteiro(a),3,Itaquera
+7439,M,Solteiro(a),3,Itaquera
+7481,M,Solteiro(a),3,Itaquera
+7526,M,Solteiro(a),3,Itaquera
+7534,M,Solteiro(a),3,Itaquera
+7721,M,Solteiro(a),3,Itaquera
+7780,M,Solteiro(a),3,Itaquera
+7920,M,Solteiro(a),3,Itaquera
+8110,M,Solteiro(a),3,Itaquera
+8252,M,Solteiro(a),3,Itaquera
+8260,M,Solteiro(a),3,Itaquera
+8323,M,Solteiro(a),3,Itaquera
+8410,M,Solteiro(a),3,Itaquera
+8411,M,Solteiro(a),3,Itaquera
+9021,M,Solteiro(a),3,Itaquera
+9125,M,Solteiro(a),3,Itaquera
+9206,M,Solteiro(a),3,Itaquera
+9300,M,Solteiro(a),3,Itaquera
+9373,M,Solteiro(a),3,Itaquera
+9412,M,Solteiro(a),3,Itaquera
+9736,M,Solteiro(a),3,Itaquera
+9785,M,Solteiro(a),3,Itaquera
+9944,M,Solteiro(a),3,Itaquera
+9973,M,Solteiro(a),3,Itaquera
+10081,M,Solteiro(a),3,Itaquera
+10150,M,Solteiro(a),3,Itaquera
+993,M,Casado(a),3,Itaquera
+1003,M,Casado(a),3,Itaquera
+1172,M,Casado(a),3,Itaquera
+1316,M,Casado(a),3,Itaquera
+1321,M,Casado(a),3,Itaquera
+1334,M,Casado(a),3,Itaquera
+1684,M,Casado(a),3,Itaquera
+1743,M,Casado(a),3,Itaquera
+1744,M,Casado(a),3,Itaquera
+1913,M,Casado(a),3,Itaquera
+2132,M,Casado(a),3,Itaquera
+2193,M,Casado(a),3,Itaquera
+2259,M,Casado(a),3,Itaquera
+2506,M,Casado(a),3,Itaquera
+2594,M,Casado(a),3,Itaquera
+2614,M,Casado(a),3,Itaquera
+2742,M,Casado(a),3,Itaquera
+2795,M,Casado(a),3,Itaquera
+3070,M,Casado(a),3,Itaquera
+3113,M,Casado(a),3,Itaquera
+3115,M,Casado(a),3,Itaquera
+3691,M,Casado(a),3,Itaquera
+3869,M,Casado(a),3,Itaquera
+3922,M,Casado(a),3,Itaquera
+4029,M,Casado(a),3,Itaquera
+4099,M,Casado(a),3,Itaquera
+4127,M,Casado(a),3,Itaquera
+4197,M,Casado(a),3,Itaquera
+4215,M,Casado(a),3,Itaquera
+4413,M,Casado(a),3,Itaquera
+4484,M,Casado(a),3,Itaquera
+4623,M,Casado(a),3,Itaquera
+4699,M,Casado(a),3,Itaquera
+4736,M,Casado(a),3,Itaquera
+4783,M,Casado(a),3,Itaquera
+4881,M,Casado(a),3,Itaquera
+5018,M,Casado(a),3,Itaquera
+5024,M,Casado(a),3,Itaquera
+5040,M,Casado(a),3,Itaquera
+5060,M,Casado(a),3,Itaquera
+5230,M,Casado(a),3,Itaquera
+5256,M,Casado(a),3,Itaquera
+5303,M,Casado(a),3,Itaquera
+5502,M,Casado(a),3,Itaquera
+5503,M,Casado(a),3,Itaquera
+5580,M,Casado(a),3,Itaquera
+5734,M,Casado(a),3,Itaquera
+5748,M,Casado(a),3,Itaquera
+5824,M,Casado(a),3,Itaquera
+5906,M,Casado(a),3,Itaquera
+5925,M,Casado(a),3,Itaquera
+6012,M,Casado(a),3,Itaquera
+6172,M,Casado(a),3,Itaquera
+6681,M,Casado(a),3,Itaquera
+6720,M,Casado(a),3,Itaquera
+6843,M,Casado(a),3,Itaquera
+6949,M,Casado(a),3,Itaquera
+7012,M,Casado(a),3,Itaquera
+7060,M,Casado(a),3,Itaquera
+7141,M,Casado(a),3,Itaquera
+7207,M,Casado(a),3,Itaquera
+7373,M,Casado(a),3,Itaquera
+7521,M,Casado(a),3,Itaquera
+7522,M,Casado(a),3,Itaquera
+7655,M,Casado(a),3,Itaquera
+7801,M,Casado(a),3,Itaquera
+7927,M,Casado(a),3,Itaquera
+8046,M,Casado(a),3,Itaquera
+8107,M,Casado(a),3,Itaquera
+8199,M,Casado(a),3,Itaquera
+8325,M,Casado(a),3,Itaquera
+8466,M,Casado(a),3,Itaquera
+8659,M,Casado(a),3,Itaquera
+8667,M,Casado(a),3,Itaquera
+8701,M,Casado(a),3,Itaquera
+8758,M,Casado(a),3,Itaquera
+8851,M,Casado(a),3,Itaquera
+8935,M,Casado(a),3,Itaquera
+9044,M,Casado(a),3,Itaquera
+9162,M,Casado(a),3,Itaquera
+9190,M,Casado(a),3,Itaquera
+9362,M,Casado(a),3,Itaquera
+9487,M,Casado(a),3,Itaquera
+9500,M,Casado(a),3,Itaquera
+9554,M,Casado(a),3,Itaquera
+9567,M,Casado(a),3,Itaquera
+9691,M,Casado(a),3,Itaquera
+9767,M,Casado(a),3,Itaquera
+9800,M,Casado(a),3,Itaquera
+9929,M,Casado(a),3,Itaquera
+9974,M,Casado(a),3,Itaquera
+10055,M,Casado(a),3,Itaquera
+10116,M,Casado(a),3,Itaquera
+10176,M,Casado(a),3,Itaquera
+10192,M,Casado(a),3,Itaquera
+125,F,Casado(a),2,Itaquera
+208,F,Casado(a),2,Itaquera
+221,F,Casado(a),2,Itaquera
+240,F,Casado(a),2,Itaquera
+370,F,Casado(a),2,Itaquera
+422,F,Casado(a),2,Itaquera
+587,F,Casado(a),2,Itaquera
+614,F,Casado(a),2,Itaquera
+619,F,Casado(a),2,Itaquera
+639,F,Casado(a),2,Itaquera
+697,F,Casado(a),2,Itaquera
+711,F,Casado(a),2,Itaquera
+779,F,Casado(a),2,Itaquera
+806,F,Casado(a),2,Itaquera
+818,F,Casado(a),2,Itaquera
+831,F,Casado(a),2,Itaquera
+930,F,Casado(a),2,Itaquera
+988,F,Casado(a),2,Itaquera
+1079,F,Casado(a),2,Itaquera
+1102,F,Casado(a),2,Itaquera
+1240,F,Casado(a),2,Itaquera
+1370,F,Casado(a),2,Itaquera
+1928,F,Casado(a),2,Itaquera
+2656,F,Casado(a),2,Itaquera
+2844,F,Casado(a),2,Itaquera
+3011,F,Casado(a),2,Itaquera
+3271,F,Casado(a),2,Itaquera
+3334,F,Casado(a),2,Itaquera
+3423,F,Casado(a),2,Itaquera
+3551,F,Casado(a),2,Itaquera
+3681,F,Casado(a),2,Itaquera
+3929,F,Casado(a),2,Itaquera
+4498,F,Casado(a),2,Itaquera
+4615,F,Casado(a),2,Itaquera
+4832,F,Casado(a),2,Itaquera
+5088,F,Casado(a),2,Itaquera
+5170,F,Casado(a),2,Itaquera
+5341,F,Casado(a),2,Itaquera
+5410,F,Casado(a),2,Itaquera
+5431,F,Casado(a),2,Itaquera
+5644,F,Casado(a),2,Itaquera
+5819,F,Casado(a),2,Itaquera
+5871,F,Casado(a),2,Itaquera
+5899,F,Casado(a),2,Itaquera
+6001,F,Casado(a),2,Itaquera
+6350,F,Casado(a),2,Itaquera
+6547,F,Casado(a),2,Itaquera
+6617,F,Casado(a),2,Itaquera
+6690,F,Casado(a),2,Itaquera
+6760,F,Casado(a),2,Itaquera
+7218,F,Casado(a),2,Itaquera
+7223,F,Casado(a),2,Itaquera
+7281,F,Casado(a),2,Itaquera
+7432,F,Casado(a),2,Itaquera
+7469,F,Casado(a),2,Itaquera
+7611,F,Casado(a),2,Itaquera
+7638,F,Casado(a),2,Itaquera
+7641,F,Casado(a),2,Itaquera
+7714,F,Casado(a),2,Itaquera
+7723,F,Casado(a),2,Itaquera
+7750,F,Casado(a),2,Itaquera
+7968,F,Casado(a),2,Itaquera
+7989,F,Casado(a),2,Itaquera
+8108,F,Casado(a),2,Itaquera
+8111,F,Casado(a),2,Itaquera
+8190,F,Casado(a),2,Itaquera
+8291,F,Casado(a),2,Itaquera
+8467,F,Casado(a),2,Itaquera
+8606,F,Casado(a),2,Itaquera
+8682,F,Casado(a),2,Itaquera
+8766,F,Casado(a),2,Itaquera
+9017,F,Casado(a),2,Itaquera
+9387,F,Casado(a),2,Itaquera
+9640,F,Casado(a),2,Itaquera
+9812,F,Casado(a),2,Itaquera
+9898,F,Casado(a),2,Itaquera
+9997,F,Casado(a),2,Itaquera
+10004,F,Casado(a),2,Itaquera
+10034,F,Casado(a),2,Itaquera
+10070,F,Casado(a),2,Itaquera
+917,M,Casado(a),2,Itaquera
+962,M,Casado(a),2,Itaquera
+1110,M,Casado(a),2,Itaquera
+1203,M,Casado(a),2,Itaquera
+1237,M,Casado(a),2,Itaquera
+1347,M,Casado(a),2,Itaquera
+1392,M,Casado(a),2,Itaquera
+1575,M,Casado(a),2,Itaquera
+1773,M,Casado(a),2,Itaquera
+1822,M,Casado(a),2,Itaquera
+1901,M,Casado(a),2,Itaquera
+1932,M,Casado(a),2,Itaquera
+1957,M,Casado(a),2,Itaquera
+1973,M,Casado(a),2,Itaquera
+2065,M,Casado(a),2,Itaquera
+2112,M,Casado(a),2,Itaquera
+2151,M,Casado(a),2,Itaquera
+2188,M,Casado(a),2,Itaquera
+2194,M,Casado(a),2,Itaquera
+2278,M,Casado(a),2,Itaquera
+2389,M,Casado(a),2,Itaquera
+2511,M,Casado(a),2,Itaquera
+2599,M,Casado(a),2,Itaquera
+2698,M,Casado(a),2,Itaquera
+2771,M,Casado(a),2,Itaquera
+3140,M,Casado(a),2,Itaquera
+3213,M,Casado(a),2,Itaquera
+3302,M,Casado(a),2,Itaquera
+3470,M,Casado(a),2,Itaquera
+3541,M,Casado(a),2,Itaquera
+3599,M,Casado(a),2,Itaquera
+3650,M,Casado(a),2,Itaquera
+3768,M,Casado(a),2,Itaquera
+3966,M,Casado(a),2,Itaquera
+3976,M,Casado(a),2,Itaquera
+3980,M,Casado(a),2,Itaquera
+4528,M,Casado(a),2,Itaquera
+4552,M,Casado(a),2,Itaquera
+4630,M,Casado(a),2,Itaquera
+4739,M,Casado(a),2,Itaquera
+4909,M,Casado(a),2,Itaquera
+5222,M,Casado(a),2,Itaquera
+5428,M,Casado(a),2,Itaquera
+5433,M,Casado(a),2,Itaquera
+5714,M,Casado(a),2,Itaquera
+5790,M,Casado(a),2,Itaquera
+5948,M,Casado(a),2,Itaquera
+5989,M,Casado(a),2,Itaquera
+6072,M,Casado(a),2,Itaquera
+6095,M,Casado(a),2,Itaquera
+6130,M,Casado(a),2,Itaquera
+6713,M,Casado(a),2,Itaquera
+6730,M,Casado(a),2,Itaquera
+6904,M,Casado(a),2,Itaquera
+6951,M,Casado(a),2,Itaquera
+7081,M,Casado(a),2,Itaquera
+7224,M,Casado(a),2,Itaquera
+7548,M,Casado(a),2,Itaquera
+7639,M,Casado(a),2,Itaquera
+7813,M,Casado(a),2,Itaquera
+7882,M,Casado(a),2,Itaquera
+8000,M,Casado(a),2,Itaquera
+8015,M,Casado(a),2,Itaquera
+8478,M,Casado(a),2,Itaquera
+8644,M,Casado(a),2,Itaquera
+8814,M,Casado(a),2,Itaquera
+8963,M,Casado(a),2,Itaquera
+9081,M,Casado(a),2,Itaquera
+9494,M,Casado(a),2,Itaquera
+9578,M,Casado(a),2,Itaquera
+9588,M,Casado(a),2,Itaquera
+9850,M,Casado(a),2,Itaquera
+9920,M,Casado(a),2,Itaquera
+9937,M,Casado(a),2,Itaquera
+10091,M,Casado(a),2,Itaquera
+10167,M,Casado(a),2,Itaquera
+10250,M,Casado(a),2,Itaquera
+901,M,Solteiro(a),2,Itaquera
+996,M,Solteiro(a),2,Itaquera
+1173,M,Solteiro(a),2,Itaquera
+1187,M,Solteiro(a),2,Itaquera
+1271,M,Solteiro(a),2,Itaquera
+1468,M,Solteiro(a),2,Itaquera
+1538,M,Solteiro(a),2,Itaquera
+1646,M,Solteiro(a),2,Itaquera
+1655,M,Solteiro(a),2,Itaquera
+1675,M,Solteiro(a),2,Itaquera
+1874,M,Solteiro(a),2,Itaquera
+1893,M,Solteiro(a),2,Itaquera
+1922,M,Solteiro(a),2,Itaquera
+2111,M,Solteiro(a),2,Itaquera
+2335,M,Solteiro(a),2,Itaquera
+2426,M,Solteiro(a),2,Itaquera
+2471,M,Solteiro(a),2,Itaquera
+2563,M,Solteiro(a),2,Itaquera
+2762,M,Solteiro(a),2,Itaquera
+2818,M,Solteiro(a),2,Itaquera
+3196,M,Solteiro(a),2,Itaquera
+3325,M,Solteiro(a),2,Itaquera
+3486,M,Solteiro(a),2,Itaquera
+3497,M,Solteiro(a),2,Itaquera
+3529,M,Solteiro(a),2,Itaquera
+3539,M,Solteiro(a),2,Itaquera
+3663,M,Solteiro(a),2,Itaquera
+3706,M,Solteiro(a),2,Itaquera
+3827,M,Solteiro(a),2,Itaquera
+3855,M,Solteiro(a),2,Itaquera
+3906,M,Solteiro(a),2,Itaquera
+4137,M,Solteiro(a),2,Itaquera
+4162,M,Solteiro(a),2,Itaquera
+4261,M,Solteiro(a),2,Itaquera
+4315,M,Solteiro(a),2,Itaquera
+4454,M,Solteiro(a),2,Itaquera
+4556,M,Solteiro(a),2,Itaquera
+4664,M,Solteiro(a),2,Itaquera
+4724,M,Solteiro(a),2,Itaquera
+4775,M,Solteiro(a),2,Itaquera
+4861,M,Solteiro(a),2,Itaquera
+4995,M,Solteiro(a),2,Itaquera
+5022,M,Solteiro(a),2,Itaquera
+5038,M,Solteiro(a),2,Itaquera
+5067,M,Solteiro(a),2,Itaquera
+5355,M,Solteiro(a),2,Itaquera
+5436,M,Solteiro(a),2,Itaquera
+5547,M,Solteiro(a),2,Itaquera
+5612,M,Solteiro(a),2,Itaquera
+5810,M,Solteiro(a),2,Itaquera
+5952,M,Solteiro(a),2,Itaquera
+5982,M,Solteiro(a),2,Itaquera
+6169,M,Solteiro(a),2,Itaquera
+6417,M,Solteiro(a),2,Itaquera
+6505,M,Solteiro(a),2,Itaquera
+6516,M,Solteiro(a),2,Itaquera
+6607,M,Solteiro(a),2,Itaquera
+6609,M,Solteiro(a),2,Itaquera
+6799,M,Solteiro(a),2,Itaquera
+6851,M,Solteiro(a),2,Itaquera
+7059,M,Solteiro(a),2,Itaquera
+7455,M,Solteiro(a),2,Itaquera
+7496,M,Solteiro(a),2,Itaquera
+7510,M,Solteiro(a),2,Itaquera
+7781,M,Solteiro(a),2,Itaquera
+8072,M,Solteiro(a),2,Itaquera
+8124,M,Solteiro(a),2,Itaquera
+8189,M,Solteiro(a),2,Itaquera
+8298,M,Solteiro(a),2,Itaquera
+8314,M,Solteiro(a),2,Itaquera
+8563,M,Solteiro(a),2,Itaquera
+8657,M,Solteiro(a),2,Itaquera
+8692,M,Solteiro(a),2,Itaquera
+8749,M,Solteiro(a),2,Itaquera
+8765,M,Solteiro(a),2,Itaquera
+8818,M,Solteiro(a),2,Itaquera
+8926,M,Solteiro(a),2,Itaquera
+9026,M,Solteiro(a),2,Itaquera
+9061,M,Solteiro(a),2,Itaquera
+9182,M,Solteiro(a),2,Itaquera
+9345,M,Solteiro(a),2,Itaquera
+9405,M,Solteiro(a),2,Itaquera
+9673,M,Solteiro(a),2,Itaquera
+9873,M,Solteiro(a),2,Itaquera
+10186,M,Solteiro(a),2,Itaquera
+43,F,Solteiro(a),2,Itaquera
+79,F,Solteiro(a),2,Itaquera
+126,F,Solteiro(a),2,Itaquera
+148,F,Solteiro(a),2,Itaquera
+216,F,Solteiro(a),2,Itaquera
+329,F,Solteiro(a),2,Itaquera
+373,F,Solteiro(a),2,Itaquera
+446,F,Solteiro(a),2,Itaquera
+524,F,Solteiro(a),2,Itaquera
+551,F,Solteiro(a),2,Itaquera
+664,F,Solteiro(a),2,Itaquera
+669,F,Solteiro(a),2,Itaquera
+790,F,Solteiro(a),2,Itaquera
+803,F,Solteiro(a),2,Itaquera
+817,F,Solteiro(a),2,Itaquera
+819,F,Solteiro(a),2,Itaquera
+852,F,Solteiro(a),2,Itaquera
+1058,F,Solteiro(a),2,Itaquera
+1245,F,Solteiro(a),2,Itaquera
+1249,F,Solteiro(a),2,Itaquera
+1339,F,Solteiro(a),2,Itaquera
+1481,F,Solteiro(a),2,Itaquera
+1548,F,Solteiro(a),2,Itaquera
+2090,F,Solteiro(a),2,Itaquera
+2228,F,Solteiro(a),2,Itaquera
+2280,F,Solteiro(a),2,Itaquera
+2619,F,Solteiro(a),2,Itaquera
+2636,F,Solteiro(a),2,Itaquera
+2799,F,Solteiro(a),2,Itaquera
+2869,F,Solteiro(a),2,Itaquera
+2966,F,Solteiro(a),2,Itaquera
+3003,F,Solteiro(a),2,Itaquera
+3024,F,Solteiro(a),2,Itaquera
+3127,F,Solteiro(a),2,Itaquera
+3131,F,Solteiro(a),2,Itaquera
+3143,F,Solteiro(a),2,Itaquera
+3243,F,Solteiro(a),2,Itaquera
+3245,F,Solteiro(a),2,Itaquera
+3283,F,Solteiro(a),2,Itaquera
+3336,F,Solteiro(a),2,Itaquera
+3397,F,Solteiro(a),2,Itaquera
+3480,F,Solteiro(a),2,Itaquera
+3667,F,Solteiro(a),2,Itaquera
+3759,F,Solteiro(a),2,Itaquera
+3799,F,Solteiro(a),2,Itaquera
+3932,F,Solteiro(a),2,Itaquera
+3937,F,Solteiro(a),2,Itaquera
+3977,F,Solteiro(a),2,Itaquera
+4232,F,Solteiro(a),2,Itaquera
+4253,F,Solteiro(a),2,Itaquera
+4340,F,Solteiro(a),2,Itaquera
+4357,F,Solteiro(a),2,Itaquera
+4445,F,Solteiro(a),2,Itaquera
+4597,F,Solteiro(a),2,Itaquera
+4657,F,Solteiro(a),2,Itaquera
+4658,F,Solteiro(a),2,Itaquera
+4663,F,Solteiro(a),2,Itaquera
+4686,F,Solteiro(a),2,Itaquera
+4691,F,Solteiro(a),2,Itaquera
+4876,F,Solteiro(a),2,Itaquera
+5125,F,Solteiro(a),2,Itaquera
+5366,F,Solteiro(a),2,Itaquera
+5452,F,Solteiro(a),2,Itaquera
+5489,F,Solteiro(a),2,Itaquera
+5614,F,Solteiro(a),2,Itaquera
+5655,F,Solteiro(a),2,Itaquera
+5685,F,Solteiro(a),2,Itaquera
+5855,F,Solteiro(a),2,Itaquera
+5868,F,Solteiro(a),2,Itaquera
+5971,F,Solteiro(a),2,Itaquera
+6056,F,Solteiro(a),2,Itaquera
+6134,F,Solteiro(a),2,Itaquera
+6163,F,Solteiro(a),2,Itaquera
+6297,F,Solteiro(a),2,Itaquera
+6306,F,Solteiro(a),2,Itaquera
+6359,F,Solteiro(a),2,Itaquera
+6457,F,Solteiro(a),2,Itaquera
+6522,F,Solteiro(a),2,Itaquera
+6634,F,Solteiro(a),2,Itaquera
+6646,F,Solteiro(a),2,Itaquera
+6838,F,Solteiro(a),2,Itaquera
+6932,F,Solteiro(a),2,Itaquera
+7046,F,Solteiro(a),2,Itaquera
+7262,F,Solteiro(a),2,Itaquera
+7343,F,Solteiro(a),2,Itaquera
+7365,F,Solteiro(a),2,Itaquera
+7535,F,Solteiro(a),2,Itaquera
+7580,F,Solteiro(a),2,Itaquera
+7621,F,Solteiro(a),2,Itaquera
+7670,F,Solteiro(a),2,Itaquera
+7694,F,Solteiro(a),2,Itaquera
+7752,F,Solteiro(a),2,Itaquera
+7842,F,Solteiro(a),2,Itaquera
+8089,F,Solteiro(a),2,Itaquera
+8094,F,Solteiro(a),2,Itaquera
+8116,F,Solteiro(a),2,Itaquera
+8599,F,Solteiro(a),2,Itaquera
+8601,F,Solteiro(a),2,Itaquera
+8782,F,Solteiro(a),2,Itaquera
+8969,F,Solteiro(a),2,Itaquera
+9111,F,Solteiro(a),2,Itaquera
+9228,F,Solteiro(a),2,Itaquera
+9248,F,Solteiro(a),2,Itaquera
+9275,F,Solteiro(a),2,Itaquera
+9353,F,Solteiro(a),2,Itaquera
+9396,F,Solteiro(a),2,Itaquera
+9504,F,Solteiro(a),2,Itaquera
+9556,F,Solteiro(a),2,Itaquera
+9623,F,Solteiro(a),2,Itaquera
+9746,F,Solteiro(a),2,Itaquera
+9760,F,Solteiro(a),2,Itaquera
+9776,F,Solteiro(a),2,Itaquera
+9782,F,Solteiro(a),2,Itaquera
+9825,F,Solteiro(a),2,Itaquera
+10268,F,Solteiro(a),2,Itaquera
+93,F,Casado(a),5,Itaquera
+440,F,Casado(a),5,Itaquera
+493,F,Casado(a),5,Itaquera
+745,F,Casado(a),5,Itaquera
+782,F,Casado(a),5,Itaquera
+788,F,Casado(a),5,Itaquera
+863,F,Casado(a),5,Itaquera
+879,F,Casado(a),5,Itaquera
+1285,M,Casado(a),5,Itaquera
+1345,F,Casado(a),5,Itaquera
+1628,M,Casado(a),5,Itaquera
+1681,F,Casado(a),5,Itaquera
+1731,F,Casado(a),5,Itaquera
+1983,M,Casado(a),5,Itaquera
+2035,F,Casado(a),5,Itaquera
+2208,F,Casado(a),5,Itaquera
+2311,M,Casado(a),5,Itaquera
+2318,M,Casado(a),5,Itaquera
+2435,F,Casado(a),5,Itaquera
+2441,M,Casado(a),5,Itaquera
+2757,M,Casado(a),5,Itaquera
+2813,F,Casado(a),5,Itaquera
+2856,F,Casado(a),5,Itaquera
+2916,M,Casado(a),5,Itaquera
+3207,M,Casado(a),5,Itaquera
+3268,F,Casado(a),5,Itaquera
+3289,M,Casado(a),5,Itaquera
+3373,F,Casado(a),5,Itaquera
+3589,M,Casado(a),5,Itaquera
+3695,M,Casado(a),5,Itaquera
+3838,M,Casado(a),5,Itaquera
+3890,M,Casado(a),5,Itaquera
+3918,M,Casado(a),5,Itaquera
+4016,F,Casado(a),5,Itaquera
+4204,M,Casado(a),5,Itaquera
+4321,M,Casado(a),5,Itaquera
+4583,F,Casado(a),5,Itaquera
+4642,M,Casado(a),5,Itaquera
+4667,M,Casado(a),5,Itaquera
+4841,F,Casado(a),5,Itaquera
+4948,M,Casado(a),5,Itaquera
+5016,M,Casado(a),5,Itaquera
+5056,F,Casado(a),5,Itaquera
+5289,F,Casado(a),5,Itaquera
+5398,F,Casado(a),5,Itaquera
+5435,M,Casado(a),5,Itaquera
+5518,M,Casado(a),5,Itaquera
+5590,M,Casado(a),5,Itaquera
+5760,F,Casado(a),5,Itaquera
+5913,F,Casado(a),5,Itaquera
+5924,M,Casado(a),5,Itaquera
+5962,F,Casado(a),5,Itaquera
+5978,M,Casado(a),5,Itaquera
+6138,F,Casado(a),5,Itaquera
+6182,F,Casado(a),5,Itaquera
+6204,F,Casado(a),5,Itaquera
+6261,M,Casado(a),5,Itaquera
+6284,F,Casado(a),5,Itaquera
+6299,F,Casado(a),5,Itaquera
+6347,F,Casado(a),5,Itaquera
+6511,M,Casado(a),5,Itaquera
+6528,F,Casado(a),5,Itaquera
+6621,M,Casado(a),5,Itaquera
+6659,F,Casado(a),5,Itaquera
+6665,M,Casado(a),5,Itaquera
+6683,F,Casado(a),5,Itaquera
+6866,F,Casado(a),5,Itaquera
+6870,M,Casado(a),5,Itaquera
+7099,M,Casado(a),5,Itaquera
+7129,M,Casado(a),5,Itaquera
+7139,M,Casado(a),5,Itaquera
+7148,M,Casado(a),5,Itaquera
+7269,F,Casado(a),5,Itaquera
+7523,M,Casado(a),5,Itaquera
+7607,F,Casado(a),5,Itaquera
+7646,M,Casado(a),5,Itaquera
+7823,F,Casado(a),5,Itaquera
+7841,M,Casado(a),5,Itaquera
+7845,F,Casado(a),5,Itaquera
+8137,M,Casado(a),5,Itaquera
+8175,M,Casado(a),5,Itaquera
+8296,M,Casado(a),5,Itaquera
+8304,F,Casado(a),5,Itaquera
+8597,M,Casado(a),5,Itaquera
+8622,F,Casado(a),5,Itaquera
+8887,F,Casado(a),5,Itaquera
+8975,F,Casado(a),5,Itaquera
+8994,M,Casado(a),5,Itaquera
+9163,F,Casado(a),5,Itaquera
+9271,M,Casado(a),5,Itaquera
+9327,M,Casado(a),5,Itaquera
+9455,M,Casado(a),5,Itaquera
+9473,F,Casado(a),5,Itaquera
+9758,F,Casado(a),5,Itaquera
+9837,M,Casado(a),5,Itaquera
+9892,M,Casado(a),5,Itaquera
+10106,M,Casado(a),5,Itaquera
+10131,F,Casado(a),5,Itaquera
+10190,M,Casado(a),5,Itaquera
+10262,F,Casado(a),5,Itaquera
+10280,F,Casado(a),5,Itaquera
+45,F,Solteiro(a),5,Itaquera
+335,F,Solteiro(a),5,Itaquera
+676,F,Solteiro(a),5,Itaquera
+780,F,Solteiro(a),5,Itaquera
+994,M,Solteiro(a),5,Itaquera
+1073,M,Solteiro(a),5,Itaquera
+1130,M,Solteiro(a),5,Itaquera
+1154,F,Solteiro(a),5,Itaquera
+1161,M,Solteiro(a),5,Itaquera
+1322,M,Solteiro(a),5,Itaquera
+1328,M,Solteiro(a),5,Itaquera
+1337,M,Solteiro(a),5,Itaquera
+1602,F,Solteiro(a),5,Itaquera
+1941,F,Solteiro(a),5,Itaquera
+1995,F,Solteiro(a),5,Itaquera
+2106,M,Solteiro(a),5,Itaquera
+2211,F,Solteiro(a),5,Itaquera
+2244,F,Solteiro(a),5,Itaquera
+2412,M,Solteiro(a),5,Itaquera
+2572,M,Solteiro(a),5,Itaquera
+2770,F,Solteiro(a),5,Itaquera
+2968,M,Solteiro(a),5,Itaquera
+2973,M,Solteiro(a),5,Itaquera
+3130,F,Solteiro(a),5,Itaquera
+3415,M,Solteiro(a),5,Itaquera
+3634,M,Solteiro(a),5,Itaquera
+3731,F,Solteiro(a),5,Itaquera
+3898,F,Solteiro(a),5,Itaquera
+3950,F,Solteiro(a),5,Itaquera
+4045,M,Solteiro(a),5,Itaquera
+4283,M,Solteiro(a),5,Itaquera
+4465,M,Solteiro(a),5,Itaquera
+4573,M,Solteiro(a),5,Itaquera
+4712,M,Solteiro(a),5,Itaquera
+4892,M,Solteiro(a),5,Itaquera
+4951,M,Solteiro(a),5,Itaquera
+5026,M,Solteiro(a),5,Itaquera
+5241,F,Solteiro(a),5,Itaquera
+5244,F,Solteiro(a),5,Itaquera
+5280,F,Solteiro(a),5,Itaquera
+5335,M,Solteiro(a),5,Itaquera
+5782,M,Solteiro(a),5,Itaquera
+5792,M,Solteiro(a),5,Itaquera
+5896,F,Solteiro(a),5,Itaquera
+5941,M,Solteiro(a),5,Itaquera
+6145,F,Solteiro(a),5,Itaquera
+6180,M,Solteiro(a),5,Itaquera
+6560,F,Solteiro(a),5,Itaquera
+6715,M,Solteiro(a),5,Itaquera
+6945,M,Solteiro(a),5,Itaquera
+7018,M,Solteiro(a),5,Itaquera
+7127,M,Solteiro(a),5,Itaquera
+7444,M,Solteiro(a),5,Itaquera
+7556,F,Solteiro(a),5,Itaquera
+7589,F,Solteiro(a),5,Itaquera
+7733,M,Solteiro(a),5,Itaquera
+7791,M,Solteiro(a),5,Itaquera
+7797,M,Solteiro(a),5,Itaquera
+7830,M,Solteiro(a),5,Itaquera
+7897,M,Solteiro(a),5,Itaquera
+7997,F,Solteiro(a),5,Itaquera
+8154,F,Solteiro(a),5,Itaquera
+8329,M,Solteiro(a),5,Itaquera
+8359,F,Solteiro(a),5,Itaquera
+8487,F,Solteiro(a),5,Itaquera
+8504,F,Solteiro(a),5,Itaquera
+8663,M,Solteiro(a),5,Itaquera
+9087,F,Solteiro(a),5,Itaquera
+9088,F,Solteiro(a),5,Itaquera
+9208,F,Solteiro(a),5,Itaquera
+9272,F,Solteiro(a),5,Itaquera
+9286,M,Solteiro(a),5,Itaquera
+9317,F,Solteiro(a),5,Itaquera
+9417,M,Solteiro(a),5,Itaquera
+9564,M,Solteiro(a),5,Itaquera
+9569,M,Solteiro(a),5,Itaquera
+9611,F,Solteiro(a),5,Itaquera
+9747,M,Solteiro(a),5,Itaquera
+9867,F,Solteiro(a),5,Itaquera
+9900,M,Solteiro(a),5,Itaquera
+10058,F,Solteiro(a),5,Itaquera
+10152,M,Solteiro(a),5,Itaquera
+10174,M,Solteiro(a),5,Itaquera
+924,M,Casado(a),5,Guaianases
+1083,M,Casado(a),5,Guaianases
+1241,M,Solteiro(a),5,Guaianases
+1338,M,Solteiro(a),5,Guaianases
+1547,M,Solteiro(a),5,Guaianases
+1565,M,Casado(a),5,Guaianases
+1737,M,Casado(a),5,Guaianases
+1770,M,Solteiro(a),5,Guaianases
+1887,M,Casado(a),5,Guaianases
+1979,M,Solteiro(a),5,Guaianases
+2053,M,Solteiro(a),5,Guaianases
+2204,M,Solteiro(a),5,Guaianases
+2460,M,Solteiro(a),5,Guaianases
+2673,M,Casado(a),5,Guaianases
+2924,M,Solteiro(a),5,Guaianases
+3041,M,Solteiro(a),5,Guaianases
+3412,M,Solteiro(a),5,Guaianases
+3527,M,Solteiro(a),5,Guaianases
+3797,M,Casado(a),5,Guaianases
+3828,M,Casado(a),5,Guaianases
+3893,M,Casado(a),5,Guaianases
+4116,M,Casado(a),5,Guaianases
+4273,M,Casado(a),5,Guaianases
+4295,M,Solteiro(a),5,Guaianases
+4386,M,Solteiro(a),5,Guaianases
+4463,M,Solteiro(a),5,Guaianases
+4824,M,Solteiro(a),5,Guaianases
+4836,M,Solteiro(a),5,Guaianases
+4953,M,Solteiro(a),5,Guaianases
+5103,M,Solteiro(a),5,Guaianases
+5631,M,Solteiro(a),5,Guaianases
+5766,M,Casado(a),5,Guaianases
+5900,M,Casado(a),5,Guaianases
+6044,M,Solteiro(a),5,Guaianases
+6194,M,Casado(a),5,Guaianases
+6496,M,Casado(a),5,Guaianases
+6703,M,Solteiro(a),5,Guaianases
+6841,M,Casado(a),5,Guaianases
+6861,M,Solteiro(a),5,Guaianases
+6999,M,Solteiro(a),5,Guaianases
+7001,M,Casado(a),5,Guaianases
+7301,M,Casado(a),5,Guaianases
+7310,M,Casado(a),5,Guaianases
+7341,M,Solteiro(a),5,Guaianases
+7348,M,Casado(a),5,Guaianases
+7384,M,Solteiro(a),5,Guaianases
+7541,M,Casado(a),5,Guaianases
+7547,M,Solteiro(a),5,Guaianases
+7662,M,Casado(a),5,Guaianases
+7814,M,Casado(a),5,Guaianases
+7836,M,Solteiro(a),5,Guaianases
+7942,M,Solteiro(a),5,Guaianases
+8117,M,Solteiro(a),5,Guaianases
+8477,M,Solteiro(a),5,Guaianases
+8797,M,Casado(a),5,Guaianases
+8897,M,Solteiro(a),5,Guaianases
+9013,M,Casado(a),5,Guaianases
+9116,M,Solteiro(a),5,Guaianases
+9397,M,Casado(a),5,Guaianases
+9631,M,Casado(a),5,Guaianases
+9815,M,Casado(a),5,Guaianases
+225,F,Solteiro(a),5,Guaianases
+260,F,Casado(a),5,Guaianases
+301,F,Casado(a),5,Guaianases
+478,F,Casado(a),5,Guaianases
+538,F,Solteiro(a),5,Guaianases
+647,F,Casado(a),5,Guaianases
+690,F,Solteiro(a),5,Guaianases
+740,F,Solteiro(a),5,Guaianases
+820,F,Solteiro(a),5,Guaianases
+856,F,Casado(a),5,Guaianases
+976,F,Casado(a),5,Guaianases
+1146,F,Casado(a),5,Guaianases
+1170,F,Solteiro(a),5,Guaianases
+1195,F,Solteiro(a),5,Guaianases
+1357,F,Solteiro(a),5,Guaianases
+1428,F,Solteiro(a),5,Guaianases
+1444,F,Casado(a),5,Guaianases
+1469,F,Casado(a),5,Guaianases
+1669,F,Casado(a),5,Guaianases
+1754,F,Solteiro(a),5,Guaianases
+1785,F,Solteiro(a),5,Guaianases
+2034,F,Casado(a),5,Guaianases
+2384,F,Casado(a),5,Guaianases
+2665,F,Solteiro(a),5,Guaianases
+2687,F,Solteiro(a),5,Guaianases
+2791,F,Casado(a),5,Guaianases
+2896,F,Solteiro(a),5,Guaianases
+3066,F,Solteiro(a),5,Guaianases
+3139,F,Solteiro(a),5,Guaianases
+3179,F,Casado(a),5,Guaianases
+3434,F,Solteiro(a),5,Guaianases
+3458,F,Solteiro(a),5,Guaianases
+3787,F,Solteiro(a),5,Guaianases
+4026,F,Casado(a),5,Guaianases
+4051,F,Casado(a),5,Guaianases
+4175,F,Casado(a),5,Guaianases
+4211,F,Solteiro(a),5,Guaianases
+4220,F,Casado(a),5,Guaianases
+4226,F,Casado(a),5,Guaianases
+4476,F,Solteiro(a),5,Guaianases
+4595,F,Solteiro(a),5,Guaianases
+4750,F,Solteiro(a),5,Guaianases
+4763,F,Casado(a),5,Guaianases
+4774,F,Casado(a),5,Guaianases
+4784,F,Casado(a),5,Guaianases
+4864,F,Casado(a),5,Guaianases
+5185,F,Casado(a),5,Guaianases
+5543,F,Solteiro(a),5,Guaianases
+5572,F,Solteiro(a),5,Guaianases
+6107,F,Casado(a),5,Guaianases
+6501,F,Solteiro(a),5,Guaianases
+6527,F,Solteiro(a),5,Guaianases
+6573,F,Casado(a),5,Guaianases
+6741,F,Casado(a),5,Guaianases
+6822,F,Solteiro(a),5,Guaianases
+6912,F,Casado(a),5,Guaianases
+7123,F,Solteiro(a),5,Guaianases
+7134,F,Casado(a),5,Guaianases
+7154,F,Casado(a),5,Guaianases
+7236,F,Solteiro(a),5,Guaianases
+7387,F,Casado(a),5,Guaianases
+7810,F,Solteiro(a),5,Guaianases
+7930,F,Casado(a),5,Guaianases
+8041,F,Casado(a),5,Guaianases
+8063,F,Solteiro(a),5,Guaianases
+8322,F,Solteiro(a),5,Guaianases
+8363,F,Casado(a),5,Guaianases
+8522,F,Casado(a),5,Guaianases
+8697,F,Solteiro(a),5,Guaianases
+8907,F,Casado(a),5,Guaianases
+9040,F,Solteiro(a),5,Guaianases
+9167,F,Solteiro(a),5,Guaianases
+9343,F,Casado(a),5,Guaianases
+9510,F,Solteiro(a),5,Guaianases
+9533,F,Casado(a),5,Guaianases
+9535,F,Casado(a),5,Guaianases
+9536,F,Casado(a),5,Guaianases
+9719,F,Solteiro(a),5,Guaianases
+9797,F,Casado(a),5,Guaianases
+9928,F,Solteiro(a),5,Guaianases
+10133,F,Casado(a),5,Guaianases
+1005,M,Solteiro(a),2,Guaianases
+1084,M,Casado(a),2,Guaianases
+1191,M,Solteiro(a),2,Guaianases
+1235,M,Solteiro(a),2,Guaianases
+1412,M,Casado(a),2,Guaianases
+1430,M,Solteiro(a),2,Guaianases
+1567,M,Casado(a),2,Guaianases
+1587,M,Casado(a),2,Guaianases
+1594,M,Casado(a),2,Guaianases
+1596,M,Casado(a),2,Guaianases
+1690,M,Casado(a),2,Guaianases
+1999,M,Casado(a),2,Guaianases
+2294,M,Solteiro(a),2,Guaianases
+2355,M,Casado(a),2,Guaianases
+2359,M,Casado(a),2,Guaianases
+2376,M,Solteiro(a),2,Guaianases
+2496,M,Solteiro(a),2,Guaianases
+2513,M,Solteiro(a),2,Guaianases
+2535,M,Casado(a),2,Guaianases
+2553,M,Casado(a),2,Guaianases
+2556,M,Casado(a),2,Guaianases
+2568,M,Casado(a),2,Guaianases
+2570,M,Casado(a),2,Guaianases
+2623,M,Casado(a),2,Guaianases
+2882,M,Solteiro(a),2,Guaianases
+3033,M,Solteiro(a),2,Guaianases
+3193,M,Solteiro(a),2,Guaianases
+3210,M,Solteiro(a),2,Guaianases
+3442,M,Casado(a),2,Guaianases
+3448,M,Casado(a),2,Guaianases
+3640,M,Solteiro(a),2,Guaianases
+3642,M,Casado(a),2,Guaianases
+3711,M,Solteiro(a),2,Guaianases
+3735,M,Solteiro(a),2,Guaianases
+3742,M,Casado(a),2,Guaianases
+3826,M,Casado(a),2,Guaianases
+3878,M,Casado(a),2,Guaianases
+3986,M,Casado(a),2,Guaianases
+4075,M,Casado(a),2,Guaianases
+4096,M,Solteiro(a),2,Guaianases
+4334,M,Solteiro(a),2,Guaianases
+4370,M,Solteiro(a),2,Guaianases
+4397,M,Solteiro(a),2,Guaianases
+4417,M,Casado(a),2,Guaianases
+4693,M,Solteiro(a),2,Guaianases
+4771,M,Solteiro(a),2,Guaianases
+4791,M,Casado(a),2,Guaianases
+4903,M,Casado(a),2,Guaianases
+4915,M,Solteiro(a),2,Guaianases
+5320,M,Casado(a),2,Guaianases
+5339,M,Casado(a),2,Guaianases
+5360,M,Solteiro(a),2,Guaianases
+5542,M,Solteiro(a),2,Guaianases
+5611,M,Casado(a),2,Guaianases
+5733,M,Casado(a),2,Guaianases
+5781,M,Casado(a),2,Guaianases
+5801,M,Solteiro(a),2,Guaianases
+5835,M,Solteiro(a),2,Guaianases
+5875,M,Solteiro(a),2,Guaianases
+5898,M,Solteiro(a),2,Guaianases
+5944,M,Solteiro(a),2,Guaianases
+5967,M,Solteiro(a),2,Guaianases
+5973,M,Casado(a),2,Guaianases
+6009,M,Solteiro(a),2,Guaianases
+6273,M,Solteiro(a),2,Guaianases
+6311,M,Solteiro(a),2,Guaianases
+6320,M,Casado(a),2,Guaianases
+6348,M,Casado(a),2,Guaianases
+6406,M,Casado(a),2,Guaianases
+6460,M,Casado(a),2,Guaianases
+6642,M,Casado(a),2,Guaianases
+6766,M,Solteiro(a),2,Guaianases
+6772,M,Solteiro(a),2,Guaianases
+6832,M,Solteiro(a),2,Guaianases
+6835,M,Casado(a),2,Guaianases
+6844,M,Solteiro(a),2,Guaianases
+6972,M,Casado(a),2,Guaianases
+7014,M,Casado(a),2,Guaianases
+7112,M,Solteiro(a),2,Guaianases
+7131,M,Solteiro(a),2,Guaianases
+7185,M,Solteiro(a),2,Guaianases
+7220,M,Casado(a),2,Guaianases
+7247,M,Solteiro(a),2,Guaianases
+7323,M,Solteiro(a),2,Guaianases
+7362,M,Solteiro(a),2,Guaianases
+7377,M,Casado(a),2,Guaianases
+7401,M,Casado(a),2,Guaianases
+7449,M,Casado(a),2,Guaianases
+7490,M,Solteiro(a),2,Guaianases
+7555,M,Casado(a),2,Guaianases
+7567,M,Casado(a),2,Guaianases
+7595,M,Casado(a),2,Guaianases
+7596,M,Solteiro(a),2,Guaianases
+7702,M,Solteiro(a),2,Guaianases
+7849,M,Casado(a),2,Guaianases
+7887,M,Solteiro(a),2,Guaianases
+7893,M,Casado(a),2,Guaianases
+8114,M,Casado(a),2,Guaianases
+8271,M,Casado(a),2,Guaianases
+8451,M,Solteiro(a),2,Guaianases
+8499,M,Solteiro(a),2,Guaianases
+8558,M,Solteiro(a),2,Guaianases
+8570,M,Solteiro(a),2,Guaianases
+8786,M,Casado(a),2,Guaianases
+8849,M,Solteiro(a),2,Guaianases
+8911,M,Casado(a),2,Guaianases
+8915,M,Solteiro(a),2,Guaianases
+8947,M,Solteiro(a),2,Guaianases
+8960,M,Casado(a),2,Guaianases
+9057,M,Casado(a),2,Guaianases
+9080,M,Solteiro(a),2,Guaianases
+9281,M,Solteiro(a),2,Guaianases
+9331,M,Solteiro(a),2,Guaianases
+9335,M,Casado(a),2,Guaianases
+9551,M,Casado(a),2,Guaianases
+9656,M,Casado(a),2,Guaianases
+9795,M,Solteiro(a),2,Guaianases
+9819,M,Casado(a),2,Guaianases
+9992,M,Solteiro(a),2,Guaianases
+10099,M,Casado(a),2,Guaianases
+10233,M,Casado(a),2,Guaianases
+140,F,Casado(a),2,Guaianases
+235,F,Casado(a),2,Guaianases
+481,F,Casado(a),2,Guaianases
+526,F,Casado(a),2,Guaianases
+621,F,Casado(a),2,Guaianases
+741,F,Casado(a),2,Guaianases
+781,F,Casado(a),2,Guaianases
+850,F,Casado(a),2,Guaianases
+985,F,Casado(a),2,Guaianases
+1132,F,Casado(a),2,Guaianases
+1787,F,Casado(a),2,Guaianases
+1926,F,Casado(a),2,Guaianases
+2024,F,Casado(a),2,Guaianases
+2201,F,Casado(a),2,Guaianases
+2220,F,Casado(a),2,Guaianases
+2512,F,Casado(a),2,Guaianases
+2613,F,Casado(a),2,Guaianases
+2723,F,Casado(a),2,Guaianases
+3293,F,Casado(a),2,Guaianases
+3311,F,Casado(a),2,Guaianases
+3390,F,Casado(a),2,Guaianases
+3436,F,Casado(a),2,Guaianases
+3593,F,Casado(a),2,Guaianases
+3639,F,Casado(a),2,Guaianases
+3718,F,Casado(a),2,Guaianases
+4105,F,Casado(a),2,Guaianases
+4149,F,Casado(a),2,Guaianases
+4185,F,Casado(a),2,Guaianases
+4230,F,Casado(a),2,Guaianases
+4256,F,Casado(a),2,Guaianases
+4579,F,Casado(a),2,Guaianases
+4707,F,Casado(a),2,Guaianases
+4942,F,Casado(a),2,Guaianases
+5216,F,Casado(a),2,Guaianases
+5331,F,Casado(a),2,Guaianases
+5340,F,Casado(a),2,Guaianases
+5346,F,Casado(a),2,Guaianases
+5694,F,Casado(a),2,Guaianases
+5768,F,Casado(a),2,Guaianases
+5774,F,Casado(a),2,Guaianases
+6133,F,Casado(a),2,Guaianases
+6148,F,Casado(a),2,Guaianases
+6190,F,Casado(a),2,Guaianases
+6534,F,Casado(a),2,Guaianases
+6947,F,Casado(a),2,Guaianases
+7202,F,Casado(a),2,Guaianases
+7266,F,Casado(a),2,Guaianases
+7366,F,Casado(a),2,Guaianases
+7519,F,Casado(a),2,Guaianases
+7717,F,Casado(a),2,Guaianases
+7914,F,Casado(a),2,Guaianases
+7964,F,Casado(a),2,Guaianases
+8134,F,Casado(a),2,Guaianases
+8342,F,Casado(a),2,Guaianases
+8370,F,Casado(a),2,Guaianases
+8374,F,Casado(a),2,Guaianases
+8471,F,Casado(a),2,Guaianases
+8629,F,Casado(a),2,Guaianases
+8737,F,Casado(a),2,Guaianases
+9102,F,Casado(a),2,Guaianases
+9225,F,Casado(a),2,Guaianases
+9263,F,Casado(a),2,Guaianases
+9488,F,Casado(a),2,Guaianases
+9644,F,Casado(a),2,Guaianases
+10020,F,Casado(a),2,Guaianases
+20,F,Solteiro(a),2,Guaianases
+81,F,Solteiro(a),2,Guaianases
+118,F,Solteiro(a),2,Guaianases
+165,F,Solteiro(a),2,Guaianases
+226,F,Solteiro(a),2,Guaianases
+366,F,Solteiro(a),2,Guaianases
+376,F,Solteiro(a),2,Guaianases
+573,F,Solteiro(a),2,Guaianases
+574,F,Solteiro(a),2,Guaianases
+834,F,Solteiro(a),2,Guaianases
+983,F,Solteiro(a),2,Guaianases
+1070,F,Solteiro(a),2,Guaianases
+1159,F,Solteiro(a),2,Guaianases
+1268,F,Solteiro(a),2,Guaianases
+1312,F,Solteiro(a),2,Guaianases
+1317,F,Solteiro(a),2,Guaianases
+1457,F,Solteiro(a),2,Guaianases
+1636,F,Solteiro(a),2,Guaianases
+1942,F,Solteiro(a),2,Guaianases
+1972,F,Solteiro(a),2,Guaianases
+2071,F,Solteiro(a),2,Guaianases
+2397,F,Solteiro(a),2,Guaianases
+2605,F,Solteiro(a),2,Guaianases
+2694,F,Solteiro(a),2,Guaianases
+2725,F,Solteiro(a),2,Guaianases
+3081,F,Solteiro(a),2,Guaianases
+3218,F,Solteiro(a),2,Guaianases
+3288,F,Solteiro(a),2,Guaianases
+3404,F,Solteiro(a),2,Guaianases
+3441,F,Solteiro(a),2,Guaianases
+3626,F,Solteiro(a),2,Guaianases
+3782,F,Solteiro(a),2,Guaianases
+3801,F,Solteiro(a),2,Guaianases
+3816,F,Solteiro(a),2,Guaianases
+4011,F,Solteiro(a),2,Guaianases
+4078,F,Solteiro(a),2,Guaianases
+4094,F,Solteiro(a),2,Guaianases
+4143,F,Solteiro(a),2,Guaianases
+4219,F,Solteiro(a),2,Guaianases
+4257,F,Solteiro(a),2,Guaianases
+4614,F,Solteiro(a),2,Guaianases
+5118,F,Solteiro(a),2,Guaianases
+5126,F,Solteiro(a),2,Guaianases
+5153,F,Solteiro(a),2,Guaianases
+5362,F,Solteiro(a),2,Guaianases
+5365,F,Solteiro(a),2,Guaianases
+5528,F,Solteiro(a),2,Guaianases
+5597,F,Solteiro(a),2,Guaianases
+5682,F,Solteiro(a),2,Guaianases
+5908,F,Solteiro(a),2,Guaianases
+5914,F,Solteiro(a),2,Guaianases
+6114,F,Solteiro(a),2,Guaianases
+6203,F,Solteiro(a),2,Guaianases
+6341,F,Solteiro(a),2,Guaianases
+6388,F,Solteiro(a),2,Guaianases
+6598,F,Solteiro(a),2,Guaianases
+6645,F,Solteiro(a),2,Guaianases
+6739,F,Solteiro(a),2,Guaianases
+6924,F,Solteiro(a),2,Guaianases
+6957,F,Solteiro(a),2,Guaianases
+7068,F,Solteiro(a),2,Guaianases
+7072,F,Solteiro(a),2,Guaianases
+7287,F,Solteiro(a),2,Guaianases
+7305,F,Solteiro(a),2,Guaianases
+7361,F,Solteiro(a),2,Guaianases
+7822,F,Solteiro(a),2,Guaianases
+8113,F,Solteiro(a),2,Guaianases
+8220,F,Solteiro(a),2,Guaianases
+8354,F,Solteiro(a),2,Guaianases
+8576,F,Solteiro(a),2,Guaianases
+8630,F,Solteiro(a),2,Guaianases
+8784,F,Solteiro(a),2,Guaianases
+8872,F,Solteiro(a),2,Guaianases
+8891,F,Solteiro(a),2,Guaianases
+9175,F,Solteiro(a),2,Guaianases
+9370,F,Solteiro(a),2,Guaianases
+9440,F,Solteiro(a),2,Guaianases
+9481,F,Solteiro(a),2,Guaianases
+9801,F,Solteiro(a),2,Guaianases
+10019,F,Solteiro(a),2,Guaianases
+10033,F,Solteiro(a),2,Guaianases
+905,M,Solteiro(a),4,Guaianases
+958,M,Casado(a),4,Guaianases
+1041,M,Solteiro(a),4,Guaianases
+1112,M,Casado(a),4,Guaianases
+1114,M,Casado(a),4,Guaianases
+1178,M,Solteiro(a),4,Guaianases
+1275,M,Solteiro(a),4,Guaianases
+1286,M,Casado(a),4,Guaianases
+1297,M,Solteiro(a),4,Guaianases
+1311,M,Casado(a),4,Guaianases
+1432,M,Solteiro(a),4,Guaianases
+1564,M,Casado(a),4,Guaianases
+1572,M,Casado(a),4,Guaianases
+1582,M,Casado(a),4,Guaianases
+1617,M,Casado(a),4,Guaianases
+1624,M,Solteiro(a),4,Guaianases
+1633,M,Solteiro(a),4,Guaianases
+1741,M,Casado(a),4,Guaianases
+1763,M,Casado(a),4,Guaianases
+1795,M,Solteiro(a),4,Guaianases
+1808,M,Solteiro(a),4,Guaianases
+1811,M,Solteiro(a),4,Guaianases
+1890,M,Casado(a),4,Guaianases
+2019,M,Solteiro(a),4,Guaianases
+2043,M,Casado(a),4,Guaianases
+2144,M,Casado(a),4,Guaianases
+2245,M,Casado(a),4,Guaianases
+2260,M,Casado(a),4,Guaianases
+2747,M,Solteiro(a),4,Guaianases
+2850,M,Solteiro(a),4,Guaianases
+2908,M,Casado(a),4,Guaianases
+2929,M,Solteiro(a),4,Guaianases
+3037,M,Casado(a),4,Guaianases
+3104,M,Solteiro(a),4,Guaianases
+3109,M,Solteiro(a),4,Guaianases
+3219,M,Solteiro(a),4,Guaianases
+3425,M,Solteiro(a),4,Guaianases
+3469,M,Casado(a),4,Guaianases
+3543,M,Solteiro(a),4,Guaianases
+3676,M,Casado(a),4,Guaianases
+3804,M,Solteiro(a),4,Guaianases
+3859,M,Solteiro(a),4,Guaianases
+3873,M,Casado(a),4,Guaianases
+3889,M,Casado(a),4,Guaianases
+4263,M,Casado(a),4,Guaianases
+4376,M,Casado(a),4,Guaianases
+4514,M,Solteiro(a),4,Guaianases
+4634,M,Casado(a),4,Guaianases
+4635,M,Casado(a),4,Guaianases
+4843,M,Solteiro(a),4,Guaianases
+5174,M,Casado(a),4,Guaianases
+5305,M,Solteiro(a),4,Guaianases
+5388,M,Casado(a),4,Guaianases
+5407,M,Casado(a),4,Guaianases
+5499,M,Casado(a),4,Guaianases
+5639,M,Solteiro(a),4,Guaianases
+5664,M,Casado(a),4,Guaianases
+5724,M,Casado(a),4,Guaianases
+5813,M,Solteiro(a),4,Guaianases
+5857,M,Casado(a),4,Guaianases
+5894,M,Solteiro(a),4,Guaianases
+6100,M,Casado(a),4,Guaianases
+6181,M,Casado(a),4,Guaianases
+6459,M,Casado(a),4,Guaianases
+6553,M,Solteiro(a),4,Guaianases
+6616,M,Solteiro(a),4,Guaianases
+6669,M,Casado(a),4,Guaianases
+6692,M,Solteiro(a),4,Guaianases
+6824,M,Casado(a),4,Guaianases
+6925,M,Solteiro(a),4,Guaianases
+6948,M,Solteiro(a),4,Guaianases
+6995,M,Solteiro(a),4,Guaianases
+7151,M,Solteiro(a),4,Guaianases
+7180,M,Solteiro(a),4,Guaianases
+7239,M,Solteiro(a),4,Guaianases
+7434,M,Solteiro(a),4,Guaianases
+7453,M,Casado(a),4,Guaianases
+7594,M,Solteiro(a),4,Guaianases
+7606,M,Solteiro(a),4,Guaianases
+7643,M,Solteiro(a),4,Guaianases
+7729,M,Solteiro(a),4,Guaianases
+7793,M,Casado(a),4,Guaianases
+7811,M,Solteiro(a),4,Guaianases
+7862,M,Casado(a),4,Guaianases
+7971,M,Casado(a),4,Guaianases
+7978,M,Casado(a),4,Guaianases
+8034,M,Solteiro(a),4,Guaianases
+8138,M,Casado(a),4,Guaianases
+8215,M,Casado(a),4,Guaianases
+8263,M,Solteiro(a),4,Guaianases
+8351,M,Solteiro(a),4,Guaianases
+8390,M,Casado(a),4,Guaianases
+8415,M,Solteiro(a),4,Guaianases
+8452,M,Casado(a),4,Guaianases
+8529,M,Casado(a),4,Guaianases
+8623,M,Solteiro(a),4,Guaianases
+9050,M,Solteiro(a),4,Guaianases
+9058,M,Solteiro(a),4,Guaianases
+9130,M,Casado(a),4,Guaianases
+9223,M,Casado(a),4,Guaianases
+9233,M,Casado(a),4,Guaianases
+9251,M,Casado(a),4,Guaianases
+9270,M,Casado(a),4,Guaianases
+9288,M,Casado(a),4,Guaianases
+9306,M,Casado(a),4,Guaianases
+9308,M,Casado(a),4,Guaianases
+9393,M,Solteiro(a),4,Guaianases
+9467,M,Solteiro(a),4,Guaianases
+9642,M,Casado(a),4,Guaianases
+9909,M,Solteiro(a),4,Guaianases
+9951,M,Casado(a),4,Guaianases
+10039,M,Casado(a),4,Guaianases
+10064,M,Casado(a),4,Guaianases
+10277,M,Casado(a),4,Guaianases
+159,F,Casado(a),4,Guaianases
+192,F,Casado(a),4,Guaianases
+323,F,Casado(a),4,Guaianases
+360,F,Casado(a),4,Guaianases
+395,F,Casado(a),4,Guaianases
+511,F,Casado(a),4,Guaianases
+629,F,Casado(a),4,Guaianases
+747,F,Casado(a),4,Guaianases
+789,F,Casado(a),4,Guaianases
+873,F,Casado(a),4,Guaianases
+1049,F,Casado(a),4,Guaianases
+1103,F,Casado(a),4,Guaianases
+1204,F,Casado(a),4,Guaianases
+1281,F,Casado(a),4,Guaianases
+1310,F,Casado(a),4,Guaianases
+1386,F,Casado(a),4,Guaianases
+1528,F,Casado(a),4,Guaianases
+1551,F,Casado(a),4,Guaianases
+1561,F,Casado(a),4,Guaianases
+2134,F,Casado(a),4,Guaianases
+2153,F,Casado(a),4,Guaianases
+2310,F,Casado(a),4,Guaianases
+2378,F,Casado(a),4,Guaianases
+2706,F,Casado(a),4,Guaianases
+2775,F,Casado(a),4,Guaianases
+2825,F,Casado(a),4,Guaianases
+2878,F,Casado(a),4,Guaianases
+3012,F,Casado(a),4,Guaianases
+3019,F,Casado(a),4,Guaianases
+3068,F,Casado(a),4,Guaianases
+3124,F,Casado(a),4,Guaianases
+3180,F,Casado(a),4,Guaianases
+3199,F,Casado(a),4,Guaianases
+3202,F,Casado(a),4,Guaianases
+3386,F,Casado(a),4,Guaianases
+3395,F,Casado(a),4,Guaianases
+3440,F,Casado(a),4,Guaianases
+3471,F,Casado(a),4,Guaianases
+3495,F,Casado(a),4,Guaianases
+3577,F,Casado(a),4,Guaianases
+3808,F,Casado(a),4,Guaianases
+4080,F,Casado(a),4,Guaianases
+4088,F,Casado(a),4,Guaianases
+4218,F,Casado(a),4,Guaianases
+4288,F,Casado(a),4,Guaianases
+4296,F,Casado(a),4,Guaianases
+4727,F,Casado(a),4,Guaianases
+4792,F,Casado(a),4,Guaianases
+4943,F,Casado(a),4,Guaianases
+4954,F,Casado(a),4,Guaianases
+5150,F,Casado(a),4,Guaianases
+5199,F,Casado(a),4,Guaianases
+5368,F,Casado(a),4,Guaianases
+5450,F,Casado(a),4,Guaianases
+5598,F,Casado(a),4,Guaianases
+6057,F,Casado(a),4,Guaianases
+6077,F,Casado(a),4,Guaianases
+6262,F,Casado(a),4,Guaianases
+6307,F,Casado(a),4,Guaianases
+6708,F,Casado(a),4,Guaianases
+6842,F,Casado(a),4,Guaianases
+7031,F,Casado(a),4,Guaianases
+7051,F,Casado(a),4,Guaianases
+7063,F,Casado(a),4,Guaianases
+7234,F,Casado(a),4,Guaianases
+7331,F,Casado(a),4,Guaianases
+7800,F,Casado(a),4,Guaianases
+7818,F,Casado(a),4,Guaianases
+7868,F,Casado(a),4,Guaianases
+7909,F,Casado(a),4,Guaianases
+8198,F,Casado(a),4,Guaianases
+8301,F,Casado(a),4,Guaianases
+8355,F,Casado(a),4,Guaianases
+8923,F,Casado(a),4,Guaianases
+9098,F,Casado(a),4,Guaianases
+9115,F,Casado(a),4,Guaianases
+9231,F,Casado(a),4,Guaianases
+9264,F,Casado(a),4,Guaianases
+9846,F,Casado(a),4,Guaianases
+30,F,Solteiro(a),4,Guaianases
+64,F,Solteiro(a),4,Guaianases
+164,F,Solteiro(a),4,Guaianases
+265,F,Solteiro(a),4,Guaianases
+482,F,Solteiro(a),4,Guaianases
+529,F,Solteiro(a),4,Guaianases
+552,F,Solteiro(a),4,Guaianases
+595,F,Solteiro(a),4,Guaianases
+597,F,Solteiro(a),4,Guaianases
+630,F,Solteiro(a),4,Guaianases
+681,F,Solteiro(a),4,Guaianases
+689,F,Solteiro(a),4,Guaianases
+769,F,Solteiro(a),4,Guaianases
+796,F,Solteiro(a),4,Guaianases
+837,F,Solteiro(a),4,Guaianases
+908,F,Solteiro(a),4,Guaianases
+997,F,Solteiro(a),4,Guaianases
+1421,F,Solteiro(a),4,Guaianases
+1720,F,Solteiro(a),4,Guaianases
+1758,F,Solteiro(a),4,Guaianases
+1853,F,Solteiro(a),4,Guaianases
+1869,F,Solteiro(a),4,Guaianases
+2298,F,Solteiro(a),4,Guaianases
+2331,F,Solteiro(a),4,Guaianases
+2405,F,Solteiro(a),4,Guaianases
+2431,F,Solteiro(a),4,Guaianases
+2478,F,Solteiro(a),4,Guaianases
+2483,F,Solteiro(a),4,Guaianases
+2507,F,Solteiro(a),4,Guaianases
+2662,F,Solteiro(a),4,Guaianases
+2680,F,Solteiro(a),4,Guaianases
+2700,F,Solteiro(a),4,Guaianases
+2921,F,Solteiro(a),4,Guaianases
+3350,F,Solteiro(a),4,Guaianases
+3476,F,Solteiro(a),4,Guaianases
+3763,F,Solteiro(a),4,Guaianases
+3892,F,Solteiro(a),4,Guaianases
+3900,F,Solteiro(a),4,Guaianases
+4019,F,Solteiro(a),4,Guaianases
+4049,F,Solteiro(a),4,Guaianases
+4165,F,Solteiro(a),4,Guaianases
+4234,F,Solteiro(a),4,Guaianases
+4671,F,Solteiro(a),4,Guaianases
+5134,F,Solteiro(a),4,Guaianases
+5423,F,Solteiro(a),4,Guaianases
+5625,F,Solteiro(a),4,Guaianases
+5742,F,Solteiro(a),4,Guaianases
+5882,F,Solteiro(a),4,Guaianases
+5957,F,Solteiro(a),4,Guaianases
+6153,F,Solteiro(a),4,Guaianases
+6196,F,Solteiro(a),4,Guaianases
+6214,F,Solteiro(a),4,Guaianases
+6260,F,Solteiro(a),4,Guaianases
+6551,F,Solteiro(a),4,Guaianases
+6655,F,Solteiro(a),4,Guaianases
+6761,F,Solteiro(a),4,Guaianases
+6934,F,Solteiro(a),4,Guaianases
+6937,F,Solteiro(a),4,Guaianases
+7079,F,Solteiro(a),4,Guaianases
+7297,F,Solteiro(a),4,Guaianases
+7633,F,Solteiro(a),4,Guaianases
+8040,F,Solteiro(a),4,Guaianases
+8068,F,Solteiro(a),4,Guaianases
+8517,F,Solteiro(a),4,Guaianases
+8554,F,Solteiro(a),4,Guaianases
+8602,F,Solteiro(a),4,Guaianases
+8760,F,Solteiro(a),4,Guaianases
+8837,F,Solteiro(a),4,Guaianases
+9062,F,Solteiro(a),4,Guaianases
+9200,F,Solteiro(a),4,Guaianases
+9237,F,Solteiro(a),4,Guaianases
+9340,F,Solteiro(a),4,Guaianases
+9383,F,Solteiro(a),4,Guaianases
+9394,F,Solteiro(a),4,Guaianases
+9433,F,Solteiro(a),4,Guaianases
+9459,F,Solteiro(a),4,Guaianases
+9581,F,Solteiro(a),4,Guaianases
+9599,F,Solteiro(a),4,Guaianases
+9753,F,Solteiro(a),4,Guaianases
+9977,F,Solteiro(a),4,Guaianases
+10009,F,Solteiro(a),4,Guaianases
+10191,F,Solteiro(a),4,Guaianases
+99,F,Solteiro(a),3,Guaianases
+131,F,Solteiro(a),3,Guaianases
+282,F,Solteiro(a),3,Guaianases
+328,F,Solteiro(a),3,Guaianases
+430,F,Solteiro(a),3,Guaianases
+471,F,Solteiro(a),3,Guaianases
+591,F,Solteiro(a),3,Guaianases
+663,F,Solteiro(a),3,Guaianases
+729,F,Solteiro(a),3,Guaianases
+754,F,Solteiro(a),3,Guaianases
+823,F,Solteiro(a),3,Guaianases
+864,F,Solteiro(a),3,Guaianases
+870,F,Solteiro(a),3,Guaianases
+1124,M,Solteiro(a),3,Guaianases
+1141,M,Solteiro(a),3,Guaianases
+1261,F,Solteiro(a),3,Guaianases
+1279,F,Solteiro(a),3,Guaianases
+1282,F,Solteiro(a),3,Guaianases
+1438,F,Solteiro(a),3,Guaianases
+1446,F,Solteiro(a),3,Guaianases
+1504,F,Solteiro(a),3,Guaianases
+1616,M,Solteiro(a),3,Guaianases
+1780,F,Solteiro(a),3,Guaianases
+1829,M,Solteiro(a),3,Guaianases
+1838,M,Solteiro(a),3,Guaianases
+1938,M,Solteiro(a),3,Guaianases
+1950,F,Solteiro(a),3,Guaianases
+2110,F,Solteiro(a),3,Guaianases
+2255,M,Solteiro(a),3,Guaianases
+2270,M,Solteiro(a),3,Guaianases
+2361,M,Solteiro(a),3,Guaianases
+2428,M,Solteiro(a),3,Guaianases
+2526,F,Solteiro(a),3,Guaianases
+2735,M,Solteiro(a),3,Guaianases
+2885,F,Solteiro(a),3,Guaianases
+2936,F,Solteiro(a),3,Guaianases
+3044,F,Solteiro(a),3,Guaianases
+3049,M,Solteiro(a),3,Guaianases
+3065,M,Solteiro(a),3,Guaianases
+3178,F,Solteiro(a),3,Guaianases
+3187,F,Solteiro(a),3,Guaianases
+3242,F,Solteiro(a),3,Guaianases
+3300,F,Solteiro(a),3,Guaianases
+3319,M,Solteiro(a),3,Guaianases
+3321,M,Solteiro(a),3,Guaianases
+3359,M,Solteiro(a),3,Guaianases
+3435,M,Solteiro(a),3,Guaianases
+3586,F,Solteiro(a),3,Guaianases
+3656,M,Solteiro(a),3,Guaianases
+3746,F,Solteiro(a),3,Guaianases
+3755,M,Solteiro(a),3,Guaianases
+3758,M,Solteiro(a),3,Guaianases
+3796,M,Solteiro(a),3,Guaianases
+4010,F,Solteiro(a),3,Guaianases
+4032,F,Solteiro(a),3,Guaianases
+4041,M,Solteiro(a),3,Guaianases
+4082,F,Solteiro(a),3,Guaianases
+4193,M,Solteiro(a),3,Guaianases
+4243,M,Solteiro(a),3,Guaianases
+4621,M,Solteiro(a),3,Guaianases
+4644,M,Solteiro(a),3,Guaianases
+4687,M,Solteiro(a),3,Guaianases
+4731,F,Solteiro(a),3,Guaianases
+4767,M,Solteiro(a),3,Guaianases
+4808,M,Solteiro(a),3,Guaianases
+4844,F,Solteiro(a),3,Guaianases
+4847,F,Solteiro(a),3,Guaianases
+4998,M,Solteiro(a),3,Guaianases
+5158,M,Solteiro(a),3,Guaianases
+5167,F,Solteiro(a),3,Guaianases
+5295,M,Solteiro(a),3,Guaianases
+5314,M,Solteiro(a),3,Guaianases
+5348,F,Solteiro(a),3,Guaianases
+5396,M,Solteiro(a),3,Guaianases
+5478,M,Solteiro(a),3,Guaianases
+5740,F,Solteiro(a),3,Guaianases
+5791,M,Solteiro(a),3,Guaianases
+5831,M,Solteiro(a),3,Guaianases
+5867,M,Solteiro(a),3,Guaianases
+5890,F,Solteiro(a),3,Guaianases
+6018,F,Solteiro(a),3,Guaianases
+6051,F,Solteiro(a),3,Guaianases
+6126,M,Solteiro(a),3,Guaianases
+6219,F,Solteiro(a),3,Guaianases
+6228,M,Solteiro(a),3,Guaianases
+6233,F,Solteiro(a),3,Guaianases
+6559,M,Solteiro(a),3,Guaianases
+6570,F,Solteiro(a),3,Guaianases
+6929,M,Solteiro(a),3,Guaianases
+7085,F,Solteiro(a),3,Guaianases
+7109,M,Solteiro(a),3,Guaianases
+7153,M,Solteiro(a),3,Guaianases
+7215,F,Solteiro(a),3,Guaianases
+7263,M,Solteiro(a),3,Guaianases
+7413,F,Solteiro(a),3,Guaianases
+7484,M,Solteiro(a),3,Guaianases
+7782,F,Solteiro(a),3,Guaianases
+7855,F,Solteiro(a),3,Guaianases
+7963,M,Solteiro(a),3,Guaianases
+8056,F,Solteiro(a),3,Guaianases
+8080,M,Solteiro(a),3,Guaianases
+8123,F,Solteiro(a),3,Guaianases
+8158,M,Solteiro(a),3,Guaianases
+8179,F,Solteiro(a),3,Guaianases
+8279,F,Solteiro(a),3,Guaianases
+8490,M,Solteiro(a),3,Guaianases
+8518,F,Solteiro(a),3,Guaianases
+8542,F,Solteiro(a),3,Guaianases
+8560,F,Solteiro(a),3,Guaianases
+8653,M,Solteiro(a),3,Guaianases
+8916,M,Solteiro(a),3,Guaianases
+8953,M,Solteiro(a),3,Guaianases
+8966,F,Solteiro(a),3,Guaianases
+8968,M,Solteiro(a),3,Guaianases
+9213,M,Solteiro(a),3,Guaianases
+9692,F,Solteiro(a),3,Guaianases
+9810,M,Solteiro(a),3,Guaianases
+9852,M,Solteiro(a),3,Guaianases
+9884,F,Solteiro(a),3,Guaianases
+9949,M,Solteiro(a),3,Guaianases
+10240,F,Solteiro(a),3,Guaianases
+10260,M,Solteiro(a),3,Guaianases
+55,F,Casado(a),3,Guaianases
+105,F,Casado(a),3,Guaianases
+228,F,Casado(a),3,Guaianases
+257,F,Casado(a),3,Guaianases
+453,F,Casado(a),3,Guaianases
+473,F,Casado(a),3,Guaianases
+564,F,Casado(a),3,Guaianases
+638,F,Casado(a),3,Guaianases
+654,F,Casado(a),3,Guaianases
+662,F,Casado(a),3,Guaianases
+1332,F,Casado(a),3,Guaianases
+1442,F,Casado(a),3,Guaianases
+1495,F,Casado(a),3,Guaianases
+1648,F,Casado(a),3,Guaianases
+1692,F,Casado(a),3,Guaianases
+1839,F,Casado(a),3,Guaianases
+2047,F,Casado(a),3,Guaianases
+2050,F,Casado(a),3,Guaianases
+2168,F,Casado(a),3,Guaianases
+2224,F,Casado(a),3,Guaianases
+2313,F,Casado(a),3,Guaianases
+2352,F,Casado(a),3,Guaianases
+2437,F,Casado(a),3,Guaianases
+2699,F,Casado(a),3,Guaianases
+2781,F,Casado(a),3,Guaianases
+2886,F,Casado(a),3,Guaianases
+2951,F,Casado(a),3,Guaianases
+3021,F,Casado(a),3,Guaianases
+3317,F,Casado(a),3,Guaianases
+3491,F,Casado(a),3,Guaianases
+3654,F,Casado(a),3,Guaianases
+3688,F,Casado(a),3,Guaianases
+3756,F,Casado(a),3,Guaianases
+4066,F,Casado(a),3,Guaianases
+4067,F,Casado(a),3,Guaianases
+4085,F,Casado(a),3,Guaianases
+4247,F,Casado(a),3,Guaianases
+4249,F,Casado(a),3,Guaianases
+4391,F,Casado(a),3,Guaianases
+4711,F,Casado(a),3,Guaianases
+4780,F,Casado(a),3,Guaianases
+4868,F,Casado(a),3,Guaianases
+5114,F,Casado(a),3,Guaianases
+5313,F,Casado(a),3,Guaianases
+5429,F,Casado(a),3,Guaianases
+5486,F,Casado(a),3,Guaianases
+5702,F,Casado(a),3,Guaianases
+6227,F,Casado(a),3,Guaianases
+6248,F,Casado(a),3,Guaianases
+6452,F,Casado(a),3,Guaianases
+6652,F,Casado(a),3,Guaianases
+7069,F,Casado(a),3,Guaianases
+7298,F,Casado(a),3,Guaianases
+7338,F,Casado(a),3,Guaianases
+7354,F,Casado(a),3,Guaianases
+7493,F,Casado(a),3,Guaianases
+7601,F,Casado(a),3,Guaianases
+7617,F,Casado(a),3,Guaianases
+7852,F,Casado(a),3,Guaianases
+8153,F,Casado(a),3,Guaianases
+8169,F,Casado(a),3,Guaianases
+8188,F,Casado(a),3,Guaianases
+8275,F,Casado(a),3,Guaianases
+8839,F,Casado(a),3,Guaianases
+8993,F,Casado(a),3,Guaianases
+9524,F,Casado(a),3,Guaianases
+9638,F,Casado(a),3,Guaianases
+9761,F,Casado(a),3,Guaianases
+9786,F,Casado(a),3,Guaianases
+10012,F,Casado(a),3,Guaianases
+10031,F,Casado(a),3,Guaianases
+10134,F,Casado(a),3,Guaianases
+10142,F,Casado(a),3,Guaianases
+10251,F,Casado(a),3,Guaianases
+10253,F,Casado(a),3,Guaianases
+1209,M,Casado(a),3,Guaianases
+1214,M,Casado(a),3,Guaianases
+1222,M,Casado(a),3,Guaianases
+1224,M,Casado(a),3,Guaianases
+1341,M,Casado(a),3,Guaianases
+1434,M,Casado(a),3,Guaianases
+1451,M,Casado(a),3,Guaianases
+1511,M,Casado(a),3,Guaianases
+1533,M,Casado(a),3,Guaianases
+1612,M,Casado(a),3,Guaianases
+1631,M,Casado(a),3,Guaianases
+1676,M,Casado(a),3,Guaianases
+1693,M,Casado(a),3,Guaianases
+2061,M,Casado(a),3,Guaianases
+2158,M,Casado(a),3,Guaianases
+2550,M,Casado(a),3,Guaianases
+2970,M,Casado(a),3,Guaianases
+3018,M,Casado(a),3,Guaianases
+3027,M,Casado(a),3,Guaianases
+3101,M,Casado(a),3,Guaianases
+3418,M,Casado(a),3,Guaianases
+3438,M,Casado(a),3,Guaianases
+3452,M,Casado(a),3,Guaianases
+3596,M,Casado(a),3,Guaianases
+3780,M,Casado(a),3,Guaianases
+3985,M,Casado(a),3,Guaianases
+4009,M,Casado(a),3,Guaianases
+4021,M,Casado(a),3,Guaianases
+4056,M,Casado(a),3,Guaianases
+4103,M,Casado(a),3,Guaianases
+4125,M,Casado(a),3,Guaianases
+4176,M,Casado(a),3,Guaianases
+4240,M,Casado(a),3,Guaianases
+4420,M,Casado(a),3,Guaianases
+4471,M,Casado(a),3,Guaianases
+4618,M,Casado(a),3,Guaianases
+4726,M,Casado(a),3,Guaianases
+4879,M,Casado(a),3,Guaianases
+5025,M,Casado(a),3,Guaianases
+5063,M,Casado(a),3,Guaianases
+5163,M,Casado(a),3,Guaianases
+5374,M,Casado(a),3,Guaianases
+5432,M,Casado(a),3,Guaianases
+5535,M,Casado(a),3,Guaianases
+5574,M,Casado(a),3,Guaianases
+5686,M,Casado(a),3,Guaianases
+5700,M,Casado(a),3,Guaianases
+5739,M,Casado(a),3,Guaianases
+5827,M,Casado(a),3,Guaianases
+6083,M,Casado(a),3,Guaianases
+6142,M,Casado(a),3,Guaianases
+6353,M,Casado(a),3,Guaianases
+6712,M,Casado(a),3,Guaianases
+6816,M,Casado(a),3,Guaianases
+6930,M,Casado(a),3,Guaianases
+6966,M,Casado(a),3,Guaianases
+7002,M,Casado(a),3,Guaianases
+7055,M,Casado(a),3,Guaianases
+7095,M,Casado(a),3,Guaianases
+7232,M,Casado(a),3,Guaianases
+7242,M,Casado(a),3,Guaianases
+7441,M,Casado(a),3,Guaianases
+7489,M,Casado(a),3,Guaianases
+7618,M,Casado(a),3,Guaianases
+7704,M,Casado(a),3,Guaianases
+7828,M,Casado(a),3,Guaianases
+7881,M,Casado(a),3,Guaianases
+8012,M,Casado(a),3,Guaianases
+8403,M,Casado(a),3,Guaianases
+8404,M,Casado(a),3,Guaianases
+8427,M,Casado(a),3,Guaianases
+8528,M,Casado(a),3,Guaianases
+9106,M,Casado(a),3,Guaianases
+9195,M,Casado(a),3,Guaianases
+9307,M,Casado(a),3,Guaianases
+9381,M,Casado(a),3,Guaianases
+9619,M,Casado(a),3,Guaianases
+9869,M,Casado(a),3,Guaianases
+10002,M,Casado(a),3,Guaianases
+906,M,Casado(a),1,Guaianases
+918,M,Casado(a),1,Guaianases
+1157,M,Casado(a),1,Guaianases
+1201,M,Casado(a),1,Guaianases
+1202,M,Casado(a),1,Guaianases
+1319,M,Casado(a),1,Guaianases
+1409,M,Casado(a),1,Guaianases
+1460,M,Casado(a),1,Guaianases
+1598,M,Casado(a),1,Guaianases
+1606,M,Casado(a),1,Guaianases
+1622,M,Casado(a),1,Guaianases
+1783,M,Casado(a),1,Guaianases
+1844,M,Casado(a),1,Guaianases
+2078,M,Casado(a),1,Guaianases
+2612,M,Casado(a),1,Guaianases
+2648,M,Casado(a),1,Guaianases
+2663,M,Casado(a),1,Guaianases
+2674,M,Casado(a),1,Guaianases
+2678,M,Casado(a),1,Guaianases
+2905,M,Casado(a),1,Guaianases
+2958,M,Casado(a),1,Guaianases
+2994,M,Casado(a),1,Guaianases
+3111,M,Casado(a),1,Guaianases
+3238,M,Casado(a),1,Guaianases
+3357,M,Casado(a),1,Guaianases
+3361,M,Casado(a),1,Guaianases
+3401,M,Casado(a),1,Guaianases
+3457,M,Casado(a),1,Guaianases
+3512,M,Casado(a),1,Guaianases
+3567,M,Casado(a),1,Guaianases
+3965,M,Casado(a),1,Guaianases
+4179,M,Casado(a),1,Guaianases
+4255,M,Casado(a),1,Guaianases
+4268,M,Casado(a),1,Guaianases
+4274,M,Casado(a),1,Guaianases
+4461,M,Casado(a),1,Guaianases
+4491,M,Casado(a),1,Guaianases
+4524,M,Casado(a),1,Guaianases
+4527,M,Casado(a),1,Guaianases
+4566,M,Casado(a),1,Guaianases
+4628,M,Casado(a),1,Guaianases
+4778,M,Casado(a),1,Guaianases
+4898,M,Casado(a),1,Guaianases
+5438,M,Casado(a),1,Guaianases
+5462,M,Casado(a),1,Guaianases
+5673,M,Casado(a),1,Guaianases
+5738,M,Casado(a),1,Guaianases
+5789,M,Casado(a),1,Guaianases
+5991,M,Casado(a),1,Guaianases
+6120,M,Casado(a),1,Guaianases
+6132,M,Casado(a),1,Guaianases
+6414,M,Casado(a),1,Guaianases
+6877,M,Casado(a),1,Guaianases
+6977,M,Casado(a),1,Guaianases
+7105,M,Casado(a),1,Guaianases
+7152,M,Casado(a),1,Guaianases
+7204,M,Casado(a),1,Guaianases
+7255,M,Casado(a),1,Guaianases
+7472,M,Casado(a),1,Guaianases
+7486,M,Casado(a),1,Guaianases
+7530,M,Casado(a),1,Guaianases
+7573,M,Casado(a),1,Guaianases
+7590,M,Casado(a),1,Guaianases
+7902,M,Casado(a),1,Guaianases
+7980,M,Casado(a),1,Guaianases
+7986,M,Casado(a),1,Guaianases
+8253,M,Casado(a),1,Guaianases
+8556,M,Casado(a),1,Guaianases
+8618,M,Casado(a),1,Guaianases
+8902,M,Casado(a),1,Guaianases
+9005,M,Casado(a),1,Guaianases
+9318,M,Casado(a),1,Guaianases
+9325,M,Casado(a),1,Guaianases
+9602,M,Casado(a),1,Guaianases
+9604,M,Casado(a),1,Guaianases
+9728,M,Casado(a),1,Guaianases
+9881,M,Casado(a),1,Guaianases
+9897,M,Casado(a),1,Guaianases
+104,F,Casado(a),1,Guaianases
+139,F,Casado(a),1,Guaianases
+161,F,Casado(a),1,Guaianases
+197,F,Casado(a),1,Guaianases
+198,F,Casado(a),1,Guaianases
+238,F,Casado(a),1,Guaianases
+352,F,Casado(a),1,Guaianases
+409,F,Casado(a),1,Guaianases
+521,F,Casado(a),1,Guaianases
+603,F,Casado(a),1,Guaianases
+618,F,Casado(a),1,Guaianases
+673,F,Casado(a),1,Guaianases
+991,F,Casado(a),1,Guaianases
+1042,F,Casado(a),1,Guaianases
+1244,F,Casado(a),1,Guaianases
+1259,F,Casado(a),1,Guaianases
+1309,F,Casado(a),1,Guaianases
+1387,F,Casado(a),1,Guaianases
+1491,F,Casado(a),1,Guaianases
+1634,F,Casado(a),1,Guaianases
+1643,F,Casado(a),1,Guaianases
+1730,F,Casado(a),1,Guaianases
+1755,F,Casado(a),1,Guaianases
+1871,F,Casado(a),1,Guaianases
+1984,F,Casado(a),1,Guaianases
+2023,F,Casado(a),1,Guaianases
+2096,F,Casado(a),1,Guaianases
+2258,F,Casado(a),1,Guaianases
+2502,F,Casado(a),1,Guaianases
+2584,F,Casado(a),1,Guaianases
+2587,F,Casado(a),1,Guaianases
+2686,F,Casado(a),1,Guaianases
+2690,F,Casado(a),1,Guaianases
+2692,F,Casado(a),1,Guaianases
+2705,F,Casado(a),1,Guaianases
+2756,F,Casado(a),1,Guaianases
+2846,F,Casado(a),1,Guaianases
+2893,F,Casado(a),1,Guaianases
+3204,F,Casado(a),1,Guaianases
+3273,F,Casado(a),1,Guaianases
+3387,F,Casado(a),1,Guaianases
+3426,F,Casado(a),1,Guaianases
+3533,F,Casado(a),1,Guaianases
+3594,F,Casado(a),1,Guaianases
+3611,F,Casado(a),1,Guaianases
+3627,F,Casado(a),1,Guaianases
+3794,F,Casado(a),1,Guaianases
+3847,F,Casado(a),1,Guaianases
+3852,F,Casado(a),1,Guaianases
+3925,F,Casado(a),1,Guaianases
+3935,F,Casado(a),1,Guaianases
+4106,F,Casado(a),1,Guaianases
+4301,F,Casado(a),1,Guaianases
+4436,F,Casado(a),1,Guaianases
+4444,F,Casado(a),1,Guaianases
+4541,F,Casado(a),1,Guaianases
+4562,F,Casado(a),1,Guaianases
+4584,F,Casado(a),1,Guaianases
+4606,F,Casado(a),1,Guaianases
+4620,F,Casado(a),1,Guaianases
+4676,F,Casado(a),1,Guaianases
+4946,F,Casado(a),1,Guaianases
+4962,F,Casado(a),1,Guaianases
+5130,F,Casado(a),1,Guaianases
+5358,F,Casado(a),1,Guaianases
+5405,F,Casado(a),1,Guaianases
+5667,F,Casado(a),1,Guaianases
+5744,F,Casado(a),1,Guaianases
+5912,F,Casado(a),1,Guaianases
+6084,F,Casado(a),1,Guaianases
+6092,F,Casado(a),1,Guaianases
+6218,F,Casado(a),1,Guaianases
+6480,F,Casado(a),1,Guaianases
+6635,F,Casado(a),1,Guaianases
+6800,F,Casado(a),1,Guaianases
+7056,F,Casado(a),1,Guaianases
+7106,F,Casado(a),1,Guaianases
+7178,F,Casado(a),1,Guaianases
+7209,F,Casado(a),1,Guaianases
+7406,F,Casado(a),1,Guaianases
+7884,F,Casado(a),1,Guaianases
+7890,F,Casado(a),1,Guaianases
+7977,F,Casado(a),1,Guaianases
+8062,F,Casado(a),1,Guaianases
+8083,F,Casado(a),1,Guaianases
+8146,F,Casado(a),1,Guaianases
+8161,F,Casado(a),1,Guaianases
+8196,F,Casado(a),1,Guaianases
+8318,F,Casado(a),1,Guaianases
+8423,F,Casado(a),1,Guaianases
+8511,F,Casado(a),1,Guaianases
+8555,F,Casado(a),1,Guaianases
+8731,F,Casado(a),1,Guaianases
+8850,F,Casado(a),1,Guaianases
+8898,F,Casado(a),1,Guaianases
+9629,F,Casado(a),1,Guaianases
+9868,F,Casado(a),1,Guaianases
+10021,F,Casado(a),1,Guaianases
+10166,F,Casado(a),1,Guaianases
+10173,F,Casado(a),1,Guaianases
+880,M,Solteiro(a),1,Guaianases
+981,M,Solteiro(a),1,Guaianases
+1378,M,Solteiro(a),1,Guaianases
+1397,M,Solteiro(a),1,Guaianases
+1410,M,Solteiro(a),1,Guaianases
+1415,M,Solteiro(a),1,Guaianases
+1638,M,Solteiro(a),1,Guaianases
+1729,M,Solteiro(a),1,Guaianases
+1798,M,Solteiro(a),1,Guaianases
+1848,M,Solteiro(a),1,Guaianases
+1850,M,Solteiro(a),1,Guaianases
+1915,M,Solteiro(a),1,Guaianases
+1962,M,Solteiro(a),1,Guaianases
+2221,M,Solteiro(a),1,Guaianases
+2263,M,Solteiro(a),1,Guaianases
+2269,M,Solteiro(a),1,Guaianases
+2371,M,Solteiro(a),1,Guaianases
+2510,M,Solteiro(a),1,Guaianases
+2528,M,Solteiro(a),1,Guaianases
+2672,M,Solteiro(a),1,Guaianases
+2689,M,Solteiro(a),1,Guaianases
+2769,M,Solteiro(a),1,Guaianases
+2903,M,Solteiro(a),1,Guaianases
+2925,M,Solteiro(a),1,Guaianases
+3102,M,Solteiro(a),1,Guaianases
+3166,M,Solteiro(a),1,Guaianases
+3225,M,Solteiro(a),1,Guaianases
+3228,M,Solteiro(a),1,Guaianases
+3252,M,Solteiro(a),1,Guaianases
+3561,M,Solteiro(a),1,Guaianases
+3612,M,Solteiro(a),1,Guaianases
+3692,M,Solteiro(a),1,Guaianases
+3693,M,Solteiro(a),1,Guaianases
+3941,M,Solteiro(a),1,Guaianases
+3993,M,Solteiro(a),1,Guaianases
+4039,M,Solteiro(a),1,Guaianases
+4225,M,Solteiro(a),1,Guaianases
+4373,M,Solteiro(a),1,Guaianases
+4401,M,Solteiro(a),1,Guaianases
+4404,M,Solteiro(a),1,Guaianases
+4419,M,Solteiro(a),1,Guaianases
+4460,M,Solteiro(a),1,Guaianases
+4467,M,Solteiro(a),1,Guaianases
+4555,M,Solteiro(a),1,Guaianases
+4677,M,Solteiro(a),1,Guaianases
+4829,M,Solteiro(a),1,Guaianases
+4853,M,Solteiro(a),1,Guaianases
+4906,M,Solteiro(a),1,Guaianases
+5037,M,Solteiro(a),1,Guaianases
+5106,M,Solteiro(a),1,Guaianases
+5376,M,Solteiro(a),1,Guaianases
+5412,M,Solteiro(a),1,Guaianases
+5498,M,Solteiro(a),1,Guaianases
+5500,M,Solteiro(a),1,Guaianases
+5681,M,Solteiro(a),1,Guaianases
+5715,M,Solteiro(a),1,Guaianases
+5757,M,Solteiro(a),1,Guaianases
+5805,M,Solteiro(a),1,Guaianases
+5858,M,Solteiro(a),1,Guaianases
+6167,M,Solteiro(a),1,Guaianases
+6274,M,Solteiro(a),1,Guaianases
+6523,M,Solteiro(a),1,Guaianases
+6557,M,Solteiro(a),1,Guaianases
+6572,M,Solteiro(a),1,Guaianases
+6640,M,Solteiro(a),1,Guaianases
+6641,M,Solteiro(a),1,Guaianases
+6651,M,Solteiro(a),1,Guaianases
+6709,M,Solteiro(a),1,Guaianases
+6829,M,Solteiro(a),1,Guaianases
+6865,M,Solteiro(a),1,Guaianases
+7140,M,Solteiro(a),1,Guaianases
+7261,M,Solteiro(a),1,Guaianases
+7357,M,Solteiro(a),1,Guaianases
+7433,M,Solteiro(a),1,Guaianases
+7502,M,Solteiro(a),1,Guaianases
+7657,M,Solteiro(a),1,Guaianases
+7664,M,Solteiro(a),1,Guaianases
+7727,M,Solteiro(a),1,Guaianases
+7767,M,Solteiro(a),1,Guaianases
+7769,M,Solteiro(a),1,Guaianases
+7873,M,Solteiro(a),1,Guaianases
+7938,M,Solteiro(a),1,Guaianases
+8003,M,Solteiro(a),1,Guaianases
+8139,M,Solteiro(a),1,Guaianases
+8187,M,Solteiro(a),1,Guaianases
+8230,M,Solteiro(a),1,Guaianases
+8255,M,Solteiro(a),1,Guaianases
+8321,M,Solteiro(a),1,Guaianases
+8448,M,Solteiro(a),1,Guaianases
+8536,M,Solteiro(a),1,Guaianases
+8550,M,Solteiro(a),1,Guaianases
+8571,M,Solteiro(a),1,Guaianases
+8742,M,Solteiro(a),1,Guaianases
+8862,M,Solteiro(a),1,Guaianases
+9029,M,Solteiro(a),1,Guaianases
+9074,M,Solteiro(a),1,Guaianases
+9099,M,Solteiro(a),1,Guaianases
+9123,M,Solteiro(a),1,Guaianases
+9184,M,Solteiro(a),1,Guaianases
+9324,M,Solteiro(a),1,Guaianases
+9419,M,Solteiro(a),1,Guaianases
+9571,M,Solteiro(a),1,Guaianases
+9601,M,Solteiro(a),1,Guaianases
+9703,M,Solteiro(a),1,Guaianases
+9851,M,Solteiro(a),1,Guaianases
+9866,M,Solteiro(a),1,Guaianases
+36,F,Solteiro(a),1,Guaianases
+41,F,Solteiro(a),1,Guaianases
+76,F,Solteiro(a),1,Guaianases
+80,F,Solteiro(a),1,Guaianases
+96,F,Solteiro(a),1,Guaianases
+181,F,Solteiro(a),1,Guaianases
+250,F,Solteiro(a),1,Guaianases
+272,F,Solteiro(a),1,Guaianases
+294,F,Solteiro(a),1,Guaianases
+322,F,Solteiro(a),1,Guaianases
+355,F,Solteiro(a),1,Guaianases
+361,F,Solteiro(a),1,Guaianases
+378,F,Solteiro(a),1,Guaianases
+499,F,Solteiro(a),1,Guaianases
+541,F,Solteiro(a),1,Guaianases
+547,F,Solteiro(a),1,Guaianases
+571,F,Solteiro(a),1,Guaianases
+581,F,Solteiro(a),1,Guaianases
+645,F,Solteiro(a),1,Guaianases
+733,F,Solteiro(a),1,Guaianases
+753,F,Solteiro(a),1,Guaianases
+760,F,Solteiro(a),1,Guaianases
+783,F,Solteiro(a),1,Guaianases
+827,F,Solteiro(a),1,Guaianases
+878,F,Solteiro(a),1,Guaianases
+900,F,Solteiro(a),1,Guaianases
+1044,F,Solteiro(a),1,Guaianases
+1194,F,Solteiro(a),1,Guaianases
+1284,F,Solteiro(a),1,Guaianases
+1361,F,Solteiro(a),1,Guaianases
+1380,F,Solteiro(a),1,Guaianases
+1498,F,Solteiro(a),1,Guaianases
+1571,F,Solteiro(a),1,Guaianases
+1610,F,Solteiro(a),1,Guaianases
+1747,F,Solteiro(a),1,Guaianases
+1856,F,Solteiro(a),1,Guaianases
+2039,F,Solteiro(a),1,Guaianases
+2215,F,Solteiro(a),1,Guaianases
+2368,F,Solteiro(a),1,Guaianases
+2448,F,Solteiro(a),1,Guaianases
+2670,F,Solteiro(a),1,Guaianases
+2727,F,Solteiro(a),1,Guaianases
+2933,F,Solteiro(a),1,Guaianases
+3201,F,Solteiro(a),1,Guaianases
+3301,F,Solteiro(a),1,Guaianases
+3410,F,Solteiro(a),1,Guaianases
+3538,F,Solteiro(a),1,Guaianases
+3558,F,Solteiro(a),1,Guaianases
+3588,F,Solteiro(a),1,Guaianases
+3679,F,Solteiro(a),1,Guaianases
+3858,F,Solteiro(a),1,Guaianases
+3968,F,Solteiro(a),1,Guaianases
+4065,F,Solteiro(a),1,Guaianases
+4081,F,Solteiro(a),1,Guaianases
+4133,F,Solteiro(a),1,Guaianases
+4135,F,Solteiro(a),1,Guaianases
+4325,F,Solteiro(a),1,Guaianases
+4402,F,Solteiro(a),1,Guaianases
+4443,F,Solteiro(a),1,Guaianases
+4453,F,Solteiro(a),1,Guaianases
+4608,F,Solteiro(a),1,Guaianases
+4914,F,Solteiro(a),1,Guaianases
+4925,F,Solteiro(a),1,Guaianases
+5000,F,Solteiro(a),1,Guaianases
+5148,F,Solteiro(a),1,Guaianases
+5473,F,Solteiro(a),1,Guaianases
+5537,F,Solteiro(a),1,Guaianases
+5581,F,Solteiro(a),1,Guaianases
+5592,F,Solteiro(a),1,Guaianases
+5656,F,Solteiro(a),1,Guaianases
+5834,F,Solteiro(a),1,Guaianases
+6098,F,Solteiro(a),1,Guaianases
+6113,F,Solteiro(a),1,Guaianases
+6220,F,Solteiro(a),1,Guaianases
+6291,F,Solteiro(a),1,Guaianases
+6367,F,Solteiro(a),1,Guaianases
+6398,F,Solteiro(a),1,Guaianases
+6408,F,Solteiro(a),1,Guaianases
+6432,F,Solteiro(a),1,Guaianases
+6571,F,Solteiro(a),1,Guaianases
+6630,F,Solteiro(a),1,Guaianases
+6654,F,Solteiro(a),1,Guaianases
+7016,F,Solteiro(a),1,Guaianases
+7312,F,Solteiro(a),1,Guaianases
+7368,F,Solteiro(a),1,Guaianases
+7393,F,Solteiro(a),1,Guaianases
+7501,F,Solteiro(a),1,Guaianases
+7609,F,Solteiro(a),1,Guaianases
+7622,F,Solteiro(a),1,Guaianases
+7624,F,Solteiro(a),1,Guaianases
+7743,F,Solteiro(a),1,Guaianases
+8014,F,Solteiro(a),1,Guaianases
+8171,F,Solteiro(a),1,Guaianases
+8202,F,Solteiro(a),1,Guaianases
+8211,F,Solteiro(a),1,Guaianases
+8324,F,Solteiro(a),1,Guaianases
+8482,F,Solteiro(a),1,Guaianases
+8647,F,Solteiro(a),1,Guaianases
+8768,F,Solteiro(a),1,Guaianases
+9097,F,Solteiro(a),1,Guaianases
+9234,F,Solteiro(a),1,Guaianases
+9391,F,Solteiro(a),1,Guaianases
+9593,F,Solteiro(a),1,Guaianases
+9748,F,Solteiro(a),1,Guaianases
+9781,F,Solteiro(a),1,Guaianases
+9860,F,Solteiro(a),1,Guaianases
+10003,F,Solteiro(a),1,Guaianases
+10079,F,Solteiro(a),1,Guaianases
+897,M,Solteiro(a),1,Cidade tiradentes
+925,M,Solteiro(a),1,Cidade tiradentes
+959,M,Solteiro(a),1,Cidade tiradentes
+1374,M,Solteiro(a),1,Cidade tiradentes
+1391,M,Solteiro(a),1,Cidade tiradentes
+1395,M,Solteiro(a),1,Cidade tiradentes
+1419,M,Solteiro(a),1,Cidade tiradentes
+1431,M,Solteiro(a),1,Cidade tiradentes
+1674,M,Solteiro(a),1,Cidade tiradentes
+1767,M,Solteiro(a),1,Cidade tiradentes
+1781,M,Solteiro(a),1,Cidade tiradentes
+1826,M,Solteiro(a),1,Cidade tiradentes
+1891,M,Solteiro(a),1,Cidade tiradentes
+2141,M,Solteiro(a),1,Cidade tiradentes
+2163,M,Solteiro(a),1,Cidade tiradentes
+2200,M,Solteiro(a),1,Cidade tiradentes
+2449,M,Solteiro(a),1,Cidade tiradentes
+2675,M,Solteiro(a),1,Cidade tiradentes
+3002,M,Solteiro(a),1,Cidade tiradentes
+3244,M,Solteiro(a),1,Cidade tiradentes
+3279,M,Solteiro(a),1,Cidade tiradentes
+3330,M,Solteiro(a),1,Cidade tiradentes
+3414,M,Solteiro(a),1,Cidade tiradentes
+3525,M,Solteiro(a),1,Cidade tiradentes
+3580,M,Solteiro(a),1,Cidade tiradentes
+3598,M,Solteiro(a),1,Cidade tiradentes
+3777,M,Solteiro(a),1,Cidade tiradentes
+3881,M,Solteiro(a),1,Cidade tiradentes
+3939,M,Solteiro(a),1,Cidade tiradentes
+4346,M,Solteiro(a),1,Cidade tiradentes
+4576,M,Solteiro(a),1,Cidade tiradentes
+4647,M,Solteiro(a),1,Cidade tiradentes
+4718,M,Solteiro(a),1,Cidade tiradentes
+4747,M,Solteiro(a),1,Cidade tiradentes
+4753,M,Solteiro(a),1,Cidade tiradentes
+4913,M,Solteiro(a),1,Cidade tiradentes
+5069,M,Solteiro(a),1,Cidade tiradentes
+5207,M,Solteiro(a),1,Cidade tiradentes
+5265,M,Solteiro(a),1,Cidade tiradentes
+5290,M,Solteiro(a),1,Cidade tiradentes
+5465,M,Solteiro(a),1,Cidade tiradentes
+5589,M,Solteiro(a),1,Cidade tiradentes
+5627,M,Solteiro(a),1,Cidade tiradentes
+5735,M,Solteiro(a),1,Cidade tiradentes
+5769,M,Solteiro(a),1,Cidade tiradentes
+5876,M,Solteiro(a),1,Cidade tiradentes
+6010,M,Solteiro(a),1,Cidade tiradentes
+6222,M,Solteiro(a),1,Cidade tiradentes
+6271,M,Solteiro(a),1,Cidade tiradentes
+6289,M,Solteiro(a),1,Cidade tiradentes
+6440,M,Solteiro(a),1,Cidade tiradentes
+6469,M,Solteiro(a),1,Cidade tiradentes
+6494,M,Solteiro(a),1,Cidade tiradentes
+6632,M,Solteiro(a),1,Cidade tiradentes
+6679,M,Solteiro(a),1,Cidade tiradentes
+6689,M,Solteiro(a),1,Cidade tiradentes
+6722,M,Solteiro(a),1,Cidade tiradentes
+6779,M,Solteiro(a),1,Cidade tiradentes
+6882,M,Solteiro(a),1,Cidade tiradentes
+6914,M,Solteiro(a),1,Cidade tiradentes
+6961,M,Solteiro(a),1,Cidade tiradentes
+6964,M,Solteiro(a),1,Cidade tiradentes
+7166,M,Solteiro(a),1,Cidade tiradentes
+7237,M,Solteiro(a),1,Cidade tiradentes
+7379,M,Solteiro(a),1,Cidade tiradentes
+7392,M,Solteiro(a),1,Cidade tiradentes
+7425,M,Solteiro(a),1,Cidade tiradentes
+7511,M,Solteiro(a),1,Cidade tiradentes
+7587,M,Solteiro(a),1,Cidade tiradentes
+7610,M,Solteiro(a),1,Cidade tiradentes
+7615,M,Solteiro(a),1,Cidade tiradentes
+7848,M,Solteiro(a),1,Cidade tiradentes
+7869,M,Solteiro(a),1,Cidade tiradentes
+7886,M,Solteiro(a),1,Cidade tiradentes
+8029,M,Solteiro(a),1,Cidade tiradentes
+8042,M,Solteiro(a),1,Cidade tiradentes
+8061,M,Solteiro(a),1,Cidade tiradentes
+8239,M,Solteiro(a),1,Cidade tiradentes
+8267,M,Solteiro(a),1,Cidade tiradentes
+8429,M,Solteiro(a),1,Cidade tiradentes
+8488,M,Solteiro(a),1,Cidade tiradentes
+8624,M,Solteiro(a),1,Cidade tiradentes
+8753,M,Solteiro(a),1,Cidade tiradentes
+8827,M,Solteiro(a),1,Cidade tiradentes
+8870,M,Solteiro(a),1,Cidade tiradentes
+8890,M,Solteiro(a),1,Cidade tiradentes
+8932,M,Solteiro(a),1,Cidade tiradentes
+9038,M,Solteiro(a),1,Cidade tiradentes
+9069,M,Solteiro(a),1,Cidade tiradentes
+9241,M,Solteiro(a),1,Cidade tiradentes
+9294,M,Solteiro(a),1,Cidade tiradentes
+9328,M,Solteiro(a),1,Cidade tiradentes
+9540,M,Solteiro(a),1,Cidade tiradentes
+9550,M,Solteiro(a),1,Cidade tiradentes
+9686,M,Solteiro(a),1,Cidade tiradentes
+9779,M,Solteiro(a),1,Cidade tiradentes
+9833,M,Solteiro(a),1,Cidade tiradentes
+9962,M,Solteiro(a),1,Cidade tiradentes
+9993,M,Solteiro(a),1,Cidade tiradentes
+9998,M,Solteiro(a),1,Cidade tiradentes
+10161,M,Solteiro(a),1,Cidade tiradentes
+24,F,Solteiro(a),1,Cidade tiradentes
+26,F,Solteiro(a),1,Cidade tiradentes
+44,F,Solteiro(a),1,Cidade tiradentes
+170,F,Solteiro(a),1,Cidade tiradentes
+179,F,Solteiro(a),1,Cidade tiradentes
+193,F,Solteiro(a),1,Cidade tiradentes
+194,F,Solteiro(a),1,Cidade tiradentes
+243,F,Solteiro(a),1,Cidade tiradentes
+248,F,Solteiro(a),1,Cidade tiradentes
+273,F,Solteiro(a),1,Cidade tiradentes
+281,F,Solteiro(a),1,Cidade tiradentes
+291,F,Solteiro(a),1,Cidade tiradentes
+310,F,Solteiro(a),1,Cidade tiradentes
+330,F,Solteiro(a),1,Cidade tiradentes
+344,F,Solteiro(a),1,Cidade tiradentes
+447,F,Solteiro(a),1,Cidade tiradentes
+457,F,Solteiro(a),1,Cidade tiradentes
+494,F,Solteiro(a),1,Cidade tiradentes
+498,F,Solteiro(a),1,Cidade tiradentes
+567,F,Solteiro(a),1,Cidade tiradentes
+867,F,Solteiro(a),1,Cidade tiradentes
+975,F,Solteiro(a),1,Cidade tiradentes
+1050,F,Solteiro(a),1,Cidade tiradentes
+1051,F,Solteiro(a),1,Cidade tiradentes
+1437,F,Solteiro(a),1,Cidade tiradentes
+1487,F,Solteiro(a),1,Cidade tiradentes
+1910,F,Solteiro(a),1,Cidade tiradentes
+1929,F,Solteiro(a),1,Cidade tiradentes
+1953,F,Solteiro(a),1,Cidade tiradentes
+2385,F,Solteiro(a),1,Cidade tiradentes
+2396,F,Solteiro(a),1,Cidade tiradentes
+2402,F,Solteiro(a),1,Cidade tiradentes
+2452,F,Solteiro(a),1,Cidade tiradentes
+2464,F,Solteiro(a),1,Cidade tiradentes
+2557,F,Solteiro(a),1,Cidade tiradentes
+2591,F,Solteiro(a),1,Cidade tiradentes
+2652,F,Solteiro(a),1,Cidade tiradentes
+2704,F,Solteiro(a),1,Cidade tiradentes
+2749,F,Solteiro(a),1,Cidade tiradentes
+3004,F,Solteiro(a),1,Cidade tiradentes
+3016,F,Solteiro(a),1,Cidade tiradentes
+3371,F,Solteiro(a),1,Cidade tiradentes
+3600,F,Solteiro(a),1,Cidade tiradentes
+3625,F,Solteiro(a),1,Cidade tiradentes
+3701,F,Solteiro(a),1,Cidade tiradentes
+3744,F,Solteiro(a),1,Cidade tiradentes
+3903,F,Solteiro(a),1,Cidade tiradentes
+4188,F,Solteiro(a),1,Cidade tiradentes
+4195,F,Solteiro(a),1,Cidade tiradentes
+4285,F,Solteiro(a),1,Cidade tiradentes
+4303,F,Solteiro(a),1,Cidade tiradentes
+4307,F,Solteiro(a),1,Cidade tiradentes
+4486,F,Solteiro(a),1,Cidade tiradentes
+4626,F,Solteiro(a),1,Cidade tiradentes
+4798,F,Solteiro(a),1,Cidade tiradentes
+4819,F,Solteiro(a),1,Cidade tiradentes
+4831,F,Solteiro(a),1,Cidade tiradentes
+5102,F,Solteiro(a),1,Cidade tiradentes
+5393,F,Solteiro(a),1,Cidade tiradentes
+5596,F,Solteiro(a),1,Cidade tiradentes
+5778,F,Solteiro(a),1,Cidade tiradentes
+6019,F,Solteiro(a),1,Cidade tiradentes
+6272,F,Solteiro(a),1,Cidade tiradentes
+6717,F,Solteiro(a),1,Cidade tiradentes
+6785,F,Solteiro(a),1,Cidade tiradentes
+7013,F,Solteiro(a),1,Cidade tiradentes
+7074,F,Solteiro(a),1,Cidade tiradentes
+7113,F,Solteiro(a),1,Cidade tiradentes
+7195,F,Solteiro(a),1,Cidade tiradentes
+7315,F,Solteiro(a),1,Cidade tiradentes
+7599,F,Solteiro(a),1,Cidade tiradentes
+7612,F,Solteiro(a),1,Cidade tiradentes
+7659,F,Solteiro(a),1,Cidade tiradentes
+7726,F,Solteiro(a),1,Cidade tiradentes
+7812,F,Solteiro(a),1,Cidade tiradentes
+8266,F,Solteiro(a),1,Cidade tiradentes
+8352,F,Solteiro(a),1,Cidade tiradentes
+8530,F,Solteiro(a),1,Cidade tiradentes
+8533,F,Solteiro(a),1,Cidade tiradentes
+8658,F,Solteiro(a),1,Cidade tiradentes
+8904,F,Solteiro(a),1,Cidade tiradentes
+9067,F,Solteiro(a),1,Cidade tiradentes
+9103,F,Solteiro(a),1,Cidade tiradentes
+9160,F,Solteiro(a),1,Cidade tiradentes
+9227,F,Solteiro(a),1,Cidade tiradentes
+9280,F,Solteiro(a),1,Cidade tiradentes
+9435,F,Solteiro(a),1,Cidade tiradentes
+9476,F,Solteiro(a),1,Cidade tiradentes
+9660,F,Solteiro(a),1,Cidade tiradentes
+9679,F,Solteiro(a),1,Cidade tiradentes
+9807,F,Solteiro(a),1,Cidade tiradentes
+10008,F,Solteiro(a),1,Cidade tiradentes
+10065,F,Solteiro(a),1,Cidade tiradentes
+10067,F,Solteiro(a),1,Cidade tiradentes
+10209,F,Solteiro(a),1,Cidade tiradentes
+10271,F,Solteiro(a),1,Cidade tiradentes
+1068,M,Casado(a),1,Cidade tiradentes
+1144,M,Casado(a),1,Cidade tiradentes
+1169,M,Casado(a),1,Cidade tiradentes
+1394,M,Casado(a),1,Cidade tiradentes
+1519,M,Casado(a),1,Cidade tiradentes
+1568,M,Casado(a),1,Cidade tiradentes
+1625,M,Casado(a),1,Cidade tiradentes
+1906,M,Casado(a),1,Cidade tiradentes
+1947,M,Casado(a),1,Cidade tiradentes
+2029,M,Casado(a),1,Cidade tiradentes
+2099,M,Casado(a),1,Cidade tiradentes
+2115,M,Casado(a),1,Cidade tiradentes
+2123,M,Casado(a),1,Cidade tiradentes
+2480,M,Casado(a),1,Cidade tiradentes
+2533,M,Casado(a),1,Cidade tiradentes
+2575,M,Casado(a),1,Cidade tiradentes
+2733,M,Casado(a),1,Cidade tiradentes
+2852,M,Casado(a),1,Cidade tiradentes
+2868,M,Casado(a),1,Cidade tiradentes
+2919,M,Casado(a),1,Cidade tiradentes
+3097,M,Casado(a),1,Cidade tiradentes
+3297,M,Casado(a),1,Cidade tiradentes
+3349,M,Casado(a),1,Cidade tiradentes
+3508,M,Casado(a),1,Cidade tiradentes
+3526,M,Casado(a),1,Cidade tiradentes
+3542,M,Casado(a),1,Cidade tiradentes
+3610,M,Casado(a),1,Cidade tiradentes
+3661,M,Casado(a),1,Cidade tiradentes
+3790,M,Casado(a),1,Cidade tiradentes
+3810,M,Casado(a),1,Cidade tiradentes
+3880,M,Casado(a),1,Cidade tiradentes
+3952,M,Casado(a),1,Cidade tiradentes
+4169,M,Casado(a),1,Cidade tiradentes
+4271,M,Casado(a),1,Cidade tiradentes
+4592,M,Casado(a),1,Cidade tiradentes
+4821,M,Casado(a),1,Cidade tiradentes
+4937,M,Casado(a),1,Cidade tiradentes
+4960,M,Casado(a),1,Cidade tiradentes
+4977,M,Casado(a),1,Cidade tiradentes
+4978,M,Casado(a),1,Cidade tiradentes
+5077,M,Casado(a),1,Cidade tiradentes
+5107,M,Casado(a),1,Cidade tiradentes
+5159,M,Casado(a),1,Cidade tiradentes
+5532,M,Casado(a),1,Cidade tiradentes
+5602,M,Casado(a),1,Cidade tiradentes
+5676,M,Casado(a),1,Cidade tiradentes
+5935,M,Casado(a),1,Cidade tiradentes
+5994,M,Casado(a),1,Cidade tiradentes
+6256,M,Casado(a),1,Cidade tiradentes
+6566,M,Casado(a),1,Cidade tiradentes
+6750,M,Casado(a),1,Cidade tiradentes
+6754,M,Casado(a),1,Cidade tiradentes
+6757,M,Casado(a),1,Cidade tiradentes
+6762,M,Casado(a),1,Cidade tiradentes
+6805,M,Casado(a),1,Cidade tiradentes
+6896,M,Casado(a),1,Cidade tiradentes
+6905,M,Casado(a),1,Cidade tiradentes
+7307,M,Casado(a),1,Cidade tiradentes
+7342,M,Casado(a),1,Cidade tiradentes
+7471,M,Casado(a),1,Cidade tiradentes
+7559,M,Casado(a),1,Cidade tiradentes
+7652,M,Casado(a),1,Cidade tiradentes
+7936,M,Casado(a),1,Cidade tiradentes
+8236,M,Casado(a),1,Cidade tiradentes
+8317,M,Casado(a),1,Cidade tiradentes
+8457,M,Casado(a),1,Cidade tiradentes
+8573,M,Casado(a),1,Cidade tiradentes
+8670,M,Casado(a),1,Cidade tiradentes
+8857,M,Casado(a),1,Cidade tiradentes
+8928,M,Casado(a),1,Cidade tiradentes
+9059,M,Casado(a),1,Cidade tiradentes
+9166,M,Casado(a),1,Cidade tiradentes
+9460,M,Casado(a),1,Cidade tiradentes
+9596,M,Casado(a),1,Cidade tiradentes
+9904,M,Casado(a),1,Cidade tiradentes
+9945,M,Casado(a),1,Cidade tiradentes
+10024,M,Casado(a),1,Cidade tiradentes
+10025,M,Casado(a),1,Cidade tiradentes
+10121,M,Casado(a),1,Cidade tiradentes
+133,F,Casado(a),1,Cidade tiradentes
+155,F,Casado(a),1,Cidade tiradentes
+210,F,Casado(a),1,Cidade tiradentes
+268,F,Casado(a),1,Cidade tiradentes
+287,F,Casado(a),1,Cidade tiradentes
+299,F,Casado(a),1,Cidade tiradentes
+389,F,Casado(a),1,Cidade tiradentes
+436,F,Casado(a),1,Cidade tiradentes
+451,F,Casado(a),1,Cidade tiradentes
+474,F,Casado(a),1,Cidade tiradentes
+553,F,Casado(a),1,Cidade tiradentes
+598,F,Casado(a),1,Cidade tiradentes
+759,F,Casado(a),1,Cidade tiradentes
+874,F,Casado(a),1,Cidade tiradentes
+898,F,Casado(a),1,Cidade tiradentes
+1234,F,Casado(a),1,Cidade tiradentes
+1270,F,Casado(a),1,Cidade tiradentes
+1368,F,Casado(a),1,Cidade tiradentes
+1578,F,Casado(a),1,Cidade tiradentes
+1620,F,Casado(a),1,Cidade tiradentes
+1759,F,Casado(a),1,Cidade tiradentes
+1866,F,Casado(a),1,Cidade tiradentes
+1877,F,Casado(a),1,Cidade tiradentes
+1918,F,Casado(a),1,Cidade tiradentes
+2421,F,Casado(a),1,Cidade tiradentes
+2494,F,Casado(a),1,Cidade tiradentes
+2500,F,Casado(a),1,Cidade tiradentes
+2779,F,Casado(a),1,Cidade tiradentes
+2828,F,Casado(a),1,Cidade tiradentes
+2876,F,Casado(a),1,Cidade tiradentes
+3280,F,Casado(a),1,Cidade tiradentes
+3295,F,Casado(a),1,Cidade tiradentes
+3352,F,Casado(a),1,Cidade tiradentes
+3516,F,Casado(a),1,Cidade tiradentes
+3702,F,Casado(a),1,Cidade tiradentes
+3784,F,Casado(a),1,Cidade tiradentes
+3871,F,Casado(a),1,Cidade tiradentes
+3875,F,Casado(a),1,Cidade tiradentes
+4028,F,Casado(a),1,Cidade tiradentes
+4279,F,Casado(a),1,Cidade tiradentes
+4343,F,Casado(a),1,Cidade tiradentes
+4377,F,Casado(a),1,Cidade tiradentes
+4488,F,Casado(a),1,Cidade tiradentes
+4789,F,Casado(a),1,Cidade tiradentes
+4921,F,Casado(a),1,Cidade tiradentes
+4929,F,Casado(a),1,Cidade tiradentes
+5083,F,Casado(a),1,Cidade tiradentes
+5221,F,Casado(a),1,Cidade tiradentes
+5261,F,Casado(a),1,Cidade tiradentes
+5577,F,Casado(a),1,Cidade tiradentes
+5659,F,Casado(a),1,Cidade tiradentes
+5691,F,Casado(a),1,Cidade tiradentes
+5851,F,Casado(a),1,Cidade tiradentes
+5918,F,Casado(a),1,Cidade tiradentes
+5968,F,Casado(a),1,Cidade tiradentes
+6055,F,Casado(a),1,Cidade tiradentes
+6071,F,Casado(a),1,Cidade tiradentes
+6224,F,Casado(a),1,Cidade tiradentes
+6236,F,Casado(a),1,Cidade tiradentes
+6239,F,Casado(a),1,Cidade tiradentes
+6304,F,Casado(a),1,Cidade tiradentes
+6382,F,Casado(a),1,Cidade tiradentes
+6461,F,Casado(a),1,Cidade tiradentes
+6600,F,Casado(a),1,Cidade tiradentes
+6702,F,Casado(a),1,Cidade tiradentes
+6732,F,Casado(a),1,Cidade tiradentes
+6788,F,Casado(a),1,Cidade tiradentes
+6915,F,Casado(a),1,Cidade tiradentes
+6931,F,Casado(a),1,Cidade tiradentes
+7245,F,Casado(a),1,Cidade tiradentes
+7478,F,Casado(a),1,Cidade tiradentes
+7764,F,Casado(a),1,Cidade tiradentes
+7972,F,Casado(a),1,Cidade tiradentes
+8119,F,Casado(a),1,Cidade tiradentes
+8272,F,Casado(a),1,Cidade tiradentes
+8326,F,Casado(a),1,Cidade tiradentes
+8594,F,Casado(a),1,Cidade tiradentes
+8638,F,Casado(a),1,Cidade tiradentes
+8652,F,Casado(a),1,Cidade tiradentes
+8708,F,Casado(a),1,Cidade tiradentes
+9055,F,Casado(a),1,Cidade tiradentes
+9086,F,Casado(a),1,Cidade tiradentes
+9108,F,Casado(a),1,Cidade tiradentes
+9157,F,Casado(a),1,Cidade tiradentes
+9226,F,Casado(a),1,Cidade tiradentes
+9357,F,Casado(a),1,Cidade tiradentes
+9359,F,Casado(a),1,Cidade tiradentes
+9416,F,Casado(a),1,Cidade tiradentes
+9549,F,Casado(a),1,Cidade tiradentes
+9835,F,Casado(a),1,Cidade tiradentes
+10001,F,Casado(a),1,Cidade tiradentes
+10120,F,Casado(a),1,Cidade tiradentes
+10229,F,Casado(a),1,Cidade tiradentes
+10278,F,Casado(a),1,Cidade tiradentes
+8,F,Casado(a),2,Cidade tiradentes
+275,F,Casado(a),2,Cidade tiradentes
+298,F,Casado(a),2,Cidade tiradentes
+345,F,Casado(a),2,Cidade tiradentes
+397,F,Casado(a),2,Cidade tiradentes
+438,F,Casado(a),2,Cidade tiradentes
+486,F,Casado(a),2,Cidade tiradentes
+632,F,Casado(a),2,Cidade tiradentes
+633,F,Casado(a),2,Cidade tiradentes
+799,F,Casado(a),2,Cidade tiradentes
+1031,F,Casado(a),2,Cidade tiradentes
+1119,F,Casado(a),2,Cidade tiradentes
+1135,F,Casado(a),2,Cidade tiradentes
+1379,F,Casado(a),2,Cidade tiradentes
+1501,F,Casado(a),2,Cidade tiradentes
+1663,F,Casado(a),2,Cidade tiradentes
+1742,F,Casado(a),2,Cidade tiradentes
+2404,F,Casado(a),2,Cidade tiradentes
+2571,F,Casado(a),2,Cidade tiradentes
+2657,F,Casado(a),2,Cidade tiradentes
+2880,F,Casado(a),2,Cidade tiradentes
+3342,F,Casado(a),2,Cidade tiradentes
+3449,F,Casado(a),2,Cidade tiradentes
+3503,F,Casado(a),2,Cidade tiradentes
+3857,F,Casado(a),2,Cidade tiradentes
+4317,F,Casado(a),2,Cidade tiradentes
+4361,F,Casado(a),2,Cidade tiradentes
+4598,F,Casado(a),2,Cidade tiradentes
+4745,F,Casado(a),2,Cidade tiradentes
+4761,F,Casado(a),2,Cidade tiradentes
+4766,F,Casado(a),2,Cidade tiradentes
+5054,F,Casado(a),2,Cidade tiradentes
+5231,F,Casado(a),2,Cidade tiradentes
+5233,F,Casado(a),2,Cidade tiradentes
+5301,F,Casado(a),2,Cidade tiradentes
+5718,F,Casado(a),2,Cidade tiradentes
+5840,F,Casado(a),2,Cidade tiradentes
+6024,F,Casado(a),2,Cidade tiradentes
+6127,F,Casado(a),2,Cidade tiradentes
+6217,F,Casado(a),2,Cidade tiradentes
+6361,F,Casado(a),2,Cidade tiradentes
+6442,F,Casado(a),2,Cidade tiradentes
+6582,F,Casado(a),2,Cidade tiradentes
+6615,F,Casado(a),2,Cidade tiradentes
+6693,F,Casado(a),2,Cidade tiradentes
+6897,F,Casado(a),2,Cidade tiradentes
+7584,F,Casado(a),2,Cidade tiradentes
+7776,F,Casado(a),2,Cidade tiradentes
+7960,F,Casado(a),2,Cidade tiradentes
+8087,F,Casado(a),2,Cidade tiradentes
+8400,F,Casado(a),2,Cidade tiradentes
+8430,F,Casado(a),2,Cidade tiradentes
+8592,F,Casado(a),2,Cidade tiradentes
+8699,F,Casado(a),2,Cidade tiradentes
+8757,F,Casado(a),2,Cidade tiradentes
+8775,F,Casado(a),2,Cidade tiradentes
+8815,F,Casado(a),2,Cidade tiradentes
+8984,F,Casado(a),2,Cidade tiradentes
+8989,F,Casado(a),2,Cidade tiradentes
+9249,F,Casado(a),2,Cidade tiradentes
+9269,F,Casado(a),2,Cidade tiradentes
+9414,F,Casado(a),2,Cidade tiradentes
+9625,F,Casado(a),2,Cidade tiradentes
+9995,F,Casado(a),2,Cidade tiradentes
+10119,F,Casado(a),2,Cidade tiradentes
+10154,F,Casado(a),2,Cidade tiradentes
+952,M,Casado(a),2,Cidade tiradentes
+1025,M,Casado(a),2,Cidade tiradentes
+1138,M,Casado(a),2,Cidade tiradentes
+1162,M,Casado(a),2,Cidade tiradentes
+1520,M,Casado(a),2,Cidade tiradentes
+1539,M,Casado(a),2,Cidade tiradentes
+1650,M,Casado(a),2,Cidade tiradentes
+1814,M,Casado(a),2,Cidade tiradentes
+1975,M,Casado(a),2,Cidade tiradentes
+2222,M,Casado(a),2,Cidade tiradentes
+2239,M,Casado(a),2,Cidade tiradentes
+2423,M,Casado(a),2,Cidade tiradentes
+2445,M,Casado(a),2,Cidade tiradentes
+2701,M,Casado(a),2,Cidade tiradentes
+2790,M,Casado(a),2,Cidade tiradentes
+2990,M,Casado(a),2,Cidade tiradentes
+3023,M,Casado(a),2,Cidade tiradentes
+3291,M,Casado(a),2,Cidade tiradentes
+3329,M,Casado(a),2,Cidade tiradentes
+3996,M,Casado(a),2,Cidade tiradentes
+4006,M,Casado(a),2,Cidade tiradentes
+4477,M,Casado(a),2,Cidade tiradentes
+4748,M,Casado(a),2,Cidade tiradentes
+4797,M,Casado(a),2,Cidade tiradentes
+5013,M,Casado(a),2,Cidade tiradentes
+5031,M,Casado(a),2,Cidade tiradentes
+5311,M,Casado(a),2,Cidade tiradentes
+5519,M,Casado(a),2,Cidade tiradentes
+5765,M,Casado(a),2,Cidade tiradentes
+5951,M,Casado(a),2,Cidade tiradentes
+6066,M,Casado(a),2,Cidade tiradentes
+6096,M,Casado(a),2,Cidade tiradentes
+6223,M,Casado(a),2,Cidade tiradentes
+6354,M,Casado(a),2,Cidade tiradentes
+6569,M,Casado(a),2,Cidade tiradentes
+6847,M,Casado(a),2,Cidade tiradentes
+6970,M,Casado(a),2,Cidade tiradentes
+7039,M,Casado(a),2,Cidade tiradentes
+7116,M,Casado(a),2,Cidade tiradentes
+7164,M,Casado(a),2,Cidade tiradentes
+7308,M,Casado(a),2,Cidade tiradentes
+7408,M,Casado(a),2,Cidade tiradentes
+7454,M,Casado(a),2,Cidade tiradentes
+7757,M,Casado(a),2,Cidade tiradentes
+8182,M,Casado(a),2,Cidade tiradentes
+8593,M,Casado(a),2,Cidade tiradentes
+8615,M,Casado(a),2,Cidade tiradentes
+8728,M,Casado(a),2,Cidade tiradentes
+8834,M,Casado(a),2,Cidade tiradentes
+8942,M,Casado(a),2,Cidade tiradentes
+9198,M,Casado(a),2,Cidade tiradentes
+9268,M,Casado(a),2,Cidade tiradentes
+9283,M,Casado(a),2,Cidade tiradentes
+9709,M,Casado(a),2,Cidade tiradentes
+9908,M,Casado(a),2,Cidade tiradentes
+10022,M,Casado(a),2,Cidade tiradentes
+10050,M,Casado(a),2,Cidade tiradentes
+10178,M,Casado(a),2,Cidade tiradentes
+911,M,Solteiro(a),2,Cidade tiradentes
+933,M,Solteiro(a),2,Cidade tiradentes
+1067,M,Solteiro(a),2,Cidade tiradentes
+1274,M,Solteiro(a),2,Cidade tiradentes
+1702,M,Solteiro(a),2,Cidade tiradentes
+1920,M,Solteiro(a),2,Cidade tiradentes
+2232,M,Solteiro(a),2,Cidade tiradentes
+2257,M,Solteiro(a),2,Cidade tiradentes
+2451,M,Solteiro(a),2,Cidade tiradentes
+2647,M,Solteiro(a),2,Cidade tiradentes
+2703,M,Solteiro(a),2,Cidade tiradentes
+2826,M,Solteiro(a),2,Cidade tiradentes
+2840,M,Solteiro(a),2,Cidade tiradentes
+2946,M,Solteiro(a),2,Cidade tiradentes
+3052,M,Solteiro(a),2,Cidade tiradentes
+3087,M,Solteiro(a),2,Cidade tiradentes
+3157,M,Solteiro(a),2,Cidade tiradentes
+3188,M,Solteiro(a),2,Cidade tiradentes
+3285,M,Solteiro(a),2,Cidade tiradentes
+3750,M,Solteiro(a),2,Cidade tiradentes
+3841,M,Solteiro(a),2,Cidade tiradentes
+3970,M,Solteiro(a),2,Cidade tiradentes
+4044,M,Solteiro(a),2,Cidade tiradentes
+4147,M,Solteiro(a),2,Cidade tiradentes
+4379,M,Solteiro(a),2,Cidade tiradentes
+4548,M,Solteiro(a),2,Cidade tiradentes
+4561,M,Solteiro(a),2,Cidade tiradentes
+4582,M,Solteiro(a),2,Cidade tiradentes
+4720,M,Solteiro(a),2,Cidade tiradentes
+4936,M,Solteiro(a),2,Cidade tiradentes
+5298,M,Solteiro(a),2,Cidade tiradentes
+5324,M,Solteiro(a),2,Cidade tiradentes
+5333,M,Solteiro(a),2,Cidade tiradentes
+5514,M,Solteiro(a),2,Cidade tiradentes
+5754,M,Solteiro(a),2,Cidade tiradentes
+5806,M,Solteiro(a),2,Cidade tiradentes
+5954,M,Solteiro(a),2,Cidade tiradentes
+6184,M,Solteiro(a),2,Cidade tiradentes
+6375,M,Solteiro(a),2,Cidade tiradentes
+6593,M,Solteiro(a),2,Cidade tiradentes
+6608,M,Solteiro(a),2,Cidade tiradentes
+6670,M,Solteiro(a),2,Cidade tiradentes
+6804,M,Solteiro(a),2,Cidade tiradentes
+6909,M,Solteiro(a),2,Cidade tiradentes
+7620,M,Solteiro(a),2,Cidade tiradentes
+7666,M,Solteiro(a),2,Cidade tiradentes
+7954,M,Solteiro(a),2,Cidade tiradentes
+8101,M,Solteiro(a),2,Cidade tiradentes
+8338,M,Solteiro(a),2,Cidade tiradentes
+8380,M,Solteiro(a),2,Cidade tiradentes
+8421,M,Solteiro(a),2,Cidade tiradentes
+8428,M,Solteiro(a),2,Cidade tiradentes
+8469,M,Solteiro(a),2,Cidade tiradentes
+8486,M,Solteiro(a),2,Cidade tiradentes
+8823,M,Solteiro(a),2,Cidade tiradentes
+8875,M,Solteiro(a),2,Cidade tiradentes
+8877,M,Solteiro(a),2,Cidade tiradentes
+9093,M,Solteiro(a),2,Cidade tiradentes
+9189,M,Solteiro(a),2,Cidade tiradentes
+9352,M,Solteiro(a),2,Cidade tiradentes
+9449,M,Solteiro(a),2,Cidade tiradentes
+9610,M,Solteiro(a),2,Cidade tiradentes
+9848,M,Solteiro(a),2,Cidade tiradentes
+9883,M,Solteiro(a),2,Cidade tiradentes
+9930,M,Solteiro(a),2,Cidade tiradentes
+10047,M,Solteiro(a),2,Cidade tiradentes
+10071,M,Solteiro(a),2,Cidade tiradentes
+10213,M,Solteiro(a),2,Cidade tiradentes
+10231,M,Solteiro(a),2,Cidade tiradentes
+32,F,Solteiro(a),2,Cidade tiradentes
+77,F,Solteiro(a),2,Cidade tiradentes
+109,F,Solteiro(a),2,Cidade tiradentes
+218,F,Solteiro(a),2,Cidade tiradentes
+271,F,Solteiro(a),2,Cidade tiradentes
+321,F,Solteiro(a),2,Cidade tiradentes
+339,F,Solteiro(a),2,Cidade tiradentes
+682,F,Solteiro(a),2,Cidade tiradentes
+724,F,Solteiro(a),2,Cidade tiradentes
+749,F,Solteiro(a),2,Cidade tiradentes
+822,F,Solteiro(a),2,Cidade tiradentes
+943,F,Solteiro(a),2,Cidade tiradentes
+1171,F,Solteiro(a),2,Cidade tiradentes
+1455,F,Solteiro(a),2,Cidade tiradentes
+1559,F,Solteiro(a),2,Cidade tiradentes
+1593,F,Solteiro(a),2,Cidade tiradentes
+1865,F,Solteiro(a),2,Cidade tiradentes
+1990,F,Solteiro(a),2,Cidade tiradentes
+2107,F,Solteiro(a),2,Cidade tiradentes
+2206,F,Solteiro(a),2,Cidade tiradentes
+2354,F,Solteiro(a),2,Cidade tiradentes
+2394,F,Solteiro(a),2,Cidade tiradentes
+2457,F,Solteiro(a),2,Cidade tiradentes
+2866,F,Solteiro(a),2,Cidade tiradentes
+3116,F,Solteiro(a),2,Cidade tiradentes
+3292,F,Solteiro(a),2,Cidade tiradentes
+3408,F,Solteiro(a),2,Cidade tiradentes
+3537,F,Solteiro(a),2,Cidade tiradentes
+3807,F,Solteiro(a),2,Cidade tiradentes
+3904,F,Solteiro(a),2,Cidade tiradentes
+3974,F,Solteiro(a),2,Cidade tiradentes
+4072,F,Solteiro(a),2,Cidade tiradentes
+4399,F,Solteiro(a),2,Cidade tiradentes
+4470,F,Solteiro(a),2,Cidade tiradentes
+4510,F,Solteiro(a),2,Cidade tiradentes
+4534,F,Solteiro(a),2,Cidade tiradentes
+4568,F,Solteiro(a),2,Cidade tiradentes
+4871,F,Solteiro(a),2,Cidade tiradentes
+5089,F,Solteiro(a),2,Cidade tiradentes
+5129,F,Solteiro(a),2,Cidade tiradentes
+5293,F,Solteiro(a),2,Cidade tiradentes
+5409,F,Solteiro(a),2,Cidade tiradentes
+5538,F,Solteiro(a),2,Cidade tiradentes
+5608,F,Solteiro(a),2,Cidade tiradentes
+5630,F,Solteiro(a),2,Cidade tiradentes
+5848,F,Solteiro(a),2,Cidade tiradentes
+6030,F,Solteiro(a),2,Cidade tiradentes
+6558,F,Solteiro(a),2,Cidade tiradentes
+6628,F,Solteiro(a),2,Cidade tiradentes
+6769,F,Solteiro(a),2,Cidade tiradentes
+6837,F,Solteiro(a),2,Cidade tiradentes
+6962,F,Solteiro(a),2,Cidade tiradentes
+7221,F,Solteiro(a),2,Cidade tiradentes
+7322,F,Solteiro(a),2,Cidade tiradentes
+7685,F,Solteiro(a),2,Cidade tiradentes
+7945,F,Solteiro(a),2,Cidade tiradentes
+7970,F,Solteiro(a),2,Cidade tiradentes
+8212,F,Solteiro(a),2,Cidade tiradentes
+8285,F,Solteiro(a),2,Cidade tiradentes
+8684,F,Solteiro(a),2,Cidade tiradentes
+8713,F,Solteiro(a),2,Cidade tiradentes
+8754,F,Solteiro(a),2,Cidade tiradentes
+8817,F,Solteiro(a),2,Cidade tiradentes
+8912,F,Solteiro(a),2,Cidade tiradentes
+9450,F,Solteiro(a),2,Cidade tiradentes
+9561,F,Solteiro(a),2,Cidade tiradentes
+9775,F,Solteiro(a),2,Cidade tiradentes
+9919,F,Solteiro(a),2,Cidade tiradentes
+10083,F,Solteiro(a),2,Cidade tiradentes
+10137,F,Solteiro(a),2,Cidade tiradentes
+10189,F,Solteiro(a),2,Cidade tiradentes
+922,M,Solteiro(a),4,Cidade tiradentes
+1059,M,Solteiro(a),4,Cidade tiradentes
+1116,M,Solteiro(a),4,Cidade tiradentes
+1362,M,Solteiro(a),4,Cidade tiradentes
+1427,M,Solteiro(a),4,Cidade tiradentes
+1738,M,Solteiro(a),4,Cidade tiradentes
+1792,M,Solteiro(a),4,Cidade tiradentes
+1936,M,Solteiro(a),4,Cidade tiradentes
+1946,M,Solteiro(a),4,Cidade tiradentes
+2324,M,Solteiro(a),4,Cidade tiradentes
+2492,M,Solteiro(a),4,Cidade tiradentes
+2830,M,Solteiro(a),4,Cidade tiradentes
+3034,M,Solteiro(a),4,Cidade tiradentes
+3206,M,Solteiro(a),4,Cidade tiradentes
+3209,M,Solteiro(a),4,Cidade tiradentes
+3338,M,Solteiro(a),4,Cidade tiradentes
+3411,M,Solteiro(a),4,Cidade tiradentes
+3462,M,Solteiro(a),4,Cidade tiradentes
+4061,M,Solteiro(a),4,Cidade tiradentes
+4151,M,Solteiro(a),4,Cidade tiradentes
+4447,M,Solteiro(a),4,Cidade tiradentes
+5144,M,Solteiro(a),4,Cidade tiradentes
+5151,M,Solteiro(a),4,Cidade tiradentes
+5464,M,Solteiro(a),4,Cidade tiradentes
+5466,M,Solteiro(a),4,Cidade tiradentes
+5471,M,Solteiro(a),4,Cidade tiradentes
+5566,M,Solteiro(a),4,Cidade tiradentes
+5642,M,Solteiro(a),4,Cidade tiradentes
+5687,M,Solteiro(a),4,Cidade tiradentes
+5773,M,Solteiro(a),4,Cidade tiradentes
+5830,M,Solteiro(a),4,Cidade tiradentes
+5985,M,Solteiro(a),4,Cidade tiradentes
+6251,M,Solteiro(a),4,Cidade tiradentes
+6749,M,Solteiro(a),4,Cidade tiradentes
+6806,M,Solteiro(a),4,Cidade tiradentes
+6916,M,Solteiro(a),4,Cidade tiradentes
+6958,M,Solteiro(a),4,Cidade tiradentes
+7087,M,Solteiro(a),4,Cidade tiradentes
+7097,M,Solteiro(a),4,Cidade tiradentes
+7175,M,Solteiro(a),4,Cidade tiradentes
+7227,M,Solteiro(a),4,Cidade tiradentes
+7437,M,Solteiro(a),4,Cidade tiradentes
+7447,M,Solteiro(a),4,Cidade tiradentes
+7452,M,Solteiro(a),4,Cidade tiradentes
+7474,M,Solteiro(a),4,Cidade tiradentes
+7770,M,Solteiro(a),4,Cidade tiradentes
+7851,M,Solteiro(a),4,Cidade tiradentes
+7990,M,Solteiro(a),4,Cidade tiradentes
+8130,M,Solteiro(a),4,Cidade tiradentes
+8148,M,Solteiro(a),4,Cidade tiradentes
+8933,M,Solteiro(a),4,Cidade tiradentes
+9142,M,Solteiro(a),4,Cidade tiradentes
+9180,M,Solteiro(a),4,Cidade tiradentes
+9243,M,Solteiro(a),4,Cidade tiradentes
+9304,M,Solteiro(a),4,Cidade tiradentes
+9443,M,Solteiro(a),4,Cidade tiradentes
+9484,M,Solteiro(a),4,Cidade tiradentes
+9603,M,Solteiro(a),4,Cidade tiradentes
+9806,M,Solteiro(a),4,Cidade tiradentes
+9808,M,Solteiro(a),4,Cidade tiradentes
+9824,M,Solteiro(a),4,Cidade tiradentes
+9903,M,Solteiro(a),4,Cidade tiradentes
+9979,M,Solteiro(a),4,Cidade tiradentes
+10171,M,Solteiro(a),4,Cidade tiradentes
+10208,M,Solteiro(a),4,Cidade tiradentes
+10274,M,Solteiro(a),4,Cidade tiradentes
+87,F,Solteiro(a),4,Cidade tiradentes
+119,F,Solteiro(a),4,Cidade tiradentes
+195,F,Solteiro(a),4,Cidade tiradentes
+262,F,Solteiro(a),4,Cidade tiradentes
+305,F,Solteiro(a),4,Cidade tiradentes
+391,F,Solteiro(a),4,Cidade tiradentes
+415,F,Solteiro(a),4,Cidade tiradentes
+487,F,Solteiro(a),4,Cidade tiradentes
+540,F,Solteiro(a),4,Cidade tiradentes
+601,F,Solteiro(a),4,Cidade tiradentes
+606,F,Solteiro(a),4,Cidade tiradentes
+665,F,Solteiro(a),4,Cidade tiradentes
+717,F,Solteiro(a),4,Cidade tiradentes
+875,F,Solteiro(a),4,Cidade tiradentes
+1085,F,Solteiro(a),4,Cidade tiradentes
+1484,F,Solteiro(a),4,Cidade tiradentes
+1577,F,Solteiro(a),4,Cidade tiradentes
+1769,F,Solteiro(a),4,Cidade tiradentes
+1930,F,Solteiro(a),4,Cidade tiradentes
+1935,F,Solteiro(a),4,Cidade tiradentes
+1976,F,Solteiro(a),4,Cidade tiradentes
+2118,F,Solteiro(a),4,Cidade tiradentes
+2237,F,Solteiro(a),4,Cidade tiradentes
+2296,F,Solteiro(a),4,Cidade tiradentes
+2743,F,Solteiro(a),4,Cidade tiradentes
+3035,F,Solteiro(a),4,Cidade tiradentes
+3090,F,Solteiro(a),4,Cidade tiradentes
+3644,F,Solteiro(a),4,Cidade tiradentes
+3760,F,Solteiro(a),4,Cidade tiradentes
+3981,F,Solteiro(a),4,Cidade tiradentes
+4023,F,Solteiro(a),4,Cidade tiradentes
+4043,F,Solteiro(a),4,Cidade tiradentes
+4068,F,Solteiro(a),4,Cidade tiradentes
+4223,F,Solteiro(a),4,Cidade tiradentes
+4244,F,Solteiro(a),4,Cidade tiradentes
+4455,F,Solteiro(a),4,Cidade tiradentes
+4520,F,Solteiro(a),4,Cidade tiradentes
+5249,F,Solteiro(a),4,Cidade tiradentes
+5343,F,Solteiro(a),4,Cidade tiradentes
+5401,F,Solteiro(a),4,Cidade tiradentes
+5488,F,Solteiro(a),4,Cidade tiradentes
+5711,F,Solteiro(a),4,Cidade tiradentes
+5881,F,Solteiro(a),4,Cidade tiradentes
+5974,F,Solteiro(a),4,Cidade tiradentes
+6230,F,Solteiro(a),4,Cidade tiradentes
+6465,F,Solteiro(a),4,Cidade tiradentes
+6533,F,Solteiro(a),4,Cidade tiradentes
+6892,F,Solteiro(a),4,Cidade tiradentes
+7418,F,Solteiro(a),4,Cidade tiradentes
+7487,F,Solteiro(a),4,Cidade tiradentes
+7602,F,Solteiro(a),4,Cidade tiradentes
+7660,F,Solteiro(a),4,Cidade tiradentes
+7663,F,Solteiro(a),4,Cidade tiradentes
+7695,F,Solteiro(a),4,Cidade tiradentes
+7872,F,Solteiro(a),4,Cidade tiradentes
+8568,F,Solteiro(a),4,Cidade tiradentes
+8627,F,Solteiro(a),4,Cidade tiradentes
+9076,F,Solteiro(a),4,Cidade tiradentes
+9855,F,Solteiro(a),4,Cidade tiradentes
+9906,F,Solteiro(a),4,Cidade tiradentes
+9932,F,Solteiro(a),4,Cidade tiradentes
+9978,F,Solteiro(a),4,Cidade tiradentes
+112,F,Casado(a),4,Cidade tiradentes
+141,F,Casado(a),4,Cidade tiradentes
+382,F,Casado(a),4,Cidade tiradentes
+466,F,Casado(a),4,Cidade tiradentes
+816,F,Casado(a),4,Cidade tiradentes
+866,F,Casado(a),4,Cidade tiradentes
+904,M,Casado(a),4,Cidade tiradentes
+937,F,Casado(a),4,Cidade tiradentes
+974,F,Casado(a),4,Cidade tiradentes
+1017,F,Casado(a),4,Cidade tiradentes
+1443,F,Casado(a),4,Cidade tiradentes
+1563,F,Casado(a),4,Cidade tiradentes
+2130,M,Casado(a),4,Cidade tiradentes
+2139,F,Casado(a),4,Cidade tiradentes
+2316,M,Casado(a),4,Cidade tiradentes
+2330,M,Casado(a),4,Cidade tiradentes
+2366,F,Casado(a),4,Cidade tiradentes
+2432,M,Casado(a),4,Cidade tiradentes
+2463,M,Casado(a),4,Cidade tiradentes
+2472,M,Casado(a),4,Cidade tiradentes
+2527,M,Casado(a),4,Cidade tiradentes
+2564,M,Casado(a),4,Cidade tiradentes
+2582,F,Casado(a),4,Cidade tiradentes
+2589,M,Casado(a),4,Cidade tiradentes
+2621,F,Casado(a),4,Cidade tiradentes
+2712,M,Casado(a),4,Cidade tiradentes
+2998,M,Casado(a),4,Cidade tiradentes
+3121,M,Casado(a),4,Cidade tiradentes
+3256,F,Casado(a),4,Cidade tiradentes
+3269,M,Casado(a),4,Cidade tiradentes
+3501,F,Casado(a),4,Cidade tiradentes
+3532,F,Casado(a),4,Cidade tiradentes
+3585,F,Casado(a),4,Cidade tiradentes
+3616,M,Casado(a),4,Cidade tiradentes
+3729,F,Casado(a),4,Cidade tiradentes
+3738,M,Casado(a),4,Cidade tiradentes
+3753,F,Casado(a),4,Cidade tiradentes
+3829,M,Casado(a),4,Cidade tiradentes
+3951,M,Casado(a),4,Cidade tiradentes
+3987,M,Casado(a),4,Cidade tiradentes
+4224,F,Casado(a),4,Cidade tiradentes
+4300,F,Casado(a),4,Cidade tiradentes
+4360,M,Casado(a),4,Cidade tiradentes
+4501,F,Casado(a),4,Cidade tiradentes
+4637,M,Casado(a),4,Cidade tiradentes
+4655,F,Casado(a),4,Cidade tiradentes
+4776,M,Casado(a),4,Cidade tiradentes
+4796,F,Casado(a),4,Cidade tiradentes
+5020,M,Casado(a),4,Cidade tiradentes
+5095,F,Casado(a),4,Cidade tiradentes
+5155,M,Casado(a),4,Cidade tiradentes
+5208,M,Casado(a),4,Cidade tiradentes
+5242,F,Casado(a),4,Cidade tiradentes
+5252,F,Casado(a),4,Cidade tiradentes
+5394,M,Casado(a),4,Cidade tiradentes
+5481,F,Casado(a),4,Cidade tiradentes
+5508,F,Casado(a),4,Cidade tiradentes
+5559,F,Casado(a),4,Cidade tiradentes
+5626,F,Casado(a),4,Cidade tiradentes
+5665,F,Casado(a),4,Cidade tiradentes
+5986,M,Casado(a),4,Cidade tiradentes
+6042,M,Casado(a),4,Cidade tiradentes
+6052,F,Casado(a),4,Cidade tiradentes
+6086,M,Casado(a),4,Cidade tiradentes
+6317,F,Casado(a),4,Cidade tiradentes
+6618,F,Casado(a),4,Cidade tiradentes
+6677,F,Casado(a),4,Cidade tiradentes
+6746,M,Casado(a),4,Cidade tiradentes
+6971,M,Casado(a),4,Cidade tiradentes
+7011,M,Casado(a),4,Cidade tiradentes
+7104,F,Casado(a),4,Cidade tiradentes
+7107,M,Casado(a),4,Cidade tiradentes
+7267,F,Casado(a),4,Cidade tiradentes
+7356,F,Casado(a),4,Cidade tiradentes
+7512,M,Casado(a),4,Cidade tiradentes
+7517,M,Casado(a),4,Cidade tiradentes
+7550,M,Casado(a),4,Cidade tiradentes
+7566,M,Casado(a),4,Cidade tiradentes
+7605,M,Casado(a),4,Cidade tiradentes
+7693,M,Casado(a),4,Cidade tiradentes
+7779,M,Casado(a),4,Cidade tiradentes
+7816,M,Casado(a),4,Cidade tiradentes
+7856,F,Casado(a),4,Cidade tiradentes
+8001,F,Casado(a),4,Cidade tiradentes
+8105,F,Casado(a),4,Cidade tiradentes
+8184,F,Casado(a),4,Cidade tiradentes
+8293,F,Casado(a),4,Cidade tiradentes
+8337,F,Casado(a),4,Cidade tiradentes
+8470,F,Casado(a),4,Cidade tiradentes
+8639,F,Casado(a),4,Cidade tiradentes
+8688,F,Casado(a),4,Cidade tiradentes
+8729,M,Casado(a),4,Cidade tiradentes
+8964,M,Casado(a),4,Cidade tiradentes
+9019,M,Casado(a),4,Cidade tiradentes
+9141,M,Casado(a),4,Cidade tiradentes
+9179,F,Casado(a),4,Cidade tiradentes
+9235,M,Casado(a),4,Cidade tiradentes
+9313,M,Casado(a),4,Cidade tiradentes
+9319,F,Casado(a),4,Cidade tiradentes
+9422,F,Casado(a),4,Cidade tiradentes
+9438,F,Casado(a),4,Cidade tiradentes
+9479,M,Casado(a),4,Cidade tiradentes
+9480,M,Casado(a),4,Cidade tiradentes
+9499,M,Casado(a),4,Cidade tiradentes
+9522,M,Casado(a),4,Cidade tiradentes
+9630,F,Casado(a),4,Cidade tiradentes
+9649,M,Casado(a),4,Cidade tiradentes
+9717,M,Casado(a),4,Cidade tiradentes
+9790,F,Casado(a),4,Cidade tiradentes
+9822,M,Casado(a),4,Cidade tiradentes
+9830,F,Casado(a),4,Cidade tiradentes
+9844,F,Casado(a),4,Cidade tiradentes
+9966,M,Casado(a),4,Cidade tiradentes
+10016,M,Casado(a),4,Cidade tiradentes
+10032,F,Casado(a),4,Cidade tiradentes
+10138,M,Casado(a),4,Cidade tiradentes
+10177,M,Casado(a),4,Cidade tiradentes
+10220,F,Casado(a),4,Cidade tiradentes
+42,F,Casado(a),3,Cidade tiradentes
+52,F,Solteiro(a),3,Cidade tiradentes
+57,F,Solteiro(a),3,Cidade tiradentes
+60,F,Solteiro(a),3,Cidade tiradentes
+110,F,Solteiro(a),3,Cidade tiradentes
+137,F,Casado(a),3,Cidade tiradentes
+144,F,Solteiro(a),3,Cidade tiradentes
+162,F,Casado(a),3,Cidade tiradentes
+211,F,Casado(a),3,Cidade tiradentes
+244,F,Casado(a),3,Cidade tiradentes
+336,F,Casado(a),3,Cidade tiradentes
+399,F,Casado(a),3,Cidade tiradentes
+414,F,Casado(a),3,Cidade tiradentes
+450,F,Solteiro(a),3,Cidade tiradentes
+506,F,Solteiro(a),3,Cidade tiradentes
+518,F,Casado(a),3,Cidade tiradentes
+542,F,Casado(a),3,Cidade tiradentes
+652,F,Solteiro(a),3,Cidade tiradentes
+727,F,Casado(a),3,Cidade tiradentes
+734,F,Solteiro(a),3,Cidade tiradentes
+810,F,Casado(a),3,Cidade tiradentes
+824,F,Solteiro(a),3,Cidade tiradentes
+907,F,Casado(a),3,Cidade tiradentes
+1217,F,Solteiro(a),3,Cidade tiradentes
+1367,F,Solteiro(a),3,Cidade tiradentes
+1448,F,Casado(a),3,Cidade tiradentes
+1666,F,Solteiro(a),3,Cidade tiradentes
+1722,F,Solteiro(a),3,Cidade tiradentes
+1753,F,Casado(a),3,Cidade tiradentes
+1900,F,Solteiro(a),3,Cidade tiradentes
+2114,F,Solteiro(a),3,Cidade tiradentes
+2156,F,Casado(a),3,Cidade tiradentes
+2391,F,Casado(a),3,Cidade tiradentes
+2393,F,Casado(a),3,Cidade tiradentes
+2400,F,Casado(a),3,Cidade tiradentes
+2462,F,Casado(a),3,Cidade tiradentes
+2728,F,Casado(a),3,Cidade tiradentes
+2751,F,Casado(a),3,Cidade tiradentes
+2752,F,Solteiro(a),3,Cidade tiradentes
+2796,F,Casado(a),3,Cidade tiradentes
+2842,F,Casado(a),3,Cidade tiradentes
+2858,F,Casado(a),3,Cidade tiradentes
+3258,F,Solteiro(a),3,Cidade tiradentes
+3324,F,Casado(a),3,Cidade tiradentes
+3370,F,Solteiro(a),3,Cidade tiradentes
+3416,F,Casado(a),3,Cidade tiradentes
+3437,F,Solteiro(a),3,Cidade tiradentes
+3571,F,Solteiro(a),3,Cidade tiradentes
+3933,F,Casado(a),3,Cidade tiradentes
+3982,F,Solteiro(a),3,Cidade tiradentes
+4384,F,Solteiro(a),3,Cidade tiradentes
+4408,F,Solteiro(a),3,Cidade tiradentes
+4438,F,Solteiro(a),3,Cidade tiradentes
+4538,F,Solteiro(a),3,Cidade tiradentes
+4646,F,Casado(a),3,Cidade tiradentes
+4652,F,Casado(a),3,Cidade tiradentes
+4661,F,Casado(a),3,Cidade tiradentes
+4714,F,Solteiro(a),3,Cidade tiradentes
+4738,F,Solteiro(a),3,Cidade tiradentes
+4768,F,Solteiro(a),3,Cidade tiradentes
+4785,F,Solteiro(a),3,Cidade tiradentes
+4825,F,Casado(a),3,Cidade tiradentes
+4912,F,Solteiro(a),3,Cidade tiradentes
+5079,F,Casado(a),3,Cidade tiradentes
+5081,F,Solteiro(a),3,Cidade tiradentes
+5108,F,Casado(a),3,Cidade tiradentes
+5235,F,Solteiro(a),3,Cidade tiradentes
+5250,F,Casado(a),3,Cidade tiradentes
+5283,F,Solteiro(a),3,Cidade tiradentes
+5307,F,Casado(a),3,Cidade tiradentes
+5347,F,Solteiro(a),3,Cidade tiradentes
+5381,F,Casado(a),3,Cidade tiradentes
+5427,F,Solteiro(a),3,Cidade tiradentes
+5493,F,Casado(a),3,Cidade tiradentes
+5548,F,Solteiro(a),3,Cidade tiradentes
+5553,F,Solteiro(a),3,Cidade tiradentes
+5674,F,Solteiro(a),3,Cidade tiradentes
+5767,F,Casado(a),3,Cidade tiradentes
+6075,F,Casado(a),3,Cidade tiradentes
+6402,F,Solteiro(a),3,Cidade tiradentes
+6696,F,Casado(a),3,Cidade tiradentes
+7000,F,Solteiro(a),3,Cidade tiradentes
+7324,F,Solteiro(a),3,Cidade tiradentes
+7332,F,Solteiro(a),3,Cidade tiradentes
+7412,F,Casado(a),3,Cidade tiradentes
+7459,F,Casado(a),3,Cidade tiradentes
+7460,F,Casado(a),3,Cidade tiradentes
+7476,F,Solteiro(a),3,Cidade tiradentes
+7630,F,Casado(a),3,Cidade tiradentes
+7674,F,Casado(a),3,Cidade tiradentes
+8002,F,Solteiro(a),3,Cidade tiradentes
+8129,F,Solteiro(a),3,Cidade tiradentes
+8163,F,Casado(a),3,Cidade tiradentes
+8224,F,Casado(a),3,Cidade tiradentes
+8345,F,Solteiro(a),3,Cidade tiradentes
+8350,F,Solteiro(a),3,Cidade tiradentes
+8462,F,Solteiro(a),3,Cidade tiradentes
+8510,F,Casado(a),3,Cidade tiradentes
+8621,F,Casado(a),3,Cidade tiradentes
+8751,F,Casado(a),3,Cidade tiradentes
+8813,F,Casado(a),3,Cidade tiradentes
+8867,F,Casado(a),3,Cidade tiradentes
+9033,F,Casado(a),3,Cidade tiradentes
+9095,F,Solteiro(a),3,Cidade tiradentes
+9311,F,Solteiro(a),3,Cidade tiradentes
+9402,F,Casado(a),3,Cidade tiradentes
+9471,F,Casado(a),3,Cidade tiradentes
+9558,F,Casado(a),3,Cidade tiradentes
+9622,F,Solteiro(a),3,Cidade tiradentes
+9880,F,Casado(a),3,Cidade tiradentes
+9931,F,Casado(a),3,Cidade tiradentes
+9990,F,Solteiro(a),3,Cidade tiradentes
+10029,F,Casado(a),3,Cidade tiradentes
+10214,F,Casado(a),3,Cidade tiradentes
+10263,F,Solteiro(a),3,Cidade tiradentes
+927,M,Casado(a),3,Cidade tiradentes
+1022,M,Casado(a),3,Cidade tiradentes
+1092,M,Casado(a),3,Cidade tiradentes
+1101,M,Casado(a),3,Cidade tiradentes
+1167,M,Casado(a),3,Cidade tiradentes
+1424,M,Casado(a),3,Cidade tiradentes
+1475,M,Casado(a),3,Cidade tiradentes
+1683,M,Casado(a),3,Cidade tiradentes
+1719,M,Casado(a),3,Cidade tiradentes
+2051,M,Casado(a),3,Cidade tiradentes
+2219,M,Casado(a),3,Cidade tiradentes
+2381,M,Casado(a),3,Cidade tiradentes
+2834,M,Casado(a),3,Cidade tiradentes
+3085,M,Casado(a),3,Cidade tiradentes
+3100,M,Casado(a),3,Cidade tiradentes
+3587,M,Casado(a),3,Cidade tiradentes
+3592,M,Casado(a),3,Cidade tiradentes
+3730,M,Casado(a),3,Cidade tiradentes
+3901,M,Casado(a),3,Cidade tiradentes
+3964,M,Casado(a),3,Cidade tiradentes
+4058,M,Casado(a),3,Cidade tiradentes
+4104,M,Casado(a),3,Cidade tiradentes
+4653,M,Casado(a),3,Cidade tiradentes
+4756,M,Casado(a),3,Cidade tiradentes
+5007,M,Casado(a),3,Cidade tiradentes
+5029,M,Casado(a),3,Cidade tiradentes
+5113,M,Casado(a),3,Cidade tiradentes
+5136,M,Casado(a),3,Cidade tiradentes
+5192,M,Casado(a),3,Cidade tiradentes
+5279,M,Casado(a),3,Cidade tiradentes
+5558,M,Casado(a),3,Cidade tiradentes
+5959,M,Casado(a),3,Cidade tiradentes
+6032,M,Casado(a),3,Cidade tiradentes
+6209,M,Casado(a),3,Cidade tiradentes
+6394,M,Casado(a),3,Cidade tiradentes
+6400,M,Casado(a),3,Cidade tiradentes
+6518,M,Casado(a),3,Cidade tiradentes
+6821,M,Casado(a),3,Cidade tiradentes
+6855,M,Casado(a),3,Cidade tiradentes
+7409,M,Casado(a),3,Cidade tiradentes
+7448,M,Casado(a),3,Cidade tiradentes
+7626,M,Casado(a),3,Cidade tiradentes
+7684,M,Casado(a),3,Cidade tiradentes
+7708,M,Casado(a),3,Cidade tiradentes
+7711,M,Casado(a),3,Cidade tiradentes
+7718,M,Casado(a),3,Cidade tiradentes
+7839,M,Casado(a),3,Cidade tiradentes
+8145,M,Casado(a),3,Cidade tiradentes
+8371,M,Casado(a),3,Cidade tiradentes
+8569,M,Casado(a),3,Cidade tiradentes
+8723,M,Casado(a),3,Cidade tiradentes
+8858,M,Casado(a),3,Cidade tiradentes
+9119,M,Casado(a),3,Cidade tiradentes
+9244,M,Casado(a),3,Cidade tiradentes
+9262,M,Casado(a),3,Cidade tiradentes
+9726,M,Casado(a),3,Cidade tiradentes
+9985,M,Casado(a),3,Cidade tiradentes
+10061,M,Casado(a),3,Cidade tiradentes
+1228,M,Solteiro(a),3,Cidade tiradentes
+1236,M,Solteiro(a),3,Cidade tiradentes
+1344,M,Solteiro(a),3,Cidade tiradentes
+1377,M,Solteiro(a),3,Cidade tiradentes
+1480,M,Solteiro(a),3,Cidade tiradentes
+1777,M,Solteiro(a),3,Cidade tiradentes
+1899,M,Solteiro(a),3,Cidade tiradentes
+2124,M,Solteiro(a),3,Cidade tiradentes
+2128,M,Solteiro(a),3,Cidade tiradentes
+2286,M,Solteiro(a),3,Cidade tiradentes
+2323,M,Solteiro(a),3,Cidade tiradentes
+2523,M,Solteiro(a),3,Cidade tiradentes
+2549,M,Solteiro(a),3,Cidade tiradentes
+2628,M,Solteiro(a),3,Cidade tiradentes
+2870,M,Solteiro(a),3,Cidade tiradentes
+3010,M,Solteiro(a),3,Cidade tiradentes
+3226,M,Solteiro(a),3,Cidade tiradentes
+3345,M,Solteiro(a),3,Cidade tiradentes
+3553,M,Solteiro(a),3,Cidade tiradentes
+3809,M,Solteiro(a),3,Cidade tiradentes
+3864,M,Solteiro(a),3,Cidade tiradentes
+3961,M,Solteiro(a),3,Cidade tiradentes
+4407,M,Solteiro(a),3,Cidade tiradentes
+4409,M,Solteiro(a),3,Cidade tiradentes
+4586,M,Solteiro(a),3,Cidade tiradentes
+4599,M,Solteiro(a),3,Cidade tiradentes
+4870,M,Solteiro(a),3,Cidade tiradentes
+4888,M,Solteiro(a),3,Cidade tiradentes
+4941,M,Solteiro(a),3,Cidade tiradentes
+5171,M,Solteiro(a),3,Cidade tiradentes
+5457,M,Solteiro(a),3,Cidade tiradentes
+5494,M,Solteiro(a),3,Cidade tiradentes
+5576,M,Solteiro(a),3,Cidade tiradentes
+5960,M,Solteiro(a),3,Cidade tiradentes
+5965,M,Solteiro(a),3,Cidade tiradentes
+6033,M,Solteiro(a),3,Cidade tiradentes
+6034,M,Solteiro(a),3,Cidade tiradentes
+6099,M,Solteiro(a),3,Cidade tiradentes
+6135,M,Solteiro(a),3,Cidade tiradentes
+6141,M,Solteiro(a),3,Cidade tiradentes
+6287,M,Solteiro(a),3,Cidade tiradentes
+6464,M,Solteiro(a),3,Cidade tiradentes
+6787,M,Solteiro(a),3,Cidade tiradentes
+6927,M,Solteiro(a),3,Cidade tiradentes
+6975,M,Solteiro(a),3,Cidade tiradentes
+7286,M,Solteiro(a),3,Cidade tiradentes
+7364,M,Solteiro(a),3,Cidade tiradentes
+7628,M,Solteiro(a),3,Cidade tiradentes
+7934,M,Solteiro(a),3,Cidade tiradentes
+7939,M,Solteiro(a),3,Cidade tiradentes
+8008,M,Solteiro(a),3,Cidade tiradentes
+8070,M,Solteiro(a),3,Cidade tiradentes
+8204,M,Solteiro(a),3,Cidade tiradentes
+8247,M,Solteiro(a),3,Cidade tiradentes
+8248,M,Solteiro(a),3,Cidade tiradentes
+8375,M,Solteiro(a),3,Cidade tiradentes
+8438,M,Solteiro(a),3,Cidade tiradentes
+8825,M,Solteiro(a),3,Cidade tiradentes
+8927,M,Solteiro(a),3,Cidade tiradentes
+9252,M,Solteiro(a),3,Cidade tiradentes
+9350,M,Solteiro(a),3,Cidade tiradentes
+9426,M,Solteiro(a),3,Cidade tiradentes
+9546,M,Solteiro(a),3,Cidade tiradentes
+9598,M,Solteiro(a),3,Cidade tiradentes
+9662,M,Solteiro(a),3,Cidade tiradentes
+9710,M,Solteiro(a),3,Cidade tiradentes
+9744,M,Solteiro(a),3,Cidade tiradentes
+9771,M,Solteiro(a),3,Cidade tiradentes
+10205,M,Solteiro(a),3,Cidade tiradentes
+10210,M,Solteiro(a),3,Cidade tiradentes
+9,F,Casado(a),5,Cidade tiradentes
+59,F,Casado(a),5,Cidade tiradentes
+121,F,Solteiro(a),5,Cidade tiradentes
+296,F,Casado(a),5,Cidade tiradentes
+297,F,Casado(a),5,Cidade tiradentes
+423,F,Solteiro(a),5,Cidade tiradentes
+728,F,Casado(a),5,Cidade tiradentes
+732,F,Solteiro(a),5,Cidade tiradentes
+868,F,Solteiro(a),5,Cidade tiradentes
+876,F,Casado(a),5,Cidade tiradentes
+895,F,Solteiro(a),5,Cidade tiradentes
+896,F,Casado(a),5,Cidade tiradentes
+1109,F,Solteiro(a),5,Cidade tiradentes
+1190,F,Solteiro(a),5,Cidade tiradentes
+1408,F,Solteiro(a),5,Cidade tiradentes
+1502,F,Solteiro(a),5,Cidade tiradentes
+1939,F,Casado(a),5,Cidade tiradentes
+1966,F,Solteiro(a),5,Cidade tiradentes
+2066,F,Casado(a),5,Cidade tiradentes
+2176,F,Casado(a),5,Cidade tiradentes
+2191,F,Casado(a),5,Cidade tiradentes
+2300,F,Solteiro(a),5,Cidade tiradentes
+2475,F,Solteiro(a),5,Cidade tiradentes
+2618,F,Casado(a),5,Cidade tiradentes
+2651,F,Casado(a),5,Cidade tiradentes
+2688,F,Casado(a),5,Cidade tiradentes
+2708,F,Casado(a),5,Cidade tiradentes
+2802,F,Casado(a),5,Cidade tiradentes
+3233,F,Solteiro(a),5,Cidade tiradentes
+3282,F,Casado(a),5,Cidade tiradentes
+3879,F,Solteiro(a),5,Cidade tiradentes
+4111,F,Casado(a),5,Cidade tiradentes
+4170,F,Solteiro(a),5,Cidade tiradentes
+4216,F,Casado(a),5,Cidade tiradentes
+4426,F,Casado(a),5,Cidade tiradentes
+4495,F,Solteiro(a),5,Cidade tiradentes
+4525,F,Solteiro(a),5,Cidade tiradentes
+4680,F,Solteiro(a),5,Cidade tiradentes
+5448,F,Casado(a),5,Cidade tiradentes
+5512,F,Solteiro(a),5,Cidade tiradentes
+5839,F,Solteiro(a),5,Cidade tiradentes
+6006,F,Solteiro(a),5,Cidade tiradentes
+6175,F,Casado(a),5,Cidade tiradentes
+6259,F,Solteiro(a),5,Cidade tiradentes
+6387,F,Solteiro(a),5,Cidade tiradentes
+6424,F,Solteiro(a),5,Cidade tiradentes
+6446,F,Solteiro(a),5,Cidade tiradentes
+6603,F,Casado(a),5,Cidade tiradentes
+6886,F,Solteiro(a),5,Cidade tiradentes
+7155,F,Casado(a),5,Cidade tiradentes
+7619,F,Solteiro(a),5,Cidade tiradentes
+7731,F,Casado(a),5,Cidade tiradentes
+7747,F,Casado(a),5,Cidade tiradentes
+7863,F,Casado(a),5,Cidade tiradentes
+7880,F,Solteiro(a),5,Cidade tiradentes
+7993,F,Solteiro(a),5,Cidade tiradentes
+8376,F,Casado(a),5,Cidade tiradentes
+8381,F,Solteiro(a),5,Cidade tiradentes
+8698,F,Solteiro(a),5,Cidade tiradentes
+8700,F,Solteiro(a),5,Cidade tiradentes
+8991,F,Solteiro(a),5,Cidade tiradentes
+9143,F,Casado(a),5,Cidade tiradentes
+9217,F,Solteiro(a),5,Cidade tiradentes
+9395,F,Solteiro(a),5,Cidade tiradentes
+9464,F,Solteiro(a),5,Cidade tiradentes
+9680,F,Solteiro(a),5,Cidade tiradentes
+1037,M,Solteiro(a),5,Cidade tiradentes
+1127,M,Solteiro(a),5,Cidade tiradentes
+1180,M,Casado(a),5,Cidade tiradentes
+1256,M,Casado(a),5,Cidade tiradentes
+1262,M,Solteiro(a),5,Cidade tiradentes
+1350,M,Casado(a),5,Cidade tiradentes
+1376,M,Casado(a),5,Cidade tiradentes
+1512,M,Solteiro(a),5,Cidade tiradentes
+1799,M,Solteiro(a),5,Cidade tiradentes
+1815,M,Casado(a),5,Cidade tiradentes
+2282,M,Casado(a),5,Cidade tiradentes
+2337,M,Casado(a),5,Cidade tiradentes
+2491,M,Casado(a),5,Cidade tiradentes
+2516,M,Casado(a),5,Cidade tiradentes
+2861,M,Casado(a),5,Cidade tiradentes
+2901,M,Solteiro(a),5,Cidade tiradentes
+3125,M,Solteiro(a),5,Cidade tiradentes
+3771,M,Solteiro(a),5,Cidade tiradentes
+4033,M,Solteiro(a),5,Cidade tiradentes
+4320,M,Casado(a),5,Cidade tiradentes
+4337,M,Solteiro(a),5,Cidade tiradentes
+4972,M,Casado(a),5,Cidade tiradentes
+5001,M,Solteiro(a),5,Cidade tiradentes
+5014,M,Solteiro(a),5,Cidade tiradentes
+5055,M,Solteiro(a),5,Cidade tiradentes
+5084,M,Casado(a),5,Cidade tiradentes
+5203,M,Casado(a),5,Cidade tiradentes
+5281,M,Solteiro(a),5,Cidade tiradentes
+5660,M,Solteiro(a),5,Cidade tiradentes
+5938,M,Casado(a),5,Cidade tiradentes
+6193,M,Casado(a),5,Cidade tiradentes
+6429,M,Solteiro(a),5,Cidade tiradentes
+6444,M,Solteiro(a),5,Cidade tiradentes
+6587,M,Casado(a),5,Cidade tiradentes
+6782,M,Solteiro(a),5,Cidade tiradentes
+6818,M,Solteiro(a),5,Cidade tiradentes
+6923,M,Solteiro(a),5,Cidade tiradentes
+7407,M,Casado(a),5,Cidade tiradentes
+7703,M,Solteiro(a),5,Cidade tiradentes
+7753,M,Casado(a),5,Cidade tiradentes
+8115,M,Casado(a),5,Cidade tiradentes
+8710,M,Casado(a),5,Cidade tiradentes
+8929,M,Casado(a),5,Cidade tiradentes
+9010,M,Casado(a),5,Cidade tiradentes
+9444,M,Solteiro(a),5,Cidade tiradentes
+9492,M,Casado(a),5,Cidade tiradentes
+9621,M,Casado(a),5,Cidade tiradentes
+9854,M,Solteiro(a),5,Cidade tiradentes
+10080,M,Casado(a),5,Cidade tiradentes
+10147,M,Casado(a),5,Cidade tiradentes
+71,F,Solteiro(a),5,São Miguel Paulista
+135,F,Casado(a),5,São Miguel Paulista
+919,M,Casado(a),5,São Miguel Paulista
+921,M,Solteiro(a),5,São Miguel Paulista
+948,M,Solteiro(a),5,São Miguel Paulista
+1117,M,Solteiro(a),5,São Miguel Paulista
+1174,M,Solteiro(a),5,São Miguel Paulista
+1393,M,Solteiro(a),5,São Miguel Paulista
+1396,F,Solteiro(a),5,São Miguel Paulista
+1788,F,Casado(a),5,São Miguel Paulista
+1812,M,Solteiro(a),5,São Miguel Paulista
+1825,M,Casado(a),5,São Miguel Paulista
+1882,M,Solteiro(a),5,São Miguel Paulista
+2082,M,Solteiro(a),5,São Miguel Paulista
+2175,F,Casado(a),5,São Miguel Paulista
+2181,M,Solteiro(a),5,São Miguel Paulista
+2341,M,Casado(a),5,São Miguel Paulista
+2434,F,Solteiro(a),5,São Miguel Paulista
+2634,F,Casado(a),5,São Miguel Paulista
+2911,M,Solteiro(a),5,São Miguel Paulista
+3077,M,Solteiro(a),5,São Miguel Paulista
+3168,M,Casado(a),5,São Miguel Paulista
+3174,F,Casado(a),5,São Miguel Paulista
+3195,M,Solteiro(a),5,São Miguel Paulista
+3197,F,Solteiro(a),5,São Miguel Paulista
+3365,F,Solteiro(a),5,São Miguel Paulista
+3560,M,Solteiro(a),5,São Miguel Paulista
+3805,M,Solteiro(a),5,São Miguel Paulista
+3949,M,Casado(a),5,São Miguel Paulista
+4071,F,Casado(a),5,São Miguel Paulista
+4187,F,Casado(a),5,São Miguel Paulista
+4198,F,Casado(a),5,São Miguel Paulista
+4260,M,Solteiro(a),5,São Miguel Paulista
+4351,M,Solteiro(a),5,São Miguel Paulista
+4567,M,Casado(a),5,São Miguel Paulista
+4571,F,Casado(a),5,São Miguel Paulista
+4810,F,Solteiro(a),5,São Miguel Paulista
+4826,F,Solteiro(a),5,São Miguel Paulista
+5277,M,Casado(a),5,São Miguel Paulista
+5351,F,Solteiro(a),5,São Miguel Paulista
+5578,F,Solteiro(a),5,São Miguel Paulista
+5707,F,Casado(a),5,São Miguel Paulista
+5722,M,Casado(a),5,São Miguel Paulista
+5926,F,Solteiro(a),5,São Miguel Paulista
+5976,M,Solteiro(a),5,São Miguel Paulista
+6048,M,Solteiro(a),5,São Miguel Paulista
+6876,M,Casado(a),5,São Miguel Paulista
+7015,M,Solteiro(a),5,São Miguel Paulista
+7238,M,Solteiro(a),5,São Miguel Paulista
+7424,F,Solteiro(a),5,São Miguel Paulista
+7675,M,Solteiro(a),5,São Miguel Paulista
+7794,M,Casado(a),5,São Miguel Paulista
+8069,M,Solteiro(a),5,São Miguel Paulista
+8191,M,Casado(a),5,São Miguel Paulista
+8287,M,Casado(a),5,São Miguel Paulista
+8388,F,Casado(a),5,São Miguel Paulista
+9134,M,Casado(a),5,São Miguel Paulista
+9169,F,Casado(a),5,São Miguel Paulista
+9292,M,Casado(a),5,São Miguel Paulista
+9301,F,Casado(a),5,São Miguel Paulista
+9374,M,Casado(a),5,São Miguel Paulista
+9425,F,Casado(a),5,São Miguel Paulista
+9665,M,Solteiro(a),5,São Miguel Paulista
+9887,M,Casado(a),5,São Miguel Paulista
+10000,F,Solteiro(a),5,São Miguel Paulista
+10241,F,Casado(a),5,São Miguel Paulista
+938,M,Casado(a),4,São Miguel Paulista
+972,M,Solteiro(a),4,São Miguel Paulista
+1289,M,Casado(a),4,São Miguel Paulista
+1325,M,Solteiro(a),4,São Miguel Paulista
+1478,M,Casado(a),4,São Miguel Paulista
+1977,M,Casado(a),4,São Miguel Paulista
+2077,M,Casado(a),4,São Miguel Paulista
+2229,M,Solteiro(a),4,São Miguel Paulista
+2309,M,Solteiro(a),4,São Miguel Paulista
+2489,M,Casado(a),4,São Miguel Paulista
+2814,M,Solteiro(a),4,São Miguel Paulista
+2986,M,Solteiro(a),4,São Miguel Paulista
+3080,M,Casado(a),4,São Miguel Paulista
+3277,M,Casado(a),4,São Miguel Paulista
+3489,M,Solteiro(a),4,São Miguel Paulista
+3725,M,Casado(a),4,São Miguel Paulista
+3916,M,Solteiro(a),4,São Miguel Paulista
+3957,M,Solteiro(a),4,São Miguel Paulista
+4101,M,Solteiro(a),4,São Miguel Paulista
+4429,M,Solteiro(a),4,São Miguel Paulista
+4504,M,Casado(a),4,São Miguel Paulista
+4907,M,Solteiro(a),4,São Miguel Paulista
+4947,M,Casado(a),4,São Miguel Paulista
+4956,M,Casado(a),4,São Miguel Paulista
+5090,M,Solteiro(a),4,São Miguel Paulista
+5430,M,Solteiro(a),4,São Miguel Paulista
+5557,M,Solteiro(a),4,São Miguel Paulista
+5605,M,Casado(a),4,São Miguel Paulista
+5666,M,Solteiro(a),4,São Miguel Paulista
+6081,M,Casado(a),4,São Miguel Paulista
+6111,M,Solteiro(a),4,São Miguel Paulista
+6205,M,Casado(a),4,São Miguel Paulista
+6240,M,Solteiro(a),4,São Miguel Paulista
+6888,M,Solteiro(a),4,São Miguel Paulista
+7158,M,Solteiro(a),4,São Miguel Paulista
+7176,M,Casado(a),4,São Miguel Paulista
+7240,M,Solteiro(a),4,São Miguel Paulista
+7321,M,Casado(a),4,São Miguel Paulista
+7929,M,Casado(a),4,São Miguel Paulista
+8106,M,Solteiro(a),4,São Miguel Paulista
+8118,M,Solteiro(a),4,São Miguel Paulista
+8206,M,Solteiro(a),4,São Miguel Paulista
+8649,M,Casado(a),4,São Miguel Paulista
+8669,M,Casado(a),4,São Miguel Paulista
+8761,M,Solteiro(a),4,São Miguel Paulista
+8865,M,Solteiro(a),4,São Miguel Paulista
+9042,M,Casado(a),4,São Miguel Paulista
+9176,M,Solteiro(a),4,São Miguel Paulista
+9398,M,Casado(a),4,São Miguel Paulista
+9498,M,Solteiro(a),4,São Miguel Paulista
+9525,M,Solteiro(a),4,São Miguel Paulista
+9595,M,Casado(a),4,São Miguel Paulista
+9620,M,Solteiro(a),4,São Miguel Paulista
+497,F,Solteiro(a),4,São Miguel Paulista
+588,F,Casado(a),4,São Miguel Paulista
+615,F,Casado(a),4,São Miguel Paulista
+670,F,Solteiro(a),4,São Miguel Paulista
+739,F,Casado(a),4,São Miguel Paulista
+838,F,Solteiro(a),4,São Miguel Paulista
+1062,F,Casado(a),4,São Miguel Paulista
+1260,F,Casado(a),4,São Miguel Paulista
+1402,F,Casado(a),4,São Miguel Paulista
+1449,F,Solteiro(a),4,São Miguel Paulista
+1832,F,Solteiro(a),4,São Miguel Paulista
+1958,F,Solteiro(a),4,São Miguel Paulista
+2070,F,Casado(a),4,São Miguel Paulista
+2467,F,Casado(a),4,São Miguel Paulista
+2476,F,Solteiro(a),4,São Miguel Paulista
+2532,F,Solteiro(a),4,São Miguel Paulista
+2551,F,Casado(a),4,São Miguel Paulista
+2622,F,Solteiro(a),4,São Miguel Paulista
+3377,F,Casado(a),4,São Miguel Paulista
+3602,F,Solteiro(a),4,São Miguel Paulista
+3689,F,Casado(a),4,São Miguel Paulista
+3713,F,Solteiro(a),4,São Miguel Paulista
+3747,F,Solteiro(a),4,São Miguel Paulista
+3761,F,Solteiro(a),4,São Miguel Paulista
+3762,F,Casado(a),4,São Miguel Paulista
+3909,F,Solteiro(a),4,São Miguel Paulista
+3978,F,Casado(a),4,São Miguel Paulista
+4003,F,Casado(a),4,São Miguel Paulista
+4152,F,Solteiro(a),4,São Miguel Paulista
+4174,F,Solteiro(a),4,São Miguel Paulista
+4202,F,Casado(a),4,São Miguel Paulista
+4284,F,Casado(a),4,São Miguel Paulista
+4965,F,Solteiro(a),4,São Miguel Paulista
+5019,F,Casado(a),4,São Miguel Paulista
+5078,F,Solteiro(a),4,São Miguel Paulista
+5294,F,Solteiro(a),4,São Miguel Paulista
+5406,F,Solteiro(a),4,São Miguel Paulista
+5424,F,Solteiro(a),4,São Miguel Paulista
+5624,F,Solteiro(a),4,São Miguel Paulista
+5654,F,Solteiro(a),4,São Miguel Paulista
+5787,F,Solteiro(a),4,São Miguel Paulista
+5872,F,Casado(a),4,São Miguel Paulista
+6563,F,Solteiro(a),4,São Miguel Paulista
+6895,F,Casado(a),4,São Miguel Paulista
+6950,F,Solteiro(a),4,São Miguel Paulista
+7121,F,Solteiro(a),4,São Miguel Paulista
+7169,F,Solteiro(a),4,São Miguel Paulista
+7213,F,Solteiro(a),4,São Miguel Paulista
+7216,F,Casado(a),4,São Miguel Paulista
+7451,F,Solteiro(a),4,São Miguel Paulista
+7627,F,Casado(a),4,São Miguel Paulista
+7917,F,Solteiro(a),4,São Miguel Paulista
+8077,F,Solteiro(a),4,São Miguel Paulista
+8231,F,Casado(a),4,São Miguel Paulista
+8237,F,Solteiro(a),4,São Miguel Paulista
+8341,F,Solteiro(a),4,São Miguel Paulista
+8364,F,Casado(a),4,São Miguel Paulista
+8577,F,Casado(a),4,São Miguel Paulista
+9349,F,Solteiro(a),4,São Miguel Paulista
+9354,F,Casado(a),4,São Miguel Paulista
+9512,F,Casado(a),4,São Miguel Paulista
+9574,F,Casado(a),4,São Miguel Paulista
+9678,F,Solteiro(a),4,São Miguel Paulista
+9743,F,Casado(a),4,São Miguel Paulista
+9842,F,Casado(a),4,São Miguel Paulista
+9901,F,Casado(a),4,São Miguel Paulista
+10113,F,Solteiro(a),4,São Miguel Paulista
+10242,F,Casado(a),4,São Miguel Paulista
+913,M,Casado(a),2,São Miguel Paulista
+1232,M,Casado(a),2,São Miguel Paulista
+1420,M,Solteiro(a),2,São Miguel Paulista
+1641,M,Casado(a),2,São Miguel Paulista
+1823,M,Solteiro(a),2,São Miguel Paulista
+1843,M,Casado(a),2,São Miguel Paulista
+2063,M,Casado(a),2,São Miguel Paulista
+2329,M,Casado(a),2,São Miguel Paulista
+2334,M,Solteiro(a),2,São Miguel Paulista
+2797,M,Solteiro(a),2,São Miguel Paulista
+3025,M,Solteiro(a),2,São Miguel Paulista
+3192,M,Solteiro(a),2,São Miguel Paulista
+3267,M,Casado(a),2,São Miguel Paulista
+3396,M,Casado(a),2,São Miguel Paulista
+3584,M,Solteiro(a),2,São Miguel Paulista
+3795,M,Casado(a),2,São Miguel Paulista
+3823,M,Solteiro(a),2,São Miguel Paulista
+4020,M,Solteiro(a),2,São Miguel Paulista
+4070,M,Casado(a),2,São Miguel Paulista
+4437,M,Solteiro(a),2,São Miguel Paulista
+4609,M,Solteiro(a),2,São Miguel Paulista
+4803,M,Solteiro(a),2,São Miguel Paulista
+4983,M,Solteiro(a),2,São Miguel Paulista
+5002,M,Casado(a),2,São Miguel Paulista
+5053,M,Casado(a),2,São Miguel Paulista
+5172,M,Solteiro(a),2,São Miguel Paulista
+5315,M,Casado(a),2,São Miguel Paulista
+5568,M,Casado(a),2,São Miguel Paulista
+5571,M,Solteiro(a),2,São Miguel Paulista
+5927,M,Casado(a),2,São Miguel Paulista
+6076,M,Casado(a),2,São Miguel Paulista
+6097,M,Casado(a),2,São Miguel Paulista
+6415,M,Solteiro(a),2,São Miguel Paulista
+6810,M,Casado(a),2,São Miguel Paulista
+6863,M,Solteiro(a),2,São Miguel Paulista
+6968,M,Casado(a),2,São Miguel Paulista
+7061,M,Solteiro(a),2,São Miguel Paulista
+7190,M,Solteiro(a),2,São Miguel Paulista
+7304,M,Casado(a),2,São Miguel Paulista
+7337,M,Solteiro(a),2,São Miguel Paulista
+7376,M,Solteiro(a),2,São Miguel Paulista
+7485,M,Casado(a),2,São Miguel Paulista
+7598,M,Solteiro(a),2,São Miguel Paulista
+7696,M,Solteiro(a),2,São Miguel Paulista
+7745,M,Casado(a),2,São Miguel Paulista
+7860,M,Casado(a),2,São Miguel Paulista
+8039,M,Casado(a),2,São Miguel Paulista
+8166,M,Solteiro(a),2,São Miguel Paulista
+8311,M,Solteiro(a),2,São Miguel Paulista
+8333,M,Solteiro(a),2,São Miguel Paulista
+8491,M,Casado(a),2,São Miguel Paulista
+8548,M,Solteiro(a),2,São Miguel Paulista
+8946,M,Solteiro(a),2,São Miguel Paulista
+9016,M,Casado(a),2,São Miguel Paulista
+9238,M,Solteiro(a),2,São Miguel Paulista
+9592,M,Solteiro(a),2,São Miguel Paulista
+9941,M,Solteiro(a),2,São Miguel Paulista
+102,F,Casado(a),2,São Miguel Paulista
+340,F,Casado(a),2,São Miguel Paulista
+354,F,Casado(a),2,São Miguel Paulista
+462,F,Solteiro(a),2,São Miguel Paulista
+489,F,Casado(a),2,São Miguel Paulista
+491,F,Casado(a),2,São Miguel Paulista
+554,F,Solteiro(a),2,São Miguel Paulista
+622,F,Solteiro(a),2,São Miguel Paulista
+767,F,Solteiro(a),2,São Miguel Paulista
+804,F,Casado(a),2,São Miguel Paulista
+869,F,Solteiro(a),2,São Miguel Paulista
+965,F,Casado(a),2,São Miguel Paulista
+1002,F,Casado(a),2,São Miguel Paulista
+1013,F,Casado(a),2,São Miguel Paulista
+1014,F,Casado(a),2,São Miguel Paulista
+1032,F,Casado(a),2,São Miguel Paulista
+1056,F,Casado(a),2,São Miguel Paulista
+1265,F,Casado(a),2,São Miguel Paulista
+1406,F,Solteiro(a),2,São Miguel Paulista
+1550,F,Solteiro(a),2,São Miguel Paulista
+1845,F,Solteiro(a),2,São Miguel Paulista
+2015,F,Solteiro(a),2,São Miguel Paulista
+2057,F,Solteiro(a),2,São Miguel Paulista
+2094,F,Casado(a),2,São Miguel Paulista
+2439,F,Solteiro(a),2,São Miguel Paulista
+2646,F,Casado(a),2,São Miguel Paulista
+3032,F,Casado(a),2,São Miguel Paulista
+3185,F,Solteiro(a),2,São Miguel Paulista
+3234,F,Casado(a),2,São Miguel Paulista
+3278,F,Casado(a),2,São Miguel Paulista
+3335,F,Casado(a),2,São Miguel Paulista
+3406,F,Casado(a),2,São Miguel Paulista
+3583,F,Solteiro(a),2,São Miguel Paulista
+3601,F,Casado(a),2,São Miguel Paulista
+3648,F,Solteiro(a),2,São Miguel Paulista
+4350,F,Casado(a),2,São Miguel Paulista
+4475,F,Solteiro(a),2,São Miguel Paulista
+4698,F,Solteiro(a),2,São Miguel Paulista
+4878,F,Solteiro(a),2,São Miguel Paulista
+5588,F,Casado(a),2,São Miguel Paulista
+5652,F,Solteiro(a),2,São Miguel Paulista
+5712,F,Casado(a),2,São Miguel Paulista
+5727,F,Solteiro(a),2,São Miguel Paulista
+5833,F,Solteiro(a),2,São Miguel Paulista
+5999,F,Casado(a),2,São Miguel Paulista
+6041,F,Solteiro(a),2,São Miguel Paulista
+6265,F,Solteiro(a),2,São Miguel Paulista
+6369,F,Solteiro(a),2,São Miguel Paulista
+6536,F,Solteiro(a),2,São Miguel Paulista
+6597,F,Casado(a),2,São Miguel Paulista
+6910,F,Solteiro(a),2,São Miguel Paulista
+7128,F,Casado(a),2,São Miguel Paulista
+7146,F,Casado(a),2,São Miguel Paulista
+7658,F,Casado(a),2,São Miguel Paulista
+7751,F,Casado(a),2,São Miguel Paulista
+7758,F,Casado(a),2,São Miguel Paulista
+7888,F,Solteiro(a),2,São Miguel Paulista
+7896,F,Casado(a),2,São Miguel Paulista
+7969,F,Solteiro(a),2,São Miguel Paulista
+8121,F,Solteiro(a),2,São Miguel Paulista
+8497,F,Casado(a),2,São Miguel Paulista
+8498,F,Solteiro(a),2,São Miguel Paulista
+8534,F,Solteiro(a),2,São Miguel Paulista
+8687,F,Solteiro(a),2,São Miguel Paulista
+8821,F,Casado(a),2,São Miguel Paulista
+8943,F,Solteiro(a),2,São Miguel Paulista
+9413,F,Casado(a),2,São Miguel Paulista
+9559,F,Casado(a),2,São Miguel Paulista
+9697,F,Casado(a),2,São Miguel Paulista
+9754,F,Casado(a),2,São Miguel Paulista
+10048,F,Solteiro(a),2,São Miguel Paulista
+10068,F,Casado(a),2,São Miguel Paulista
+10073,F,Solteiro(a),2,São Miguel Paulista
+10225,F,Solteiro(a),2,São Miguel Paulista
+978,M,Casado(a),3,São Miguel Paulista
+1183,M,Solteiro(a),3,São Miguel Paulista
+1295,M,Casado(a),3,São Miguel Paulista
+1371,M,Casado(a),3,São Miguel Paulista
+1554,M,Casado(a),3,São Miguel Paulista
+1745,M,Casado(a),3,São Miguel Paulista
+2011,M,Casado(a),3,São Miguel Paulista
+2048,M,Solteiro(a),3,São Miguel Paulista
+2169,M,Casado(a),3,São Miguel Paulista
+2588,M,Casado(a),3,São Miguel Paulista
+3075,M,Casado(a),3,São Miguel Paulista
+3487,M,Casado(a),3,São Miguel Paulista
+3518,M,Solteiro(a),3,São Miguel Paulista
+3819,M,Solteiro(a),3,São Miguel Paulista
+4150,M,Casado(a),3,São Miguel Paulista
+4319,M,Solteiro(a),3,São Miguel Paulista
+4689,M,Casado(a),3,São Miguel Paulista
+4742,M,Solteiro(a),3,São Miguel Paulista
+4985,M,Solteiro(a),3,São Miguel Paulista
+5124,M,Solteiro(a),3,São Miguel Paulista
+5181,M,Solteiro(a),3,São Miguel Paulista
+5318,M,Solteiro(a),3,São Miguel Paulista
+5353,M,Solteiro(a),3,São Miguel Paulista
+5363,M,Solteiro(a),3,São Miguel Paulista
+5693,M,Solteiro(a),3,São Miguel Paulista
+5863,M,Casado(a),3,São Miguel Paulista
+5891,M,Casado(a),3,São Miguel Paulista
+6080,M,Casado(a),3,São Miguel Paulista
+6093,M,Casado(a),3,São Miguel Paulista
+6187,M,Solteiro(a),3,São Miguel Paulista
+6216,M,Casado(a),3,São Miguel Paulista
+6245,M,Casado(a),3,São Miguel Paulista
+6346,M,Solteiro(a),3,São Miguel Paulista
+6631,M,Casado(a),3,São Miguel Paulista
+6774,M,Casado(a),3,São Miguel Paulista
+6780,M,Casado(a),3,São Miguel Paulista
+6825,M,Casado(a),3,São Miguel Paulista
+6992,M,Solteiro(a),3,São Miguel Paulista
+7110,M,Solteiro(a),3,São Miguel Paulista
+7171,M,Solteiro(a),3,São Miguel Paulista
+7231,M,Solteiro(a),3,São Miguel Paulista
+7370,M,Solteiro(a),3,São Miguel Paulista
+7552,M,Casado(a),3,São Miguel Paulista
+7614,M,Casado(a),3,São Miguel Paulista
+7634,M,Solteiro(a),3,São Miguel Paulista
+7787,M,Solteiro(a),3,São Miguel Paulista
+8391,M,Solteiro(a),3,São Miguel Paulista
+8607,M,Solteiro(a),3,São Miguel Paulista
+8691,M,Solteiro(a),3,São Miguel Paulista
+8769,M,Casado(a),3,São Miguel Paulista
+8952,M,Solteiro(a),3,São Miguel Paulista
+9291,M,Solteiro(a),3,São Miguel Paulista
+9462,M,Casado(a),3,São Miguel Paulista
+9573,M,Casado(a),3,São Miguel Paulista
+9634,M,Casado(a),3,São Miguel Paulista
+9667,M,Casado(a),3,São Miguel Paulista
+9725,M,Casado(a),3,São Miguel Paulista
+9829,M,Solteiro(a),3,São Miguel Paulista
+9859,M,Casado(a),3,São Miguel Paulista
+9895,M,Solteiro(a),3,São Miguel Paulista
+9989,M,Casado(a),3,São Miguel Paulista
+114,F,Solteiro(a),3,São Miguel Paulista
+224,F,Casado(a),3,São Miguel Paulista
+463,F,Solteiro(a),3,São Miguel Paulista
+480,F,Casado(a),3,São Miguel Paulista
+534,F,Casado(a),3,São Miguel Paulista
+537,F,Casado(a),3,São Miguel Paulista
+546,F,Solteiro(a),3,São Miguel Paulista
+649,F,Casado(a),3,São Miguel Paulista
+680,F,Casado(a),3,São Miguel Paulista
+815,F,Casado(a),3,São Miguel Paulista
+826,F,Casado(a),3,São Miguel Paulista
+872,F,Casado(a),3,São Miguel Paulista
+971,F,Casado(a),3,São Miguel Paulista
+1038,F,Casado(a),3,São Miguel Paulista
+1425,F,Casado(a),3,São Miguel Paulista
+1542,F,Solteiro(a),3,São Miguel Paulista
+1614,F,Solteiro(a),3,São Miguel Paulista
+1836,F,Casado(a),3,São Miguel Paulista
+1894,F,Solteiro(a),3,São Miguel Paulista
+2032,F,Casado(a),3,São Miguel Paulista
+2388,F,Solteiro(a),3,São Miguel Paulista
+2481,F,Solteiro(a),3,São Miguel Paulista
+2547,F,Casado(a),3,São Miguel Paulista
+2649,F,Casado(a),3,São Miguel Paulista
+2682,F,Solteiro(a),3,São Miguel Paulista
+3056,F,Solteiro(a),3,São Miguel Paulista
+3186,F,Casado(a),3,São Miguel Paulista
+3363,F,Solteiro(a),3,São Miguel Paulista
+3419,F,Solteiro(a),3,São Miguel Paulista
+3714,F,Casado(a),3,São Miguel Paulista
+3719,F,Solteiro(a),3,São Miguel Paulista
+4374,F,Solteiro(a),3,São Miguel Paulista
+4485,F,Solteiro(a),3,São Miguel Paulista
+4807,F,Casado(a),3,São Miguel Paulista
+4823,F,Solteiro(a),3,São Miguel Paulista
+4984,F,Solteiro(a),3,São Miguel Paulista
+5284,F,Casado(a),3,São Miguel Paulista
+5418,F,Casado(a),3,São Miguel Paulista
+5618,F,Casado(a),3,São Miguel Paulista
+5657,F,Casado(a),3,São Miguel Paulista
+5803,F,Solteiro(a),3,São Miguel Paulista
+5838,F,Casado(a),3,São Miguel Paulista
+5921,F,Casado(a),3,São Miguel Paulista
+5975,F,Solteiro(a),3,São Miguel Paulista
+6324,F,Solteiro(a),3,São Miguel Paulista
+6358,F,Solteiro(a),3,São Miguel Paulista
+6714,F,Solteiro(a),3,São Miguel Paulista
+6726,F,Solteiro(a),3,São Miguel Paulista
+6812,F,Solteiro(a),3,São Miguel Paulista
+7279,F,Casado(a),3,São Miguel Paulista
+7563,F,Solteiro(a),3,São Miguel Paulista
+7593,F,Solteiro(a),3,São Miguel Paulista
+7788,F,Solteiro(a),3,São Miguel Paulista
+8044,F,Casado(a),3,São Miguel Paulista
+8397,F,Solteiro(a),3,São Miguel Paulista
+8405,F,Solteiro(a),3,São Miguel Paulista
+8434,F,Solteiro(a),3,São Miguel Paulista
+8544,F,Solteiro(a),3,São Miguel Paulista
+8578,F,Casado(a),3,São Miguel Paulista
+8683,F,Solteiro(a),3,São Miguel Paulista
+8704,F,Solteiro(a),3,São Miguel Paulista
+8746,F,Solteiro(a),3,São Miguel Paulista
+8752,F,Solteiro(a),3,São Miguel Paulista
+8773,F,Casado(a),3,São Miguel Paulista
+8873,F,Solteiro(a),3,São Miguel Paulista
+9585,F,Solteiro(a),3,São Miguel Paulista
+9586,F,Solteiro(a),3,São Miguel Paulista
+9685,F,Solteiro(a),3,São Miguel Paulista
+9784,F,Solteiro(a),3,São Miguel Paulista
+9820,F,Solteiro(a),3,São Miguel Paulista
+9954,F,Casado(a),3,São Miguel Paulista
+9967,F,Solteiro(a),3,São Miguel Paulista
+9971,F,Casado(a),3,São Miguel Paulista
+10114,F,Casado(a),3,São Miguel Paulista
+10226,F,Solteiro(a),3,São Miguel Paulista
+1026,M,Solteiro(a),1,São Miguel Paulista
+1097,M,Solteiro(a),1,São Miguel Paulista
+1113,M,Casado(a),1,São Miguel Paulista
+1197,M,Solteiro(a),1,São Miguel Paulista
+1343,M,Casado(a),1,São Miguel Paulista
+1447,M,Casado(a),1,São Miguel Paulista
+1523,M,Solteiro(a),1,São Miguel Paulista
+1588,M,Solteiro(a),1,São Miguel Paulista
+1917,M,Casado(a),1,São Miguel Paulista
+1948,M,Casado(a),1,São Miguel Paulista
+2162,M,Casado(a),1,São Miguel Paulista
+2171,M,Solteiro(a),1,São Miguel Paulista
+2433,M,Casado(a),1,São Miguel Paulista
+2446,M,Solteiro(a),1,São Miguel Paulista
+2519,M,Casado(a),1,São Miguel Paulista
+2697,M,Casado(a),1,São Miguel Paulista
+2718,M,Casado(a),1,São Miguel Paulista
+2838,M,Solteiro(a),1,São Miguel Paulista
+2967,M,Solteiro(a),1,São Miguel Paulista
+2974,M,Casado(a),1,São Miguel Paulista
+3138,M,Solteiro(a),1,São Miguel Paulista
+3177,M,Casado(a),1,São Miguel Paulista
+3259,M,Solteiro(a),1,São Miguel Paulista
+3366,M,Solteiro(a),1,São Miguel Paulista
+3372,M,Casado(a),1,São Miguel Paulista
+3422,M,Solteiro(a),1,São Miguel Paulista
+3424,M,Casado(a),1,São Miguel Paulista
+3450,M,Casado(a),1,São Miguel Paulista
+3870,M,Solteiro(a),1,São Miguel Paulista
+3928,M,Solteiro(a),1,São Miguel Paulista
+4126,M,Casado(a),1,São Miguel Paulista
+4208,M,Solteiro(a),1,São Miguel Paulista
+4235,M,Solteiro(a),1,São Miguel Paulista
+4277,M,Solteiro(a),1,São Miguel Paulista
+4531,M,Casado(a),1,São Miguel Paulista
+4607,M,Casado(a),1,São Miguel Paulista
+4610,M,Solteiro(a),1,São Miguel Paulista
+4732,M,Casado(a),1,São Miguel Paulista
+4958,M,Solteiro(a),1,São Miguel Paulista
+5017,M,Solteiro(a),1,São Miguel Paulista
+5036,M,Solteiro(a),1,São Miguel Paulista
+5223,M,Casado(a),1,São Miguel Paulista
+5258,M,Casado(a),1,São Miguel Paulista
+5672,M,Casado(a),1,São Miguel Paulista
+5852,M,Casado(a),1,São Miguel Paulista
+5923,M,Solteiro(a),1,São Miguel Paulista
+5933,M,Casado(a),1,São Miguel Paulista
+5981,M,Casado(a),1,São Miguel Paulista
+6027,M,Casado(a),1,São Miguel Paulista
+6094,M,Casado(a),1,São Miguel Paulista
+6105,M,Solteiro(a),1,São Miguel Paulista
+6159,M,Solteiro(a),1,São Miguel Paulista
+6508,M,Casado(a),1,São Miguel Paulista
+6525,M,Casado(a),1,São Miguel Paulista
+6685,M,Casado(a),1,São Miguel Paulista
+6791,M,Solteiro(a),1,São Miguel Paulista
+6944,M,Casado(a),1,São Miguel Paulista
+6998,M,Casado(a),1,São Miguel Paulista
+7276,M,Solteiro(a),1,São Miguel Paulista
+7588,M,Solteiro(a),1,São Miguel Paulista
+7700,M,Casado(a),1,São Miguel Paulista
+7728,M,Casado(a),1,São Miguel Paulista
+7746,M,Casado(a),1,São Miguel Paulista
+7958,M,Casado(a),1,São Miguel Paulista
+7976,M,Casado(a),1,São Miguel Paulista
+7994,M,Casado(a),1,São Miguel Paulista
+8176,M,Solteiro(a),1,São Miguel Paulista
+8180,M,Solteiro(a),1,São Miguel Paulista
+8203,M,Solteiro(a),1,São Miguel Paulista
+8245,M,Solteiro(a),1,São Miguel Paulista
+8315,M,Solteiro(a),1,São Miguel Paulista
+8463,M,Casado(a),1,São Miguel Paulista
+8685,M,Casado(a),1,São Miguel Paulista
+8756,M,Casado(a),1,São Miguel Paulista
+8846,M,Solteiro(a),1,São Miguel Paulista
+9004,M,Solteiro(a),1,São Miguel Paulista
+9049,M,Solteiro(a),1,São Miguel Paulista
+9063,M,Casado(a),1,São Miguel Paulista
+9149,M,Solteiro(a),1,São Miguel Paulista
+9191,M,Solteiro(a),1,São Miguel Paulista
+9197,M,Casado(a),1,São Miguel Paulista
+9456,M,Solteiro(a),1,São Miguel Paulista
+9777,M,Casado(a),1,São Miguel Paulista
+9778,M,Solteiro(a),1,São Miguel Paulista
+9891,M,Casado(a),1,São Miguel Paulista
+9896,M,Casado(a),1,São Miguel Paulista
+9942,M,Casado(a),1,São Miguel Paulista
+9984,M,Solteiro(a),1,São Miguel Paulista
+10160,M,Solteiro(a),1,São Miguel Paulista
+47,F,Casado(a),1,São Miguel Paulista
+48,F,Casado(a),1,São Miguel Paulista
+156,F,Solteiro(a),1,São Miguel Paulista
+175,F,Solteiro(a),1,São Miguel Paulista
+242,F,Solteiro(a),1,São Miguel Paulista
+286,F,Solteiro(a),1,São Miguel Paulista
+309,F,Solteiro(a),1,São Miguel Paulista
+337,F,Casado(a),1,São Miguel Paulista
+400,F,Casado(a),1,São Miguel Paulista
+510,F,Solteiro(a),1,São Miguel Paulista
+568,F,Solteiro(a),1,São Miguel Paulista
+569,F,Solteiro(a),1,São Miguel Paulista
+655,F,Casado(a),1,São Miguel Paulista
+683,F,Casado(a),1,São Miguel Paulista
+704,F,Casado(a),1,São Miguel Paulista
+731,F,Casado(a),1,São Miguel Paulista
+843,F,Solteiro(a),1,São Miguel Paulista
+1125,F,Casado(a),1,São Miguel Paulista
+1164,F,Solteiro(a),1,São Miguel Paulista
+1177,F,Solteiro(a),1,São Miguel Paulista
+1277,F,Casado(a),1,São Miguel Paulista
+1390,F,Solteiro(a),1,São Miguel Paulista
+1553,F,Casado(a),1,São Miguel Paulista
+1560,F,Solteiro(a),1,São Miguel Paulista
+1590,F,Casado(a),1,São Miguel Paulista
+1662,F,Solteiro(a),1,São Miguel Paulista
+1726,F,Solteiro(a),1,São Miguel Paulista
+1782,F,Casado(a),1,São Miguel Paulista
+1802,F,Casado(a),1,São Miguel Paulista
+1805,F,Solteiro(a),1,São Miguel Paulista
+1952,F,Casado(a),1,São Miguel Paulista
+2273,F,Solteiro(a),1,São Miguel Paulista
+2450,F,Casado(a),1,São Miguel Paulista
+2641,F,Casado(a),1,São Miguel Paulista
+2829,F,Solteiro(a),1,São Miguel Paulista
+2862,F,Casado(a),1,São Miguel Paulista
+2883,F,Casado(a),1,São Miguel Paulista
+2952,F,Solteiro(a),1,São Miguel Paulista
+2981,F,Casado(a),1,São Miguel Paulista
+3108,F,Casado(a),1,São Miguel Paulista
+3119,F,Casado(a),1,São Miguel Paulista
+3162,F,Casado(a),1,São Miguel Paulista
+3454,F,Casado(a),1,São Miguel Paulista
+3468,F,Solteiro(a),1,São Miguel Paulista
+3608,F,Casado(a),1,São Miguel Paulista
+3613,F,Solteiro(a),1,São Miguel Paulista
+3724,F,Casado(a),1,São Miguel Paulista
+3833,F,Solteiro(a),1,São Miguel Paulista
+3856,F,Casado(a),1,São Miguel Paulista
+3921,F,Solteiro(a),1,São Miguel Paulista
+4001,F,Casado(a),1,São Miguel Paulista
+4040,F,Casado(a),1,São Miguel Paulista
+4250,F,Casado(a),1,São Miguel Paulista
+4355,F,Casado(a),1,São Miguel Paulista
+4362,F,Casado(a),1,São Miguel Paulista
+4719,F,Casado(a),1,São Miguel Paulista
+4932,F,Solteiro(a),1,São Miguel Paulista
+5008,F,Solteiro(a),1,São Miguel Paulista
+5065,F,Solteiro(a),1,São Miguel Paulista
+5071,F,Casado(a),1,São Miguel Paulista
+5099,F,Casado(a),1,São Miguel Paulista
+5140,F,Solteiro(a),1,São Miguel Paulista
+5204,F,Casado(a),1,São Miguel Paulista
+5321,F,Casado(a),1,São Miguel Paulista
+5536,F,Solteiro(a),1,São Miguel Paulista
+5594,F,Solteiro(a),1,São Miguel Paulista
+5606,F,Solteiro(a),1,São Miguel Paulista
+5617,F,Solteiro(a),1,São Miguel Paulista
+5716,F,Casado(a),1,São Miguel Paulista
+6151,F,Casado(a),1,São Miguel Paulista
+6152,F,Casado(a),1,São Miguel Paulista
+6263,F,Solteiro(a),1,São Miguel Paulista
+6305,F,Solteiro(a),1,São Miguel Paulista
+6334,F,Casado(a),1,São Miguel Paulista
+6339,F,Solteiro(a),1,São Miguel Paulista
+6344,F,Solteiro(a),1,São Miguel Paulista
+6541,F,Solteiro(a),1,São Miguel Paulista
+6604,F,Solteiro(a),1,São Miguel Paulista
+6938,F,Solteiro(a),1,São Miguel Paulista
+7052,F,Casado(a),1,São Miguel Paulista
+7328,F,Solteiro(a),1,São Miguel Paulista
+7403,F,Solteiro(a),1,São Miguel Paulista
+7678,F,Solteiro(a),1,São Miguel Paulista
+7734,F,Solteiro(a),1,São Miguel Paulista
+7874,F,Casado(a),1,São Miguel Paulista
+7946,F,Casado(a),1,São Miguel Paulista
+8097,F,Casado(a),1,São Miguel Paulista
+8228,F,Solteiro(a),1,São Miguel Paulista
+8294,F,Solteiro(a),1,São Miguel Paulista
+8474,F,Casado(a),1,São Miguel Paulista
+8564,F,Casado(a),1,São Miguel Paulista
+8585,F,Casado(a),1,São Miguel Paulista
+8596,F,Solteiro(a),1,São Miguel Paulista
+8767,F,Solteiro(a),1,São Miguel Paulista
+8945,F,Solteiro(a),1,São Miguel Paulista
+8973,F,Solteiro(a),1,São Miguel Paulista
+8995,F,Casado(a),1,São Miguel Paulista
+9037,F,Casado(a),1,São Miguel Paulista
+9150,F,Casado(a),1,São Miguel Paulista
+9342,F,Casado(a),1,São Miguel Paulista
+9432,F,Solteiro(a),1,São Miguel Paulista
+9606,F,Solteiro(a),1,São Miguel Paulista
+9766,F,Casado(a),1,São Miguel Paulista
+9811,F,Solteiro(a),1,São Miguel Paulista
+9953,F,Solteiro(a),1,São Miguel Paulista
+10095,F,Solteiro(a),1,São Miguel Paulista
+10181,F,Casado(a),1,São Miguel Paulista
+10230,F,Solteiro(a),1,São Miguel Paulista
+264,F,Solteiro(a),1,Vila Prudente
+303,F,Casado(a),1,Vila Prudente
+349,F,Solteiro(a),1,Vila Prudente
+372,F,Casado(a),1,Vila Prudente
+402,F,Solteiro(a),1,Vila Prudente
+443,F,Solteiro(a),1,Vila Prudente
+492,F,Casado(a),1,Vila Prudente
+736,F,Solteiro(a),1,Vila Prudente
+841,F,Casado(a),1,Vila Prudente
+970,F,Solteiro(a),1,Vila Prudente
+1066,M,Casado(a),1,Vila Prudente
+1107,M,Solteiro(a),1,Vila Prudente
+1111,M,Casado(a),1,Vila Prudente
+1140,M,Casado(a),1,Vila Prudente
+1300,M,Casado(a),1,Vila Prudente
+1503,F,Solteiro(a),1,Vila Prudente
+1508,M,Solteiro(a),1,Vila Prudente
+1740,F,Casado(a),1,Vila Prudente
+1774,F,Solteiro(a),1,Vila Prudente
+1810,F,Casado(a),1,Vila Prudente
+1852,F,Solteiro(a),1,Vila Prudente
+1974,F,Casado(a),1,Vila Prudente
+2060,M,Solteiro(a),1,Vila Prudente
+2095,M,Casado(a),1,Vila Prudente
+2320,F,Casado(a),1,Vila Prudente
+2408,M,Casado(a),1,Vila Prudente
+2518,M,Solteiro(a),1,Vila Prudente
+2577,F,Solteiro(a),1,Vila Prudente
+2776,F,Casado(a),1,Vila Prudente
+3229,F,Solteiro(a),1,Vila Prudente
+3399,F,Solteiro(a),1,Vila Prudente
+3563,F,Casado(a),1,Vila Prudente
+3665,F,Casado(a),1,Vila Prudente
+3673,M,Casado(a),1,Vila Prudente
+3721,M,Solteiro(a),1,Vila Prudente
+3848,F,Casado(a),1,Vila Prudente
+4076,M,Casado(a),1,Vila Prudente
+4084,M,Casado(a),1,Vila Prudente
+4163,M,Solteiro(a),1,Vila Prudente
+4411,M,Solteiro(a),1,Vila Prudente
+4462,F,Casado(a),1,Vila Prudente
+4483,F,Solteiro(a),1,Vila Prudente
+4516,M,Solteiro(a),1,Vila Prudente
+4622,M,Solteiro(a),1,Vila Prudente
+4662,M,Solteiro(a),1,Vila Prudente
+4681,M,Solteiro(a),1,Vila Prudente
+4882,F,Solteiro(a),1,Vila Prudente
+4979,M,Casado(a),1,Vila Prudente
+4981,F,Solteiro(a),1,Vila Prudente
+5015,F,Casado(a),1,Vila Prudente
+5045,F,Casado(a),1,Vila Prudente
+5046,F,Solteiro(a),1,Vila Prudente
+5057,M,Casado(a),1,Vila Prudente
+5073,F,Casado(a),1,Vila Prudente
+5094,M,Solteiro(a),1,Vila Prudente
+5115,M,Solteiro(a),1,Vila Prudente
+5728,M,Casado(a),1,Vila Prudente
+5755,M,Solteiro(a),1,Vila Prudente
+5828,F,Casado(a),1,Vila Prudente
+5902,M,Casado(a),1,Vila Prudente
+6013,M,Casado(a),1,Vila Prudente
+6025,F,Solteiro(a),1,Vila Prudente
+6074,M,Casado(a),1,Vila Prudente
+6319,M,Solteiro(a),1,Vila Prudente
+6504,M,Solteiro(a),1,Vila Prudente
+6507,F,Solteiro(a),1,Vila Prudente
+6520,F,Casado(a),1,Vila Prudente
+6595,F,Casado(a),1,Vila Prudente
+6644,M,Solteiro(a),1,Vila Prudente
+6695,M,Casado(a),1,Vila Prudente
+6759,M,Solteiro(a),1,Vila Prudente
+6814,M,Casado(a),1,Vila Prudente
+6890,F,Casado(a),1,Vila Prudente
+6974,M,Solteiro(a),1,Vila Prudente
+7032,M,Casado(a),1,Vila Prudente
+7066,F,Casado(a),1,Vila Prudente
+7147,F,Solteiro(a),1,Vila Prudente
+7293,M,Solteiro(a),1,Vila Prudente
+7336,M,Solteiro(a),1,Vila Prudente
+7456,M,Solteiro(a),1,Vila Prudente
+7461,F,Solteiro(a),1,Vila Prudente
+7683,F,Casado(a),1,Vila Prudente
+7698,F,Casado(a),1,Vila Prudente
+7725,M,Casado(a),1,Vila Prudente
+7786,M,Solteiro(a),1,Vila Prudente
+7865,F,Casado(a),1,Vila Prudente
+7921,F,Solteiro(a),1,Vila Prudente
+7961,F,Casado(a),1,Vila Prudente
+7981,M,Solteiro(a),1,Vila Prudente
+8055,M,Casado(a),1,Vila Prudente
+8235,F,Solteiro(a),1,Vila Prudente
+8284,F,Solteiro(a),1,Vila Prudente
+8344,F,Casado(a),1,Vila Prudente
+8362,F,Solteiro(a),1,Vila Prudente
+8417,F,Casado(a),1,Vila Prudente
+8480,M,Solteiro(a),1,Vila Prudente
+8492,M,Solteiro(a),1,Vila Prudente
+8689,F,Solteiro(a),1,Vila Prudente
+8830,F,Solteiro(a),1,Vila Prudente
+8908,F,Solteiro(a),1,Vila Prudente
+8970,F,Solteiro(a),1,Vila Prudente
+9302,M,Casado(a),1,Vila Prudente
+9312,M,Solteiro(a),1,Vila Prudente
+9326,F,Solteiro(a),1,Vila Prudente
+9439,M,Casado(a),1,Vila Prudente
+9514,F,Solteiro(a),1,Vila Prudente
+9542,M,Solteiro(a),1,Vila Prudente
+9870,M,Solteiro(a),1,Vila Prudente
+10063,F,Solteiro(a),1,Vila Prudente
+10255,M,Solteiro(a),1,Vila Prudente
+168,F,Casado(a),4,Vila Prudente
+347,F,Solteiro(a),4,Vila Prudente
+758,F,Solteiro(a),4,Vila Prudente
+1076,F,Casado(a),4,Vila Prudente
+1418,F,Solteiro(a),4,Vila Prudente
+1494,F,Casado(a),4,Vila Prudente
+1639,F,Casado(a),4,Vila Prudente
+1728,F,Casado(a),4,Vila Prudente
+1771,M,Casado(a),4,Vila Prudente
+1925,F,Solteiro(a),4,Vila Prudente
+1980,F,Casado(a),4,Vila Prudente
+2544,F,Casado(a),4,Vila Prudente
+2759,M,Casado(a),4,Vila Prudente
+2872,F,Casado(a),4,Vila Prudente
+2965,F,Casado(a),4,Vila Prudente
+3287,F,Casado(a),4,Vila Prudente
+3446,F,Solteiro(a),4,Vila Prudente
+3504,F,Casado(a),4,Vila Prudente
+3564,F,Solteiro(a),4,Vila Prudente
+3636,F,Solteiro(a),4,Vila Prudente
+3727,F,Casado(a),4,Vila Prudente
+3739,F,Solteiro(a),4,Vila Prudente
+3861,F,Casado(a),4,Vila Prudente
+3953,F,Casado(a),4,Vila Prudente
+4018,F,Solteiro(a),4,Vila Prudente
+4048,M,Solteiro(a),4,Vila Prudente
+4117,F,Casado(a),4,Vila Prudente
+4154,F,Solteiro(a),4,Vila Prudente
+4209,M,Solteiro(a),4,Vila Prudente
+4359,M,Solteiro(a),4,Vila Prudente
+4540,F,Solteiro(a),4,Vila Prudente
+4617,M,Casado(a),4,Vila Prudente
+4709,M,Casado(a),4,Vila Prudente
+4730,F,Solteiro(a),4,Vila Prudente
+4851,F,Casado(a),4,Vila Prudente
+4917,F,Solteiro(a),4,Vila Prudente
+5215,M,Solteiro(a),4,Vila Prudente
+5310,M,Solteiro(a),4,Vila Prudente
+5555,F,Casado(a),4,Vila Prudente
+5956,M,Solteiro(a),4,Vila Prudente
+6004,F,Solteiro(a),4,Vila Prudente
+6362,F,Solteiro(a),4,Vila Prudente
+6383,M,Solteiro(a),4,Vila Prudente
+6428,M,Solteiro(a),4,Vila Prudente
+6629,F,Solteiro(a),4,Vila Prudente
+6684,M,Solteiro(a),4,Vila Prudente
+7450,M,Solteiro(a),4,Vila Prudente
+7462,F,Casado(a),4,Vila Prudente
+7586,M,Casado(a),4,Vila Prudente
+7613,M,Casado(a),4,Vila Prudente
+7843,F,Solteiro(a),4,Vila Prudente
+7950,F,Solteiro(a),4,Vila Prudente
+8060,M,Solteiro(a),4,Vila Prudente
+8141,M,Solteiro(a),4,Vila Prudente
+8183,M,Casado(a),4,Vila Prudente
+8185,F,Solteiro(a),4,Vila Prudente
+8441,F,Casado(a),4,Vila Prudente
+8587,F,Solteiro(a),4,Vila Prudente
+8625,F,Solteiro(a),4,Vila Prudente
+8626,F,Solteiro(a),4,Vila Prudente
+9178,M,Solteiro(a),4,Vila Prudente
+9205,M,Casado(a),4,Vila Prudente
+9351,F,Solteiro(a),4,Vila Prudente
+9378,M,Solteiro(a),4,Vila Prudente
+9684,M,Casado(a),4,Vila Prudente
+10023,F,Solteiro(a),4,Vila Prudente
+10028,F,Casado(a),4,Vila Prudente
+365,F,Solteiro(a),2,Vila Prudente
+394,F,Solteiro(a),2,Vila Prudente
+468,F,Casado(a),2,Vila Prudente
+604,F,Solteiro(a),2,Vila Prudente
+1057,F,Casado(a),2,Vila Prudente
+1207,M,Solteiro(a),2,Vila Prudente
+1417,F,Solteiro(a),2,Vila Prudente
+1586,F,Solteiro(a),2,Vila Prudente
+1765,M,Solteiro(a),2,Vila Prudente
+1796,F,Solteiro(a),2,Vila Prudente
+1904,M,Solteiro(a),2,Vila Prudente
+1934,F,Casado(a),2,Vila Prudente
+1985,M,Casado(a),2,Vila Prudente
+2185,F,Casado(a),2,Vila Prudente
+2227,M,Solteiro(a),2,Vila Prudente
+2501,F,Solteiro(a),2,Vila Prudente
+2732,F,Solteiro(a),2,Vila Prudente
+2815,F,Casado(a),2,Vila Prudente
+2984,F,Casado(a),2,Vila Prudente
+3038,M,Solteiro(a),2,Vila Prudente
+3439,F,Solteiro(a),2,Vila Prudente
+3549,F,Casado(a),2,Vila Prudente
+3643,F,Solteiro(a),2,Vila Prudente
+3703,M,Solteiro(a),2,Vila Prudente
+3757,M,Solteiro(a),2,Vila Prudente
+4027,F,Casado(a),2,Vila Prudente
+4241,M,Solteiro(a),2,Vila Prudente
+4323,F,Solteiro(a),2,Vila Prudente
+4394,F,Casado(a),2,Vila Prudente
+4457,M,Solteiro(a),2,Vila Prudente
+4487,F,Solteiro(a),2,Vila Prudente
+4494,F,Solteiro(a),2,Vila Prudente
+4643,F,Solteiro(a),2,Vila Prudente
+4660,M,Solteiro(a),2,Vila Prudente
+4940,F,Solteiro(a),2,Vila Prudente
+4964,F,Casado(a),2,Vila Prudente
+5005,M,Casado(a),2,Vila Prudente
+5110,F,Solteiro(a),2,Vila Prudente
+5282,F,Solteiro(a),2,Vila Prudente
+5350,M,Solteiro(a),2,Vila Prudente
+5397,M,Solteiro(a),2,Vila Prudente
+5456,F,Solteiro(a),2,Vila Prudente
+5567,M,Solteiro(a),2,Vila Prudente
+5804,M,Solteiro(a),2,Vila Prudente
+5916,F,Casado(a),2,Vila Prudente
+6157,F,Solteiro(a),2,Vila Prudente
+6495,F,Solteiro(a),2,Vila Prudente
+6581,F,Solteiro(a),2,Vila Prudente
+6751,F,Casado(a),2,Vila Prudente
+7133,F,Casado(a),2,Vila Prudente
+7438,F,Solteiro(a),2,Vila Prudente
+7525,M,Casado(a),2,Vila Prudente
+7956,F,Solteiro(a),2,Vila Prudente
+8282,F,Casado(a),2,Vila Prudente
+8770,M,Solteiro(a),2,Vila Prudente
+8854,F,Casado(a),2,Vila Prudente
+9018,M,Casado(a),2,Vila Prudente
+9199,F,Solteiro(a),2,Vila Prudente
+9253,F,Casado(a),2,Vila Prudente
+9321,M,Casado(a),2,Vila Prudente
+9939,M,Casado(a),2,Vila Prudente
+9987,F,Casado(a),2,Vila Prudente
+10043,F,Casado(a),2,Vila Prudente
+10060,F,Solteiro(a),2,Vila Prudente
+10093,M,Casado(a),2,Vila Prudente
+283,F,Solteiro(a),3,Vila Prudente
+338,F,Casado(a),3,Vila Prudente
+441,F,Casado(a),5,Vila Prudente
+566,F,Solteiro(a),5,Vila Prudente
+572,F,Casado(a),3,Vila Prudente
+612,F,Casado(a),3,Vila Prudente
+887,F,Solteiro(a),5,Vila Prudente
+1115,F,Solteiro(a),3,Vila Prudente
+1184,M,Solteiro(a),5,Vila Prudente
+1212,M,Casado(a),3,Vila Prudente
+1293,M,Casado(a),3,Vila Prudente
+1603,F,Casado(a),3,Vila Prudente
+1696,M,Solteiro(a),3,Vila Prudente
+1896,F,Casado(a),3,Vila Prudente
+1961,F,Casado(a),5,Vila Prudente
+2022,M,Solteiro(a),3,Vila Prudente
+2108,F,Casado(a),5,Vila Prudente
+2135,F,Casado(a),3,Vila Prudente
+2379,F,Casado(a),5,Vila Prudente
+2414,F,Solteiro(a),5,Vila Prudente
+2531,F,Solteiro(a),3,Vila Prudente
+2660,M,Solteiro(a),5,Vila Prudente
+2741,M,Solteiro(a),3,Vila Prudente
+2801,M,Solteiro(a),3,Vila Prudente
+2894,M,Casado(a),5,Vila Prudente
+2954,F,Solteiro(a),3,Vila Prudente
+3060,M,Solteiro(a),5,Vila Prudente
+3208,M,Solteiro(a),5,Vila Prudente
+3211,F,Solteiro(a),3,Vila Prudente
+3247,M,Solteiro(a),3,Vila Prudente
+3286,M,Solteiro(a),5,Vila Prudente
+3409,M,Casado(a),3,Vila Prudente
+3417,M,Solteiro(a),5,Vila Prudente
+3517,M,Solteiro(a),3,Vila Prudente
+3559,M,Casado(a),3,Vila Prudente
+3605,F,Solteiro(a),3,Vila Prudente
+3645,M,Solteiro(a),3,Vila Prudente
+3658,F,Casado(a),5,Vila Prudente
+3664,F,Casado(a),5,Vila Prudente
+3825,M,Solteiro(a),5,Vila Prudente
+4210,F,Solteiro(a),5,Vila Prudente
+4217,F,Casado(a),5,Vila Prudente
+4311,M,Casado(a),5,Vila Prudente
+4412,M,Solteiro(a),3,Vila Prudente
+4557,M,Casado(a),5,Vila Prudente
+4570,F,Casado(a),5,Vila Prudente
+4587,F,Casado(a),5,Vila Prudente
+4600,F,Solteiro(a),3,Vila Prudente
+4651,M,Casado(a),3,Vila Prudente
+4822,F,Casado(a),3,Vila Prudente
+5052,F,Solteiro(a),5,Vila Prudente
+5068,M,Solteiro(a),3,Vila Prudente
+5162,M,Casado(a),5,Vila Prudente
+5188,F,Casado(a),5,Vila Prudente
+5237,F,Solteiro(a),3,Vila Prudente
+5453,M,Solteiro(a),3,Vila Prudente
+5461,F,Casado(a),5,Vila Prudente
+5509,M,Casado(a),5,Vila Prudente
+5549,F,Casado(a),3,Vila Prudente
+5628,F,Casado(a),3,Vila Prudente
+5649,M,Casado(a),3,Vila Prudente
+5650,M,Solteiro(a),3,Vila Prudente
+5669,M,Solteiro(a),5,Vila Prudente
+5709,M,Solteiro(a),3,Vila Prudente
+5720,M,Solteiro(a),5,Vila Prudente
+5822,M,Solteiro(a),5,Vila Prudente
+5829,M,Casado(a),5,Vila Prudente
+5847,M,Solteiro(a),5,Vila Prudente
+5950,M,Solteiro(a),3,Vila Prudente
+6309,M,Casado(a),3,Vila Prudente
+6315,F,Solteiro(a),5,Vila Prudente
+6321,M,Solteiro(a),5,Vila Prudente
+6425,M,Casado(a),3,Vila Prudente
+6434,F,Casado(a),5,Vila Prudente
+6468,F,Casado(a),5,Vila Prudente
+6484,M,Solteiro(a),3,Vila Prudente
+6675,M,Casado(a),5,Vila Prudente
+7173,M,Solteiro(a),5,Vila Prudente
+7382,F,Casado(a),3,Vila Prudente
+7420,F,Solteiro(a),3,Vila Prudente
+7480,F,Solteiro(a),3,Vila Prudente
+7656,M,Casado(a),5,Vila Prudente
+8020,M,Solteiro(a),3,Vila Prudente
+8079,F,Solteiro(a),5,Vila Prudente
+8147,M,Casado(a),3,Vila Prudente
+8218,F,Solteiro(a),3,Vila Prudente
+8277,M,Casado(a),3,Vila Prudente
+8418,F,Solteiro(a),3,Vila Prudente
+8803,F,Casado(a),3,Vila Prudente
+8878,M,Casado(a),3,Vila Prudente
+8944,F,Solteiro(a),3,Vila Prudente
+9048,F,Solteiro(a),3,Vila Prudente
+9078,F,Casado(a),5,Vila Prudente
+9139,F,Solteiro(a),5,Vila Prudente
+9376,M,Solteiro(a),3,Vila Prudente
+9421,M,Solteiro(a),3,Vila Prudente
+9457,M,Casado(a),3,Vila Prudente
+9478,M,Casado(a),5,Vila Prudente
+9517,F,Casado(a),3,Vila Prudente
+9651,F,Solteiro(a),5,Vila Prudente
+9652,F,Casado(a),3,Vila Prudente
+9794,F,Solteiro(a),3,Vila Prudente
+9933,F,Casado(a),3,Vila Prudente
+10076,M,Casado(a),5,Vila Prudente
