@@ -48,7 +48,7 @@ Desenvolver habilidades em:
 
 ## 🔗 Acesso ao dashboard
 
-👉 [Visualizar Dashboard](COLOQUE_AQUI_O_LINK_DO_POWER_BI)
+👉 [Visualizar Dashboard](Gatito Petshop.pbix)
 
 ---
 
