@@ -31,7 +31,7 @@ O projeto foi criado com o objetivo de praticar visualização de dados, organiz
 
 ## 📷 Preview
 
-![Dashboard](assets/dashboard-petshop.png)
+![Dashboard](assets/gatitopetshop.jpg)
 
 ---
 
