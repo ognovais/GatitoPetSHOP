@@ -1,20 +1,57 @@
 # GatitoPetSHOP
-# Dashboard de Vendas - Power BI
+# 📊 Dashboard Petshop | Power BI
 
-Dashboard desenvolvido para análise de vendas, faturamento e indicadores de desempenho.
+Dashboard desenvolvido no Power BI com foco em análise de vendas, faturamento e comportamento de clientes de um petshop fictício.
 
-## Funcionalidades
-- Análise de faturamento
-- Produtos mais vendidos
-- Indicadores KPI
-- Visualização mensal de vendas
-- Segmentação por categorias
+O projeto foi criado com o objetivo de praticar visualização de dados, organização de indicadores e construção de dashboards interativos voltados para tomada de decisão.
 
-## Tecnologias
+---
+
+## 🚀 Funcionalidades
+
+- Análise de faturamento total
+- Quantidade de vendas realizadas
+- Média de pets por compra
+- Filtro por período
+- Filtro por marca
+- Ranking de faturamento por bairro
+- Evolução do faturamento ao longo do tempo
+- Distribuição de faturamento por gênero
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
 - Power BI
-- DAX
 - Power Query
-- Excel/CSV
+- DAX
+- Excel / CSV
 
-## Visualização
-[Ver Dashboard](LINK_DO_POWER_BI)
+---
+
+## 📷 Preview
+
+![Dashboard](assets/dashboard-petshop.png)
+
+---
+
+## 📈 Objetivo do projeto
+
+Desenvolver habilidades em:
+- Modelagem de dados
+- Criação de KPIs
+- Storytelling com dados
+- Visualização de informações
+- Construção de dashboards interativos
+
+---
+
+## 🔗 Acesso ao dashboard
+
+👉 [Visualizar Dashboard](COLOQUE_AQUI_O_LINK_DO_POWER_BI)
+
+---
+
+## 📌 Observações
+
+Este projeto possui finalidade educacional e foi desenvolvido para composição de portfólio.
